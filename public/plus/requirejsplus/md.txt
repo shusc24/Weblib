@@ -1,2 +1,2 @@
-1.text²å¼þµØÖ·
+1.text
 https://github.com/requirejs/text
