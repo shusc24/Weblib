@@ -1,21 +1,25 @@
-// 该文件应放置在js文件夹之下
-
 requirejs.config({
-	paths:{
-		jquery:'../lib/jquery',
-		Vue:'../lib/vue',
-		Vuemini:'../lib/vue.min',
-		layer:'../lib/layer/layer',
-		swiper:'../lib/swiper/js/swiper.min',
-		echarts:'../lib/echarts/echarts.min',
+	baseUrl:"lib/Weblib/",
 
-		// 自定义对象
-		pageAdp:'../lib/usermod/pageAdp/pageAdp',
-		Validator:'../lib/usermod/Validator/Validator',
-		VaildatorStrategies:'../lib/usermod/Validator/VaildatorStrategies',
-		listheader:'../lib/usermod/Listheader/Listheader',
-		commfn:'../lib/usermod/CommFn',
-		listheaderExtend:'../lib/usermod/Listheader/ListheaderExtend',
-		twoColsWarpper:'../lib/usermod/twoColsWarpper/twoColsWarpper',
+	paths:{
+		//核心库
+		jquery:'public/core/libs/jquery/jquery',
+		class:"public/core/libs/class/requireClass",
+		underscore:"public/core/libs/underscore/underscore",
+		Vue:"public/core/libs/vue/vue.min",
+		core:"public/core/core",
+
+		//插件库
+		layer:"public/plus/layer/layer",
+		swiper:"public/plus/swiper/js/swiper.min",
+		echarts:"public/plus/echarts/echarts.min",
+		zui:"public/plus/zui/zui",
+
+		//require插件库
+		text:"public/plus/requirejsplus/text"
+	},
+	shim:{
+		layer:['jquery'],
+		zui:['jquery']
 	}
 })
