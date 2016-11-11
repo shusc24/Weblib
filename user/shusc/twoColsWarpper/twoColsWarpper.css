@@ -1,0 +1,21 @@
+.C_twoColsWarpper { height: 100%; width: 100%; }
+
+.C_twoColsWarpper_header { height: 10%; }
+
+.C_twoColsWarpper_header_title { width: 49%; height: 100%; display: block; float: left; }
+
+.C_twoColsWarpper_Body { height: 80%; width: 100%; }
+
+.C_twoColsWarpper_Body_box { height: 100%; width: 100%; }
+
+.C_twoColsWarpper_Body_box:nth-child(2) { background-color: blue; }
+
+.C_twoColsWarpper_Body_box:nth-child(1) { background-color: yellow; }
+
+.turnon { background: #ccc; }
+
+.db { display: block; }
+
+.dn { display: none; }
+
+/*# sourceMappingURL=twoColsWarpper.css.map */
