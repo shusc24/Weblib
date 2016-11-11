@@ -1,12 +1,13 @@
+var adaptive = {};
 (function (win, lib) {
     var doc = win.document;
     var docEl = doc.documentElement;
     // 设备像素比
     var devicePixelRatio = win.devicePixelRatio;
     // 我们设置的布局视口与理想视口的像素比
-    var dpr = 1; 
+    var dpr = 1;
     // viewport缩放值
-    var scale = 1; 
+    var scale = 1;
     // 设置viewport
     function setViewport() {
         // 判断IOS
@@ -36,7 +37,7 @@
             var metaEl = doc.createElement('meta');
             metaEl.setAttribute('name', 'viewport');
             metaEl.setAttribute('content', metaStr);
-            
+
             if (docEl.firstElementChild) {
                 docEl.firstElementChild.appendChild(metaEl);
             }
@@ -47,7 +48,7 @@
             }
         }
     }
-    
+
     var newBase = 100;
     lib.errDpr = 1;
 
@@ -94,7 +95,7 @@
             hideDiv.style.visibility = 'hidden';
             document.body.appendChild(hideDiv);
             var now = hideDiv.offsetWidth;
-            var right = window.adaptive.newBase * 2.5; 
+            var right = window.adaptive.newBase * 2.5;
             if (Math.abs(right / now - 1) > 0.05) {
                 lib.errDpr = right / now;
                 setRem();
@@ -137,4 +138,13 @@
     lib.remToPx = function (remValue) {
         return remValue * newBase;
     };
-})(window, window['adaptive'] || (window['adaptive'] = {}));
+})(window, adaptive);
+if (typeof module != 'undefined' && module.exports) {
+    module.exports = adaptive;
+} else if (typeof define == 'function' && define.amd) {
+    define(function() {
+        return adaptive;
+    });
+} else {
+    window.adaptive = adaptive;
+}
