@@ -34,7 +34,7 @@ if(!this.invalid){var e=this.arg;this.arg?this.handleSingle(e,t):this.handleObje
  */
 // Inspired by base2 and Prototype
 
-(function() {
+var Class = (function() {
 
 	//initializing是为了解决我们之前说的继承导致原型有多余参数的问题。当我们直接将父类的实例赋值给子类原型时。是会调用一次父类的构造函数的。所以这边会把真正的构造流程放到init函数里面，通过initializing来表示当前是不是处于构造原型阶段，为true的话就不会调用init。
 	//fnTest用来匹配代码里面有没有使用super关键字。对于一些浏览器`function(){xyz;}`会生成个字符串，并且会把里面的代码弄出来，有的浏览器就不会。`/xyz/.test(function(){xyz;})`为true代表浏览器支持看到函数的内部代码，所以用`/\b_super\b/`来匹配。如果不行，就不管三七二十一。所有的函数都算有super关键字，于是就是个必定匹配的正则。
@@ -110,6 +110,104 @@ if(!this.invalid){var e=this.arg;this.arg?this.handleSingle(e,t):this.handleObje
 
 	}
 	
-	 window.Class = Class
+	 return Class;
+	 
+})()
+
+//组件框架
+var Base = (function() {
+
+		var _indexOf = function(array, key) {
+			if(array === null) return -1
+			var i = 0,
+				length = array.length
+			for(; i < length; i++)
+				if(array[i] === item) return i
+			return -1
+		}
+
+		var Event = Class.extend({
+			//添加监听
+			on: function(key, listener) {
+				//this.__events存储所有的处理函数
+				if(!this.__events) {
+					this.__events = {}
+				}
+				if(!this.__events[key]) {
+					this.__events[key] = []
+				}
+				
+				
+				if(_indexOf(this.__events, listener) === -1 && typeof listener === 'function') {
+					this.__events[key].push(listener)
+				}
+
+				return this
+			},
+			//触发一个事件，也就是通知
+			fire: function(key) {
+
+				if(!this.__events || !this.__events[key]) return
+				
+				//Array.prototype.slice.call(arguments)能将具有length属性的对象转成数组
+				// args 作用为 传递入 以事件为名的方法中
+				var args = Array.prototype.slice.call(arguments, 1) || []
+				var listeners = this.__events[key] //obj
+				var i = 0
+				var l = listeners.length //集合中的 方法数量
+
+				for(i; i < l; i++) {
+					listeners[i].apply(this, args)
+				}
+
+				return this
+			},
+			//取消监听
+			off: function(key, listener) {
+
+				if(!key && !listener) {
+					this.__events = {}
+				}
+				//不传监听函数，就去掉当前key下面的所有的监听函数
+				if(key && !listener) {
+					delete this.__events[key]
+				}
+
+				if(key && listener) {
+					var listeners = this.__events[key]
+					var index = _indexOf(listeners, listener)
+
+					(index > -1) && listeners.splice(index, 1)
+				}
+
+				return this;
+			}
+		})
+
+		var Base = Event.extend({
+			init: function(config) {
+				//自动保存配置项
+				this._config = config;
+				this.bind();
+				this.render();
+			},
+			get: function(key) {
+				return this._config[key]
+			},
+			set: function(key, value) {
+				this._config[key] = value;
+			},
+			bind: function() {
+
+			},
+			render: function() {
+
+			},
+			destroy: function() {
+
+			}
+		})
+		
+		return Base
 
 })()
