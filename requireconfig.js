@@ -14,6 +14,7 @@ requirejs.config({
 		swiper:"public/plus/swiper/js/swiper.min",
 		echarts:"public/plus/echarts/echarts.min",
 		zui:"public/plus/zui/zui",
+		weixin:"http://res.wx.qq.com/open/js/jweixin-1.0.0",
 
 		//require插件库
 		text:"public/plus/requirejsplus/text"

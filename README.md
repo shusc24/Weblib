@@ -46,7 +46,10 @@
  			        |---------------- selectcity (三级城市联动的插件)
  			        |
  			        |
- 			        |---------------- requirejsplus (requirejs的插件)	
+ 			        |---------------- requirejsplus (requirejs的插件)
+ 			        |
+ 			        |
+ 			        |---------------- weixin(用于微信功能)
 
  		3.user 存放成员的自定义的插件或者框架
 
