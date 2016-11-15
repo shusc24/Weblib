@@ -184,6 +184,7 @@ var Base = (function() {
 			}
 		})
 
+		//不兼容ie9以下的浏览器
 		var timer = Event.extend({
 			
 			timer:(function(){
