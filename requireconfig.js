@@ -4,7 +4,7 @@ requirejs.config({
 	paths:{
 		//核心库
 		jquery:'public/core/libs/jquery/jquery',
-		class:"public/core/libs/class/requireClass",
+		Class:"public/core/libs/class/requireClass",
 		underscore:"public/core/libs/underscore/underscore",
 		Vue:"public/core/libs/vue/vue.min",
 		core:"public/core/core",
@@ -14,13 +14,19 @@ requirejs.config({
 		swiper:"public/plus/swiper/js/swiper.min",
 		echarts:"public/plus/echarts/echarts.min",
 		zui:"public/plus/zui/zui",
-		weixin:"http://res.wx.qq.com/open/js/jweixin-1.0.0",
+		dynamics:"public/plus/dynamics/dynamics",
+
 
 		//require插件库
-		text:"public/plus/requirejsplus/text"
+		text:"public/plus/requirejsplus/text",
+		domReady:"public/plus/requirejsplus/domReady",
+
+		//user插件库
+
+
 	},
 	shim:{
 		layer:['jquery'],
-		zui:['jquery']
+		zui:['jquery'],
 	}
 })
