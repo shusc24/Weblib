@@ -15,6 +15,7 @@ requirejs.config({
 		echarts:"lib/Weblib/public/plus/echarts/echarts.min",
 		zui:"lib/Weblib/public/plus/zui/zui",
 		dynamics:"lib/Weblib/public/plus/dynamics/dynamics",
+		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
 
 
 		//require插件库
