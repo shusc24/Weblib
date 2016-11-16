@@ -7,6 +7,7 @@ requirejs.config({
 		Class:"public/core/libs/class/requireClass",
 		underscore:"public/core/libs/underscore/underscore",
 		Vue:"public/core/libs/vue/vue.min",
+		Vuex:"public/core/libs/vue/vuex",
 		core:"public/core/core",
 
 		//插件库
