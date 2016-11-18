@@ -7,7 +7,6 @@
  * 
  * */
 
-
 //下面事全局 公共函数
 define(['jquery'], function($) {
 	
