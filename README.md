@@ -1,3 +1,5 @@
+该库基于AMD
+
 1.使用说明
     1.1 放在标准路径: 根目录/lib/Weblib
     1.2 页面引入 requirejs 文件及 requireconfig 文件
