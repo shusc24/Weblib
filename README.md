@@ -63,5 +63,6 @@
 
  		3.user 存放成员的自定义的插件或者库
 
-
+日志:
+    11.22 core.js 替换undersocre 为 lodash
  		        
