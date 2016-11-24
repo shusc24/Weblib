@@ -20,7 +20,7 @@ requirejs.config({
 		domReady:"lib/Weblib/public/plus/requirejsplus/domReady",
 
 		//h5 手势库
-		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger'
+		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
 
 	},
 	shim:{
