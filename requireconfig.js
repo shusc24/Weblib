@@ -8,7 +8,6 @@ requirejs.config({
 		Vue:"lib/Weblib/public/core/libs/vue/vue.min",
 		Vuex:"lib/Weblib/public/core/libs/vue/vuex",
 		core:"lib/Weblib/public/core/core",
-
 		//插件库
 		layer:"lib/Weblib/public/plus/layer/layer",
 		swiper:"lib/Weblib/public/plus/swiper/js/swiper.min",
@@ -17,17 +16,19 @@ requirejs.config({
 		dynamics:"lib/Weblib/public/plus/dynamics/dynamics",
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
 
-
 		//require插件库
 		text:"lib/Weblib/public/plus/requirejsplus/text",
 		domReady:"lib/Weblib/public/plus/requirejsplus/domReady",
 
-		//user插件库
-
+		//h5 手势库
+		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger-master/alloy_finger',
 
 	},
 	shim:{
 		layer:['jquery'],
 		zui:['jquery'],
+		AlloyFinger:{
+			exports:'AlloyFinger'
+		},
 	}
 })
