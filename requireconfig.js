@@ -13,7 +13,6 @@ requirejs.config({
 		swiper:"lib/Weblib/public/plus/swiper/js/swiper.min",
 		echarts:"lib/Weblib/public/plus/echarts/echarts.min",
 		zui:"lib/Weblib/public/plus/zui/zui",
-		dynamics:"lib/Weblib/public/plus/dynamics/dynamics",
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
 
 		//require插件库
@@ -21,12 +20,12 @@ requirejs.config({
 		domReady:"lib/Weblib/public/plus/requirejsplus/domReady",
 
 		//h5 手势库
-		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
+		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger'
 
 	},
 	shim:{
-		layer:['jquery'],
-		zui:['jquery'],
+		layer:['core'],
+		zui:['core'],
 		AlloyFinger:{
 			exports:'AlloyFinger'
 		},
