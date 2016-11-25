@@ -31,7 +31,9 @@
  			|		|
  			|		|
  			|		|---------------- core.js 核心库文件 (存放核心库的合并文件)(jquery,lodash(基于underscore),class)
- 			|
+ 			|       |
+ 			|       |
+ 			|       |---------------- h5core.js 核心库文件(存放核心库的合并文件) zepto 1.2 underscore class
  			|
  			|
  			|
@@ -64,6 +66,9 @@
  			        |
  			        |
  			        |---------------- AlloyFinger(腾讯Alloy团队的触摸库)
+ 			        |
+ 			        |
+ 			        |---------------- sweetalert(h5 弹出层不依赖)
 
  		3.user 存放成员的自定义的插件或者库
 
