@@ -27,14 +27,13 @@
  			|-------2.1 core 核心库  (框架级核心库或者存放常用工具集合)
  			|		|		
  			|		|
- 			|		|---------------- libs 核心库 (存放核心库的分开文件) (jquery,underscore,class,vue,vuex)
+ 			|		|---------------- libs 核心库 (存放核心库的分开文件) (jquery,underscore,class,vue,vuex,backBone)
  			|		|
  			|		|
  			|		|---------------- core.js 核心库文件 (存放核心库的合并文件)(jquery,lodash(基于underscore),class)
  			|       |
  			|       |
  			|       |---------------- h5core.js 核心库文件(存放核心库的合并文件) zepto 1.2 underscore class
- 			|
  			|
  			|
  			|
@@ -73,6 +72,7 @@
  		3.user 存放成员的自定义的插件或者库
 
 日志:
+    12.5  新增backbone(1.3.3)框架
     11.24 新增 AlloyFinger 库用于触摸操作
     11.22 core.js 替换undersocre 为 lodash
  		        
