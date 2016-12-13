@@ -19,6 +19,7 @@ requirejs.config({
 		zui:"lib/Weblib/public/plus/zui/zui",
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
 		sweetalert:'lib/Weblib/public/plus/sweetalert/sweetalert.min',
+        pagination:'lib/Weblib/public/plus/pagination/lib/jquery.pagination',
 		//require插件库
 		text:"lib/Weblib/public/plus/requirejsplus/text",
 		domReady:"lib/Weblib/public/plus/requirejsplus/domReady",
