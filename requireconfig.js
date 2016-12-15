@@ -20,6 +20,7 @@ requirejs.config({
 		sweetalert:'lib/Weblib/public/plus/sweetalert/sweetalert.min',
         pagination:'lib/Weblib/public/plus/pagination/lib/jquery.pagination',
         wangEditor:"lib/Weblib/public/plus/wangEditor/js/wangEditor.min",
+        lazyload:'lib/Weblib/public/plus/lazyload/lazyload.min',
 
 		//require插件库
 		text:"lib/Weblib/public/plus/requirejsplus/text",
