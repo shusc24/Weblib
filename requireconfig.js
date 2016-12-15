@@ -1,5 +1,5 @@
 requirejs.config({
-
+	// baseUrl:"",
 	paths:{
 		//核心库
 		jquery:'lib/Weblib/public/core/libs/jquery/jquery',
@@ -19,6 +19,7 @@ requirejs.config({
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
 		sweetalert:'lib/Weblib/public/plus/sweetalert/sweetalert.min',
         pagination:'lib/Weblib/public/plus/pagination/lib/jquery.pagination',
+        wangEditor:"lib/Weblib/public/plus/wangEditor/js/wangEditor.min",
 
 		//require插件库
 		text:"lib/Weblib/public/plus/requirejsplus/text",
