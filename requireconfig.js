@@ -9,7 +9,6 @@ requirejs.config({
 		Vuex:"lib/Weblib/public/core/libs/vue/vuex",
 		core:"lib/Weblib/public/core/core",
 		h5core:"lib/Weblib/public/core/H5core",
-        backBone:"lib/Weblib/public/core/libs/backBone/backBone",
         backbone:"lib/Weblib/public/core/libs/backBone/backBone",
 		
 		//插件库
