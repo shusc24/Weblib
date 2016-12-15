@@ -18,6 +18,7 @@
  				2.1 表格系统：   1.rwdgrid.min
  				3.1 UI系统       1.weui-less
  				4.1 动画         1.animate.min
+ 				5.1 MT 工具      1.MT.scss
 
 
  		2.public 存放的js公共库	
@@ -68,10 +69,20 @@
  			        |
  			        |
  			        |---------------- sweetalert(h5 弹出层不依赖)
+ 			        |
+                    |
+                    |---------------- pagination(pc h5 分页器)
+                    |
+                    |
+                    |---------------- wangEditor(pc 富文本输入)
+                    |
+                    |
+                    |---------------- lazyload(lazyload 图片懒加载)
 
  		3.user 存放成员的自定义的插件或者库
 
 日志:
+    12.15 新增pagination 插件 ，wangEditor 插件  lazyload插件
     12.5  新增backbone(1.3.3)框架
     11.24 新增 AlloyFinger 库用于触摸操作
     11.22 core.js 替换undersocre 为 lodash
