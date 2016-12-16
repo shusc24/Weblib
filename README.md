@@ -28,7 +28,7 @@
  			|-------2.1 core 核心库  (框架级核心库或者存放常用工具集合)
  			|		|		
  			|		|
- 			|		|---------------- libs 核心库 (存放核心库的分开文件) (jquery,underscore,class,vue,vuex,backBone)
+ 			|		|---------------- libs 核心库 (存放核心库的分开文件) (jquery,underscore,class,vue,vuex,backBone,lodash)
  			|		|
  			|		|
  			|		|---------------- core.js 核心库文件 (存放核心库的合并文件)(jquery,lodash(基于underscore),class)
@@ -39,49 +39,53 @@
  			|
  			|
  			|-------2.2 plus 库 (用于存放插件级文件)
- 			        |
- 			        |
- 			        |---------------- adpPage (手机端自适应插件)
- 			        |
- 			        |
- 			        |---------------- layer  (常用的弹出层插件)
- 			        |
- 			        |
- 			        |---------------- echarts (百度echarts图表)
- 			        |
- 			        |
- 			        |---------------- swiper (常用的轮播图插件)
- 			        |
- 			        |
- 			        |---------------- zui	 (常用的自定义滚动条)
- 			        |
- 			        |
- 			        |---------------- selectcity (三级城市联动的插件)
- 			        |
- 			        |
- 			        |---------------- requirejsplus (requirejs的插件)
- 			        |
- 			        |
- 			        |---------------- weixin(微信SDK)
- 			        |
- 			        |
- 			        |---------------- AlloyFinger(腾讯Alloy团队的触摸库)
- 			        |
- 			        |
- 			        |---------------- sweetalert(h5 弹出层不依赖)
- 			        |
-                    |
-                    |---------------- pagination(pc h5 分页器)
-                    |
-                    |
-                    |---------------- wangEditor(pc 富文本输入)
-                    |
-                    |
-                    |---------------- lazyload(lazyload 图片懒加载)
+ 			|
+            |
+            |---------------- layui(ui组件， 不兼容AMD 使用时需要单独引入)
+            |
+            |
+            |---------------- adpPage (手机端自适应插件)
+            |
+            |
+            |---------------- layer  (常用的弹出层插件)
+            |
+            |
+            |---------------- echarts (百度echarts图表)
+            |
+            |
+            |---------------- swiper (常用的轮播图插件)
+            |
+            |
+            |---------------- zui	 (常用的自定义滚动条)
+            |
+            |
+            |---------------- selectcity (三级城市联动的插件)
+            |
+            |
+            |---------------- requirejsplus (requirejs的插件)
+            |
+            |
+            |---------------- weixin(微信SDK)
+            |
+            |
+            |---------------- AlloyFinger(腾讯Alloy团队的触摸库)
+            |
+            |
+            |---------------- sweetalert(h5 弹出层不依赖)
+            |
+            |
+            |---------------- pagination(pc h5 分页器)
+            |
+            |
+            |---------------- wangEditor(pc 富文本输入)
+            |
+            |
+            |---------------- lazyload(lazyload 图片懒加载)
 
  		3.user 存放成员的自定义的插件或者库
 
 日志:
+    12.16 新增layui 组件 lodash
     12.15 新增pagination 插件 ，wangEditor 插件  lazyload插件
     12.5  新增backbone(1.3.3)框架
     11.24 新增 AlloyFinger 库用于触摸操作

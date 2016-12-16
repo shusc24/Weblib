@@ -10,7 +10,8 @@ requirejs.config({
 		core:"lib/Weblib/public/core/core",
 		h5core:"lib/Weblib/public/core/H5core",
         backbone:"lib/Weblib/public/core/libs/backBone/backBone",
-		
+        backboneL:"lib/Weblib/public/core/libs/backBone/backBone-lodash",
+		lodash:"lib/Weblib/public/core/libs/lodash/lodash.min",
 		//插件库
 		layer:"lib/Weblib/public/plus/layer/layer",
 		swiper:"lib/Weblib/public/plus/swiper/js/swiper.min",
