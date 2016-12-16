@@ -5,9 +5,9 @@ var adaptive = {};
     // 设备像素比
     var devicePixelRatio = win.devicePixelRatio;
     // 我们设置的布局视口与理想视口的像素比
-    var dpr = 1; 
+    var dpr = 1;
     // viewport缩放值
-    var scale = 1; 
+    var scale = 1;
     // 设置viewport
     function setViewport() {
         // 判断IOS
@@ -37,7 +37,7 @@ var adaptive = {};
             var metaEl = doc.createElement('meta');
             metaEl.setAttribute('name', 'viewport');
             metaEl.setAttribute('content', metaStr);
-            
+
             if (docEl.firstElementChild) {
                 docEl.firstElementChild.appendChild(metaEl);
             }
@@ -48,7 +48,7 @@ var adaptive = {};
             }
         }
     }
-    
+
     var newBase = 100;
     lib.errDpr = 1;
 
@@ -95,7 +95,7 @@ var adaptive = {};
             hideDiv.style.visibility = 'hidden';
             document.body.appendChild(hideDiv);
             var now = hideDiv.offsetWidth;
-            var right = window.adaptive.newBase * 2.5; 
+            var right = window.adaptive.newBase * 2.5;
             if (Math.abs(right / now - 1) > 0.05) {
                 lib.errDpr = right / now;
                 setRem();
