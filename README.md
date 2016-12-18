@@ -77,7 +77,7 @@
             |---------------- pagination(pc h5 分页器)
             |
             |
-            |---------------- wangEditor(pc 富文本输入)
+            |---------------- wangEditor(pc 富文本输入)1
             |
             |
             |---------------- lazyload(lazyload 图片懒加载)
