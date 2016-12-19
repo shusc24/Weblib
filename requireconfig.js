@@ -22,6 +22,7 @@ requirejs.config({
         pagination:'lib/Weblib/public/plus/pagination/lib/jquery.pagination',
         wangEditor:"lib/Weblib/public/plus/wangEditor/js/wangEditor.min",
         lazyload:'lib/Weblib/public/plus/lazyload/lazyload.min',
+		store:'lib/Weblib/public/plus/store/store.min',
 
 		//require插件库
 		text:"lib/Weblib/public/plus/requirejsplus/text",

@@ -81,10 +81,14 @@
             |
             |
             |---------------- lazyload(lazyload 图片懒加载)
+            |
+            |
+            |---------------- store(store localstorage的封装) github:https://github.com/jaywcjlove/store.js
 
  		3.user 存放成员的自定义的插件或者库
 
 日志:
+    12.19 新增 store 组件
     12.16 新增layui 组件 lodash
     12.15 新增pagination 插件 ，wangEditor 插件  lazyload插件
     12.5  新增backbone(1.3.3)框架
