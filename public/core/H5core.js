@@ -230,7 +230,7 @@ var Base = (function() {
                 ].join(" ")))({
                     index:index
                 })
-                //TODO 执行监视过程
+                //执行监视过程
                 tempArr = new Function(fnString).bind(this)();
                 _.extend(this,tempArr);
                 (new Function(WatchFnString)).apply(this);
