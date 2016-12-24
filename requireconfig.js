@@ -31,6 +31,7 @@ requirejs.config({
 		text:"https://cdn.staticfile.org/require-text/2.0.12/text.min",
 		domReady:"https://cdn.staticfile.org/require-domReady/2.0.1/domReady.min",
 		css:'https://cdn.staticfile.org/require-css/0.1.8/css.min.js',
+        backboneLocal:'https://cdn.staticfile.org/backbone-localstorage.js/1.1.16/backbone.localStorage-min',
 		//h5 手势库
 		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
 	},
