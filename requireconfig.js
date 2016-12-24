@@ -18,6 +18,7 @@ requirejs.config({
         echarts:"https://cdn.staticfile.org/echarts/3.3.2/echarts.min",
         sweetalert:'https://cdn.staticfile.org/sweetalert/1.1.3/sweetalert.min',
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
+        popper:'https://cdn.staticfile.org/popper.js/0.6.4/popper.min',
 
         layer:"lib/Weblib/public/plus/layer/layer",
 		zui:"lib/Weblib/public/plus/zui/zui",
