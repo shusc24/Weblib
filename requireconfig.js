@@ -14,8 +14,8 @@ requirejs.config({
         lodash:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
 		//插件库
 		layer:"lib/Weblib/public/plus/layer/layer",
-		swiper:"lib/Weblib/public/plus/swiper/js/swiper.min",
-		echarts:"lib/Weblib/public/plus/echarts/echarts.min",
+		swiper:"https://cdn.staticfile.org/Swiper/3.4.1/js/swiper.min",
+		echarts:"https://cdn.staticfile.org/echarts/3.3.2/echarts.min",
 		zui:"lib/Weblib/public/plus/zui/zui",
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
         sweetalert:'https://cdn.staticfile.org/sweetalert/1.1.3/sweetalert.min',
