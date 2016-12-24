@@ -32,7 +32,6 @@ requirejs.config({
 		css:'https://cdn.staticfile.org/require-css/0.1.8/css.min.js',
 		//h5 手势库
 		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
-		
 	},
 	shim:{
 		layer:['core'],
