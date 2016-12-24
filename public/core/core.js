@@ -234,192 +234,144 @@ var Class = (function() {
 //组件框架
 var Base = (function() {
 
-		var _indexOf = function(array, key) {
-			if(array === null) return -1
-			var i = 0,
-				length = array.length
-			for(; i < length; i++)
-				if(array[i] === item) return i
-			return -1
-		}
-		//事件处理
-		var Event = Class.extend({
-			//添加监听
-			on: function(key, listener) {
-				//this.__events存储所有的处理函数
-				if(!this.__events) {
-					this.__events = {}
-				}
-				if(!this.__events[key]) {
-					this.__events[key] = []
-				}
-				
-				
-				if(_indexOf(this.__events, listener) === -1 && typeof listener === 'function') {
-					this.__events[key].push(listener)
-				}
+    var _indexOf = function(array, key) {
+        if(array === null) return -1
+        var i = 0,
+            length = array.length
+        for(; i < length; i++)
+            if(array[i] === item) return i
+        return -1
+    }
+    //事件处理
+    var Event = Class.extend({
+        //添加监听
+        on: function(key, listener) {
+            //this.__events存储所有的处理函数
+            if(!this.__events) {
+                this.__events = {}
+            }
+            if(!this.__events[key]) {
+                this.__events[key] = []
+            }
 
-				return this
-			},
-			//触发一个事件，也就是通知
-			fire: function(key) {
 
-				if(!this.__events || !this.__events[key]) return
-				
-				//Array.prototype.slice.call(arguments)能将具有length属性的对象转成数组
-				// args 作用为 传递入 以事件为名的方法中
-				var args = Array.prototype.slice.call(arguments, 1) || []
-				var listeners = this.__events[key] //obj
-				var i = 0
-				var l = listeners.length //集合中的 方法数量
+            if(_indexOf(this.__events, listener) === -1 && typeof listener === 'function') {
+                this.__events[key].push(listener)
+            }
 
-				for(i; i < l; i++) {
-					listeners[i].apply(this, args)
-				}
+            return this
+        },
+        //触发一个事件，也就是通知
+        fire: function(key) {
 
-				return this
-			},
-			//取消监听
-			off: function(key, listener) {
+            if(!this.__events || !this.__events[key]) return
 
-				if(!key && !listener) {
-					this.__events = {}
-				}
-				//不传监听函数，就去掉当前key下面的所有的监听函数
-				if(key && !listener) {
-					delete this.__events[key]
-				}
+            //Array.prototype.slice.call(arguments)能将具有length属性的对象转成数组
+            // args 作用为 传递入 以事件为名的方法中
+            var args = Array.prototype.slice.call(arguments, 1) || []
+            var listeners = this.__events[key] //obj
+            var i = 0
+            var l = listeners.length //集合中的 方法数量
 
-				if(key && listener) {
-					var listeners = this.__events[key]
-					var index = _indexOf(listeners, listener)
+            for(i; i < l; i++) {
+                listeners[i].apply(this, args)
+            }
 
-					(index > -1) && listeners.splice(index, 1)
-				}
+            return this
+        },
+        //取消监听
+        off: function(key, listener) {
 
-				return this;
-			}
-		})
+            if(!key && !listener) {
+                this.__events = {}
+            }
+            //不传监听函数，就去掉当前key下面的所有的监听函数
+            if(key && !listener) {
+                delete this.__events[key]
+            }
 
-		//不兼容ie9以下的浏览器
-		var timer = Event.extend({
-			
-			timer:(function(){
-				
-				function sui_timer(num, period, showfn) {
-					//num 为内部状态 ,period 为周期 1000，event为事件闹钟, outEle为 输出的外部时间 eventcache 为事件缓存处理
-					this.num = num;
-					this._num = num;
-			
-					this.showfn = showfn;
-					this.period = period;
-					this.fn;
-			
-					this.Eventcache = [];
-					this.init();
-				}
+            if(key && listener) {
+                var listeners = this.__events[key]
+                var index = _indexOf(listeners, listener)
 
-				sui_timer.prototype = {
-			
-					constructor: sui_timer,
-			
-					start: function() {
-						var period = this.period
-			
-						this.fn = (function() {
-			
-							return setInterval(function() {
-			
-								this.showfn(this.num--)
-			
-							}.bind(this), period);
-			
-						}.bind(this))()
-			
-					},
-			
-					stop: function() {
-						window.clearInterval(this.fn);
-						this.reset();
-					},
-			
-					reset: function(val) {
-						if(typeof(val) != "undefined") {
-							this.num = val;
-						} else {
-							this.num = 0;
-						}
-					},
-			
-					pause: function() {
-						window.clearInterval(this.fn);
-					},
-			
-					addEvent: function(time, fn) {
-						//time 为
-			
-						var Eventfn = function(val) {
-							var Ttime = time
-							var Tfn = fn
-			
-							if(Ttime == val) {
-								Tfn();
-							}
-						}
-			
-						this.Eventcache.push(Eventfn)
-						console.log(this.Eventcache);
-					},
-			
-					init: function() {
-						var self = this;
-			
-						Object.defineProperty(this, "num", {
-							set: function(val) {
-								this._num = val
-							},
-			
-							get: function() {
-			
-								//循环在时间对象中处理
-								for(var i = 0; i < self.Eventcache.length; i++) {
-									self.Eventcache[i](this._num);
-								}
-			
-								return this._num
-							}
-						})
-					}
-				}
-				return sui_timer;
-			})()
-			
-		});
-		
-		var Base = timer.extend({
-			init: function(config) {
-				//自动保存配置项
-				this._config = config;
-				this.bind();
-				this.render();
-			},
-			get: function(key) {
-				return this._config[key]
-			},
-			set: function(key, value) {
-				this._config[key] = value;
-			},
-			bind: function() {
+                    (index > -1) && listeners.splice(index, 1)
+            }
 
-			},
-			render: function() {
+            return this;
+        }
+    })
 
-			},
-			destroy: function() {
+    var Base = Event.extend({
+        defaults:{
 
-			}
-		})
-						
-		return Base
+        },
+        item:{
+
+        },
+        init: function(config) {
+            //自动保存配置项
+            this._config = _.extend(this.defaults,config);
+            this.$autoWatch();
+            this.initialize();
+        },
+        initialize:function(){
+
+        },
+        get: function(key) {
+            return this._config[key]
+        },
+        set: function(key, value) {
+            this._config[key] = value;
+        },
+        bind: function() {
+
+        },
+        render: function() {
+
+        },
+        destroy: function() {
+
+        },
+        $autoWatch:function(){
+            var Datas = this._config;
+            var num = 1;
+            var self = this
+
+            _.each(Datas,function(item,index){
+                this.item = item;
+                var Fn = {};
+                var tempArr = [];
+                var fnString = (_.template([
+                    "var Arr = {",
+                    '<%= index%> : this.item,',
+                    '_<%= index%> : this.item',
+                    '};return Arr'
+                ].join(" ")))({
+                    index:index
+                });
+                var WatchFnString = (_.template([
+                    'var _this = this;',
+                    'Object.defineProperty(this,"<%= index%>",{',
+                    'set:function(Val){',
+                    'if(Val != this._<%= index%>){',
+                    'this._<%= index%> = Val;',
+                    '_this.fire("change:<%= index%>",Val);',
+                    '}else{return}},',
+                    'get:function(){',
+                    'return this._<%= index%>',
+                    '}})'
+                ].join(" ")))({
+                    index:index
+                })
+                //执行监视过程
+                tempArr = new Function(fnString).bind(this)();
+                _.extend(this,tempArr);
+                (new Function(WatchFnString)).apply(this);
+                num++;
+            }.bind(this))
+        }
+    })
+
+    return Base
 
 })()
