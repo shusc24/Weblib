@@ -34,8 +34,8 @@ requirejs.config({
 		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
 	},
 	shim:{
-		layer:['core'],
-		zui:['core'],
+		layer:['jquery'],
+		zui:['jquery'],
 		AlloyFinger:{
 			exports:'AlloyFinger'
 		},
