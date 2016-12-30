@@ -3,7 +3,7 @@ requirejs.config({
 	paths:{
 		//核心库
         jquery:'https://cdn.staticfile.org/jquery/3.1.1/jquery.min',
-        underscore:"https://cdn.staticfile.org/underscore.js/1.8.3/underscore-min",
+        underscore:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
         Vue:"https://cdn.staticfile.org/vue/2.1.6/vue.min",
         Vuex:"https://cdn.staticfile.org/vuex/2.0.0-rc.6/vuex.min",
         backbone:"https://cdn.staticfile.org/backbone.js/1.3.3/backbone-min",
