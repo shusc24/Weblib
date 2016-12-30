@@ -84,10 +84,13 @@
             |
             |
             |---------------- store(store localstorage的封装) github:https://github.com/jaywcjlove/store.js
-
+            |
+            |
+            |---------------- owlCarousel (桌面端的js文件)
  		3.user 存放成员的自定义的插件或者库
 
 日志:
+    12.30 新增 owlCarousel 组件
     12.19 新增 store 组件
     12.16 新增layui 组件 lodash
     12.15 新增pagination 插件 ，wangEditor 插件  lazyload插件

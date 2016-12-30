@@ -26,6 +26,7 @@ requirejs.config({
         wangEditor:"lib/Weblib/public/plus/wangEditor/js/wangEditor.min",
         lazyload:'lib/Weblib/public/plus/lazyload/lazyload.min',
 		store:'lib/Weblib/public/plus/store/store.min',
+        owlCarousel:'lib/Welib/public/plus/owlCarousel/owl.carousel',
 
 		//require插件库
 		text:"https://cdn.staticfile.org/require-text/2.0.12/text.min",
