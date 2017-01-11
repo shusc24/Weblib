@@ -153,7 +153,24 @@ var Base = (function() {
         }
     })
 
-    var Base = Event.extend({
+    var timer =  Event.extend({
+         run:function(){
+             this._timer = (function() {
+
+                 return setInterval(function() {
+
+                     this.fn();
+
+                 }.bind(this), this.period);
+
+             }.bind(this))()
+         },
+         clear:function(){
+            window.clearInterval(this.timer)
+        }
+    })
+
+    var Base = timer.extend({
         defaults:{
 
         },
@@ -229,9 +246,11 @@ var Base = (function() {
 })()
 
 if (typeof module != 'undefined' && module.exports) {
+    var _ = require("underscore");
     module.exports = Base;
 } else if (typeof define == 'function' && define.amd) {
-    define(function() {
+    define(function(require) {
+        var _ = require("underscore");
         return Base;
     });
 } else {

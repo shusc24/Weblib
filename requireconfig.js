@@ -11,7 +11,6 @@ requirejs.config({
 
         core:"lib/Weblib/public/core/core",
         h5core:"lib/Weblib/public/core/H5core",
-        backboneL:"lib/Weblib/public/core/libs/backBone/backBone-lodash",
         Class:"lib/Weblib/public/core/libs/Base/Base",
 		//插件库
         swiper:"https://cdn.staticfile.org/Swiper/3.4.1/js/swiper.min",
