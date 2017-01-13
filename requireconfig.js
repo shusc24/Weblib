@@ -5,7 +5,7 @@ requirejs.config({
         jquery:'https://cdn.staticfile.org/jquery/3.1.1/jquery.min',
         underscore:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
         Vue:"https://cdn.staticfile.org/vue/2.1.6/vue.min",
-        Vuex:"https://cdn.staticfile.org/vuex/2.0.0-rc.6/vuex.min",
+        Vuex:"https://cdn.staticfile.org/vuex/2.1.1/vuex.min",
         backbone:"https://cdn.staticfile.org/backbone.js/1.3.3/backbone-min",
         lodash:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
 
@@ -30,7 +30,7 @@ requirejs.config({
 		//require插件库
 		text:"https://cdn.staticfile.org/require-text/2.0.12/text.min",
 		domReady:"https://cdn.staticfile.org/require-domReady/2.0.1/domReady.min",
-		css:'https://cdn.staticfile.org/require-css/0.1.8/css.min.js',
+		css:'https://cdn.staticfile.org/require-css/0.1.8/css.min',
         backboneLocal:'https://cdn.staticfile.org/backbone-localstorage.js/1.1.16/backbone.localStorage-min',
 		//h5 手势库
 		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
@@ -41,5 +41,6 @@ requirejs.config({
 		AlloyFinger:{
 			exports:'AlloyFinger'
 		},
+        sweetalert:['css!https://cdn.staticfile.org/sweetalert/1.1.3/sweetalert.min.css']
 	}
 })

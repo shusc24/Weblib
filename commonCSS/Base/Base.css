@@ -293,6 +293,9 @@ img.scale, img.responsive {
 .fr {
   float: right; }
 
+.MC {
+  margin: 0 auto; }
+
 .ML-5 {
   margin-left: 5px; }
 
