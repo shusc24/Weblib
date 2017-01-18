@@ -14,6 +14,7 @@ requirejs.config({
         Class:"lib/Weblib/public/core/libs/Base/Base",
 		//插件库
         swiper:"https://cdn.staticfile.org/Swiper/3.4.1/js/swiper.min",
+        swiper2:"https://cdn.staticfile.org/Swiper/2.7.6/idangerous.swiper", //兼容ie6 ie7
         echarts:"https://cdn.staticfile.org/echarts/3.3.2/echarts.min",
         sweetalert:'https://cdn.staticfile.org/sweetalert/1.1.3/sweetalert.min',
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
@@ -41,6 +42,7 @@ requirejs.config({
 		AlloyFinger:{
 			exports:'AlloyFinger'
 		},
-        sweetalert:['css!https://cdn.staticfile.org/sweetalert/1.1.3/sweetalert.min.css']
+        sweetalert:['css!https://cdn.staticfile.org/sweetalert/1.1.3/sweetalert.min.css'],
+        swiper2:['css!https://cdn.staticfile.org/Swiper/2.7.6/idangerous.swiper.min.css'],
 	}
 })
