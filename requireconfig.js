@@ -8,7 +8,7 @@ requirejs.config({
         Vuex:"https://cdn.staticfile.org/vuex/2.1.1/vuex.min",
         backbone:"https://cdn.staticfile.org/backbone.js/1.3.3/backbone-min",
         lodash:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
-        cropper:"https://cdn.staticfile.org/cropper/2.3.4/cropper.min",//图片裁剪插件
+
 
         core:"lib/Weblib/public/core/core",
         h5core:"lib/Weblib/public/core/H5core",
@@ -20,6 +20,7 @@ requirejs.config({
         sweetalert:'https://cdn.staticfile.org/sweetalert/1.1.3/sweetalert.min',
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
         popper:'https://cdn.staticfile.org/popper.js/0.6.4/popper.min',
+        cropper:"https://cdn.staticfile.org/cropper/2.3.4/cropper.min",//图片裁剪插件
 
         layer:"lib/Weblib/public/plus/layer/layer",
 		zui:"lib/Weblib/public/plus/zui/zui",
