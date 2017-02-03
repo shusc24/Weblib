@@ -87,9 +87,13 @@
             |
             |
             |---------------- owlCarousel (桌面端的js文件)
+            |
+            |
+            |---------------- cropper (基于jquery的图片裁剪工具)
  		3.user 存放成员的自定义的插件或者库
 
 日志:
+    2.3   新增 cropper 插件
     1.18  新增 swiper2 组件
     12.30 新增 owlCarousel 组件
     12.19 新增 store 组件
