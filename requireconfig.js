@@ -20,9 +20,9 @@ requirejs.config({
         sweetalert:'https://cdn.staticfile.org/sweetalert/1.1.3/sweetalert.min',
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
         popper:'https://cdn.staticfile.org/popper.js/0.6.4/popper.min',
-        cropper:"https://cdn.staticfile.org/cropper/2.3.4/cropper.min",//图片裁剪插件
+        cropper:"//cdn.bootcss.com/cropper/3.0.0-alpha.1/cropper.min",//图片裁剪插件
 
-        layer:"lib/Weblib/public/plus/layer/layer",
+        layer:"//cdn.bootcss.com/layer/3.0.1/layer.min",
 		zui:"lib/Weblib/public/plus/zui/zui",
         pagination:'lib/Weblib/public/plus/pagination/lib/jquery.pagination',
         wangEditor:"lib/Weblib/public/plus/wangEditor/js/wangEditor.min",
@@ -39,13 +39,13 @@ requirejs.config({
 		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
 	},
 	shim:{
-		layer:['jquery'],
+		layer:['jquery','css!//cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],
 		zui:['jquery'],
 		AlloyFinger:{
 			exports:'AlloyFinger'
 		},
         sweetalert:['css!https://cdn.staticfile.org/sweetalert/1.1.3/sweetalert.min.css'],
         swiper2:['css!https://cdn.staticfile.org/Swiper/2.7.6/idangerous.swiper.min.css'],
-        cropper:['jquery','css!https://cdn.staticfile.org/cropper/2.3.4/cropper.min.css'],
+        cropper:['jquery','css!//cdn.bootcss.com/cropper/3.0.0-alpha.1/cropper.min.css'],
 	}
 })
