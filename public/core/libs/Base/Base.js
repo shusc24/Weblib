@@ -1,4 +1,5 @@
 
+//noinspection JSDuplicatedDeclaration
 var Class = {};
 var Base = {};
 
@@ -7,6 +8,7 @@ var Base = {};
  * MIT Licensed.
  */
 // Inspired by base2 and Prototype
+//noinspection JSDuplicatedDeclaration
 var Class= (function() {
     //initializing是为了解决我们之前说的继承导致原型有多余参数的问题。当我们直接将父类的实例赋值给子类原型时。是会调用一次父类的构造函数的。所以这边会把真正的构造流程放到init函数里面，通过initializing来表示当前是不是处于构造原型阶段，为true的话就不会调用init。
     //fnTest用来匹配代码里面有没有使用super关键字。对于一些浏览器`function(){xyz;}`会生成个字符串，并且会把里面的代码弄出来，有的浏览器就不会。`/xyz/.test(function(){xyz;})`为true代表浏览器支持看到函数的内部代码，所以用`/\b_super\b/`来匹配。如果不行，就不管三七二十一。所有的函数都算有super关键字，于是就是个必定匹配的正则。
@@ -87,13 +89,13 @@ var Class= (function() {
 //组件框架
 var Base = (function() {
     var _indexOf = function(array, key) {
-        if(array === null) return -1
+        if(array === null) return -1;
         var i = 0,
-            length = array.length
+            length = array.length;
         for(; i < length; i++)
-            if(array[i] === item) return i
+            if(array[i] === item) return i;
         return -1
-    }
+    };
     //事件处理
     var Event = Class.extend({
         //添加监听
@@ -116,14 +118,14 @@ var Base = (function() {
         //触发一个事件，也就是通知
         fire: function(key) {
 
-            if(!this.__events || !this.__events[key]) return
+            if(!this.__events || !this.__events[key]) return;
 
             //Array.prototype.slice.call(arguments)能将具有length属性的对象转成数组
             // args 作用为 传递入 以事件为名的方法中
-            var args = Array.prototype.slice.call(arguments, 1) || []
-            var listeners = this.__events[key] //obj
-            var i = 0
-            var l = listeners.length //集合中的 方法数量
+            var args = Array.prototype.slice.call(arguments, 1) || [];
+            var listeners = this.__events[key]; //obj
+            var i = 0;
+            var l = listeners.length; //集合中的 方法数量
 
             for(i; i < l; i++) {
                 listeners[i].apply(this, args)
@@ -143,7 +145,7 @@ var Base = (function() {
             }
 
             if(key && listener) {
-                var listeners = this.__events[key]
+                var listeners = this.__events[key];
                 var index = _indexOf(listeners, listener)
 
                     (index > -1) && listeners.splice(index, 1)
@@ -151,7 +153,7 @@ var Base = (function() {
 
             return this;
         }
-    })
+    });
 
     var timer =  Event.extend({
          run:function(){
@@ -168,7 +170,7 @@ var Base = (function() {
          clear:function(){
             window.clearInterval(this.timer)
         }
-    })
+    });
 
     var Base = timer.extend({
         defaults:{
@@ -204,7 +206,7 @@ var Base = (function() {
         $autoWatch:function(){
             var Datas = this._config;
             var num = 1;
-            var self = this
+            var self = this;
 
             _.each(Datas,function(item,index){
                 this.item = item;
@@ -231,7 +233,7 @@ var Base = (function() {
                     '}})'
                 ].join(" ")))({
                     index:index
-                })
+                });
                 //执行监视过程
                 tempArr = new Function(fnString).bind(this)();
                 _.extend(this,tempArr);
@@ -239,11 +241,11 @@ var Base = (function() {
                 num++;
             }.bind(this))
         }
-    })
+    });
 
     return Base
 
-})()
+})();
 
 if (typeof module != 'undefined' && module.exports) {
     var _ = require("underscore");
