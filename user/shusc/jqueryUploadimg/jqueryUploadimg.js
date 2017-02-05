@@ -2,62 +2,80 @@
  * Created by shusc on 2016/10/8.
  *
  * HTML 结构demo
- *  <div class="c-photoUpload">
- *     <div class="c-photoUpload__title">
- *       证件正面附件
- *     </div>
- *
- *     <div class="c-photoUpload__content" id="j-idpic-01">
- *
- *     </div>
- *
- *     <input style="visibility: hidden"  id="uploadImage01" type="file"   />
- *   </div>
+<!--c-photoUpload 开始-->
+	<div class="c-photoUpload" id="photoUpload01">
+
+	    <div class="c-photoUpload__content J-content"style="background-image: url(img/page/usercenter/back.png);">
+
+	    </div>
+
+	    <div class="c-photoUpload__title J-tilte">
+	       	 证件正面附件
+	    </div>
+
+	    <input class="J-input" style="visibility: hidden"  type="file"   />
+
+	</div>
+<!--c-photoUpload 结束--> 
  *
  *   js 初始化
- *
- *   dom.jidpic01.on("click",function(){
- *               dom.photoimage01.click()
- *           })
- *   dom.photoimage01.on("change",function(){
- *              dom.photoimage01.imgUpload(dom.jidpic01);
- *           })
- *
+ *	 	
+ *	 $("#photoUpload01").imgUpload({
+ * 			MaxSize:200
+ * 	  });
  *
  *
  */
 
+define(["jquery"], function($) {
+	$.fn.imgUpload = function(Options) {
+		var Ele = $(this);
+		var Input = Ele.find(".J-input");
+		var Content = Ele.find(".J-content");
+		
+		// Event
+		Ele.on("click", ".J-content", function() {
+			Input.trigger("click");
+		});
 
+		Input.on("change", function() {
+			GetData();
+		});
 
-define(["jquery"],function ($) {
+		Ele.on("uploadEnd",function(e,img){
+			if(!$.isFunction(Options.completed)) return;
+			Options.completed(img);
+		});
 
-    $.fn.imgUpload = function(JoutEle){
+		var GetData = function() {
+			// Get a reference to the fileList
+			var files = !!Input[0].files ? Input[0].files : [];
 
-        // Get a reference to the fileList
-        var files = !!this[0].files ? this[0].files : [];
+			// If no files were selected, or no FileReader support, return
+			if(!files.length || !window.FileReader) return;
 
-        // If no files were selected, or no FileReader support, return
-        if (!files.length || !window.FileReader) return;
+			// Only proceed if the selected file is an image
+			if(/^image/.test(files[0].type)) {
 
-        // Only proceed if the selected file is an image
-        if (/^image/.test( files[0].type)){
+				// Create a new instance of the FileReader
+				var reader = new FileReader();
 
-            // Create a new instance of the FileReader
-            var reader = new FileReader();
+				// Read the local file as a DataURL
+				reader.readAsDataURL(files[0]);
 
-            // Read the local file as a DataURL
-            reader.readAsDataURL(files[0]);
-
-            // When loaded, set image data as background of div
-            reader.onloadend = function(){
-
-                // console.log(this.result)
-
-                JoutEle.css("background-image", "url("+this.result+")");
-
-                return this.result
-            }
-        }
-    }
-
-})
+				// When loaded, set image data as background of div
+				reader.onloadend = function() {
+					var size = files[0].size/1024;
+					if(size <= Options.MaxSize){
+						Content.css({
+							"backgroundImage": "url(" + this.result + ")"
+						});
+                        Ele.trigger("uploadEnd",this.result)
+					}else{
+						alert("超出最大上传值")
+					}
+				}
+			}
+		}
+	}
+});
