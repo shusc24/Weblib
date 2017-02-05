@@ -5,10 +5,13 @@ requirejs.config({
         jquery:'https://cdn.staticfile.org/jquery/3.1.1/jquery.min',
         underscore:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
         Vue:"https://cdn.staticfile.org/vue/2.1.6/vue.min",
-        Vuex:"https://cdn.staticfile.org/vuex/2.1.1/vuex.min",
         backbone:"https://cdn.staticfile.org/backbone.js/1.3.3/backbone-min",
         lodash:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
 
+        // Vue插件
+        Vuex:"https://cdn.staticfile.org/vuex/2.1.1/vuex.min",
+        Vresource:["//cdn.bootcss.com/vue-resource/1.1.0/vue-resource.min"],
+        Vrouter:["//cdn.bootcss.com/vue-router/2.2.0/vue-router.min"],
 
         core:"lib/Weblib/public/core/core",
         h5core:"lib/Weblib/public/core/H5core",
