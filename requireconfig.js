@@ -24,6 +24,7 @@ requirejs.config({
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
         popper:'https://cdn.staticfile.org/popper.js/0.6.4/popper.min',
         cropper:"//cdn.bootcss.com/cropper/3.0.0-alpha.1/cropper.min",//图片裁剪插件
+        SMV:'lib/Weblib/public/plus/SMValidator/SMValidator.min',//表单验证插件
 
         layer:"//cdn.bootcss.com/layer/3.0.1/layer.min",
 		zui:"lib/Weblib/public/plus/zui/zui",
