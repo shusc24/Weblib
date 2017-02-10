@@ -24,15 +24,17 @@ requirejs.config({
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
         popper:'https://cdn.staticfile.org/popper.js/0.6.4/popper.min',
         cropper:"//cdn.bootcss.com/cropper/3.0.0-alpha.1/cropper.min",//图片裁剪插件
-        SMV:'lib/Weblib/public/plus/SMValidator/SMValidator.min',//表单验证插件
-
         layer:"//cdn.bootcss.com/layer/3.0.1/layer.min",
+        socketIo:'https://cdn.staticfile.org/socket.io/1.7.2/socket.io.min',
+        dynamics:'https://cdn.staticfile.org/dynamics.js/1.1.5/dynamics.min',//物理库
+
 		zui:"lib/Weblib/public/plus/zui/zui",
         pagination:'lib/Weblib/public/plus/pagination/lib/jquery.pagination',
         wangEditor:"lib/Weblib/public/plus/wangEditor/js/wangEditor.min",
         lazyload:'lib/Weblib/public/plus/lazyload/lazyload.min',
 		store:'lib/Weblib/public/plus/store/store.min',
         owlCarousel:'lib/Welib/public/plus/owlCarousel/owl.carousel',
+        SMV:'lib/Weblib/public/plus/SMValidator/SMValidator.min',//表单验证插件
 
 		//require插件库
 		text:"https://cdn.staticfile.org/require-text/2.0.12/text.min",
@@ -40,8 +42,8 @@ requirejs.config({
 		css:'https://cdn.staticfile.org/require-css/0.1.8/css.min',
         backboneLocal:'https://cdn.staticfile.org/backbone-localstorage.js/1.1.16/backbone.localStorage-min',
 		//h5 手势库
-		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
-        socketIo:'https://cdn.staticfile.org/socket.io/1.7.2/socket.io.min'
+		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger'
+
 	},
 	shim:{
 		layer:['jquery','css!//cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],
