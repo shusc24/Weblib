@@ -41,6 +41,7 @@ requirejs.config({
         backboneLocal:'https://cdn.staticfile.org/backbone-localstorage.js/1.1.16/backbone.localStorage-min',
 		//h5 手势库
 		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
+        socketIo:'https://cdn.staticfile.org/socket.io/1.7.2/socket.io.min'
 	},
 	shim:{
 		layer:['jquery','css!//cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],

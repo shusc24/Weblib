@@ -93,9 +93,13 @@
             |
             |
             |---------------- SMValidator (表单验证插件)
+            |
+            |
+            |---------------- socketIo (websocket插件 需要node服务器支持)
  		3.user 存放成员的自定义的插件或者库
 
 日志:
+    2.10  新增 socketIo
     2.7   新增 SMValidator 插件
     2.3   新增 cropper 插件
     1.18  新增 swiper2 组件
