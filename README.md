@@ -98,7 +98,7 @@
             |---------------- * socketIo (websocket插件 需要node服务器支持)
             |
             |
-            |---------------- * socketIo (websocket插件 需要node服务器支持)
+            |---------------- * dynamics (官方参数调整网站 http://dynamicsjs.com/)
  		3.user 存放成员的自定义的插件或者库
 
 日志:
