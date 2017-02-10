@@ -27,6 +27,7 @@ requirejs.config({
         layer:"//cdn.bootcss.com/layer/3.0.1/layer.min",
         socketIo:'https://cdn.staticfile.org/socket.io/1.7.2/socket.io.min',
         dynamics:'https://cdn.staticfile.org/dynamics.js/1.1.5/dynamics.min',//物理库
+        page:'//cdn.bootcss.com/page.js/1.7.1/page.min',//简单的前端路由
 
 		zui:"lib/Weblib/public/plus/zui/zui",
         pagination:'lib/Weblib/public/plus/pagination/lib/jquery.pagination',
