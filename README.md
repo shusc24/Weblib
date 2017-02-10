@@ -92,7 +92,7 @@
             |---------------- cropper (基于jquery的图片裁剪工具)
             |
             |
-            |---------------- SMValidator (表单验证插件)
+            |---------------- SMValidator (表单验证插件 )
             |
             |
             |---------------- * socketIo (websocket插件 需要node服务器支持)
