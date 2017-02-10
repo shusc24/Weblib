@@ -102,15 +102,16 @@
  		3.user 存放成员的自定义的插件或者库
 
 日志:
-    2.10  新增 socketIo 需要node服务器支持
-    2.7   新增 SMValidator 插件
-    2.3   新增 cropper 插件
-    1.18  新增 swiper2 组件
-    12.30 新增 owlCarousel 组件
-    12.19 新增 store 组件
-    12.16 新增layui 组件 lodash
-    12.15 新增pagination 插件 ，wangEditor 插件  lazyload插件
-    12.5  新增backbone(1.3.3)框架
-    11.24 新增 AlloyFinger 库用于触摸操作
-    11.22 core.js 替换undersocre 为 lodash
+2017.2.10  新增 dynamics 用于动画物理效果
+2017.2.10  新增 socketIo 需要node服务器支持
+2017.2.7   新增 SMValidator 插件
+2017.2.3   新增 cropper 插件
+2017.1.18  新增 swiper2 组件
+2016.12.30 新增 owlCarousel 组件
+2016.12.19 新增 store 组件
+2016.12.16 新增layui 组件 lodash
+2016.12.15 新增pagination 插件 ，wangEditor 插件  lazyload插件
+2016.12.5  新增backbone(1.3.3)框架
+2016.11.24 新增 AlloyFinger 库用于触摸操作
+2016.11.22 core.js 替换undersocre 为 lodash
  		        
