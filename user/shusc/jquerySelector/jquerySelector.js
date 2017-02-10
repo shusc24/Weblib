@@ -84,7 +84,7 @@
                                 body.text(selectLi);
                                 ul.slideUp(400);
                             })
-                        })
+                        });
                         ul.mouseleave(function () {
                             ul.slideUp(400)
                         })
@@ -92,10 +92,10 @@
                         ul.slideUp(400)
                     }
               })
-          },
+          }
 
-      }
+      };
 
     return JSelector
 
-})
+});

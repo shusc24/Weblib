@@ -99,6 +99,11 @@
             |
             |
             |---------------- * dynamics (官方参数调整网站 http://dynamicsjs.com/)
+            |
+            |
+            |---------------- * dynamics (官方参数调整网站 http://dynamicsjs.com/)
+
+
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志

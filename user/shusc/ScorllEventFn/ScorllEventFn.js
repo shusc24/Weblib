@@ -1,7 +1,7 @@
 define(['jquery'],function($){
 	var ScorllEventFn = function(){
 		this.cache = [];
-	}
+	};
 	
 	ScorllEventFn.prototype.add = function(fn){
 		this.cache.push(function(){
@@ -20,13 +20,13 @@ define(['jquery'],function($){
 				});
 			});
 		})
-	}
+	};
 		
 	ScorllEventFn.prototype.start = function(){
 		for(var i = 0,ScorllEventFunc;ScorllEventFunc = this.cache[i++];){
 			ScorllEventFunc();
 		}
-	}
+	};
 			
 	return ScorllEventFn;
-})
+});
