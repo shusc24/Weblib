@@ -43,7 +43,10 @@ requirejs.config({
 		css:'https://cdn.staticfile.org/require-css/0.1.8/css.min',
         backboneLocal:'https://cdn.staticfile.org/backbone-localstorage.js/1.1.16/backbone.localStorage-min',
 		//h5 手势库
-		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger'
+		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
+
+        //layuiFlow 改写成Amd 方式
+        flow:'lib/Weblib/public/plus/layuiflow/flow'
 
 	},
 	shim:{
@@ -57,6 +60,7 @@ requirejs.config({
         cropper:['jquery','css!//cdn.bootcss.com/cropper/3.0.0-alpha.1/cropper.min.css'],
         director:{
             exports:'Router'
-        }
+        },
+        flow:['jquery','css!lib/Weblib/public/plus/layuiflow/flow.css'],
 	}
 })
