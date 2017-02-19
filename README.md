@@ -16,9 +16,8 @@
 		1.commonCSS 存放的公共部分的css文件
 				1.1 标准化文件： 1.reset.css 2.Normalize.css
  				2.1 表格系统：   1.rwdgrid.min
- 				3.1 UI系统       1.weui-less
- 				4.1 动画         1.animate.min
- 				5.1 MT 工具      1.MT.scss
+ 				3.1 MT 工具      1.MT.scss
+ 				4.1 Base 整合了bootstrap的栅格系统版本为 3.37
 
 
  		2.public 存放的js公共库	
@@ -107,6 +106,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.2.19  commoncss 整合了 bootstrap的栅格系统 优化了文件结构
         2017.2.10  新增 director 用于简单的前端路由
         2017.2.10  新增 dynamics 用于动画物理效果
         2017.2.10  新增 socketIo 需要node服务器支持
