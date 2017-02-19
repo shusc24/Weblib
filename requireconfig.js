@@ -4,7 +4,7 @@ requirejs.config({
 		//核心库
         jquery:'https://cdn.staticfile.org/jquery/3.1.1/jquery.min',
         underscore:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
-        Vue:"https://cdn.staticfile.org/vue/2.1.6/vue.min",
+        Vue:"//cdn.bootcss.com/vue/2.1.10/vue.min",
         backbone:"https://cdn.staticfile.org/backbone.js/1.3.3/backbone-min",
         lodash:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
 
