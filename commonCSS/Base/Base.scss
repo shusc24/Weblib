@@ -1,10 +1,13 @@
-//清除默认
-@import "reset";
-//表格系统
-@import "rwdgrid.min";
+//表格系统并且清除默认
+@import "../bootstrap/bootstrap.min.scss";
+//bootstrap 组件样式
+@import "../bootstrap/bootstrap-theme.min.scss";
 //自定义通用样式
 @import "shusc/common.scss";
 //MT系统
 @import "shusc/MT";
 //PT系统
 @import "shusc/PT";
+
+//常用的功能函数
+@import "shusc/fn";
