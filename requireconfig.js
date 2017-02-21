@@ -3,10 +3,14 @@ requirejs.config({
 	paths:{
 		//核心库
         jquery:'https://cdn.staticfile.org/jquery/3.1.1/jquery.min',
-        underscore:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
+
         Vue:"//cdn.bootcss.com/vue/2.1.10/vue.min",
         backbone:"https://cdn.staticfile.org/backbone.js/1.3.3/backbone-min",
+
+        //underscore 及 lodash
+        underscore:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
         lodash:"https://cdn.staticfile.org/lodash.js/4.17.2/lodash.min",
+        lodashCore:'//cdn.bootcss.com/underscore.js/1.8.3/underscore-min',
 
         // Vue插件
         Vuex:"https://cdn.staticfile.org/vuex/2.1.1/vuex.min",
@@ -27,7 +31,9 @@ requirejs.config({
         layer:"//cdn.bootcss.com/layer/3.0.1/layer.min",
         socketIo:'https://cdn.staticfile.org/socket.io/1.7.2/socket.io.min',
         dynamics:'https://cdn.staticfile.org/dynamics.js/1.1.5/dynamics.min',//物理库
-        director:'https://cdn.staticfile.org/Director/1.2.8/director.min',//简单的前端路由
+
+        //前端路由 文档地址 https://github.com/flatiron/director
+        director:'https://cdn.staticfile.org/Director/1.2.8/director.min',
 
 		zui:"lib/Weblib/public/plus/zui/zui",
         pagination:'lib/Weblib/public/plus/pagination/lib/jquery.pagination',
