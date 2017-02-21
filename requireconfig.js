@@ -35,7 +35,10 @@ requirejs.config({
         lazyload:'lib/Weblib/public/plus/lazyload/lazyload.min',
 		store:'lib/Weblib/public/plus/store/store.min',
         owlCarousel:'lib/Welib/public/plus/owlCarousel/owl.carousel',
-        SMV:'lib/Weblib/public/plus/SMValidator/SMValidator.min',//表单验证插件
+
+        //表单验证插件 文档地址：https://github.com/WLDragon/SMValidator
+        SMV:'lib/Weblib/public/plus/SMValidator/SMValidator.min',
+        SMVRules:'lib/Weblib/public/plus/SMValidator/SMVRules',
 
 		//require插件库
 		text:"https://cdn.staticfile.org/require-text/2.0.12/text.min",
@@ -45,8 +48,14 @@ requirejs.config({
 		//h5 手势库
 		AlloyFinger:'lib/Weblib/public/plus/AlloyFinger/alloy_finger',
 
-        //layuiFlow 改写成Amd 方式
-        flow:'lib/Weblib/public/plus/layuiflow/flow'
+        //layuiFlow 改写成Amd 方式 文档同 layui的文档
+        flow:'lib/Weblib/public/plus/layuiflow/flow',
+
+        //滚动动画插件 官方文档: https://github.com/jlmakes/scrollreveal
+        scrollreveal:'//cdn.bootcss.com/scrollReveal.js/3.3.2/scrollreveal',
+
+        //iscroll 自定义滚动条 https://github.com/cubiq/iscroll
+        iscroll:'//cdn.bootcss.com/iScroll/5.2.0/iscroll.min',
 
 	},
 	shim:{
@@ -63,4 +72,4 @@ requirejs.config({
         },
         flow:['jquery','css!lib/Weblib/public/plus/layuiflow/flow.css'],
 	}
-})
+});
