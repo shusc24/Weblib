@@ -115,9 +115,9 @@
         2017.1.18  新增 swiper2 组件
         2016.12.30 新增 owlCarousel 组件
         2016.12.19 新增 store 组件
-        2016.12.16 新增layui 组件 lodash
-        2016.12.15 新增pagination 插件 ，wangEditor 插件  lazyload插件
-        2016.12.5  新增backbone(1.3.3)框架
+        2016.12.16 新增 layui 组件 lodash
+        2016.12.15 新增 pagination 插件 ，wangEditor 插件  lazyload插件
+        2016.12.5  新增 backbone(1.3.3)框架
         2016.11.24 新增 AlloyFinger 库用于触摸操作
         2016.11.22 core.js 替换undersocre 为 lodash
 
