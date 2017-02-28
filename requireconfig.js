@@ -62,6 +62,11 @@ requirejs.config({
         //iscroll 自定义滚动条 https://github.com/cubiq/iscroll
         iscroll:'//cdn.bootcss.com/iScroll/5.2.0/iscroll.min',
 
+        //正则库 官方文档：https://github.com/slevithan/xregexp
+        xregexp: '//cdn.bootcss.com/xregexp/3.1.1/xregexp-all.min',
+
+        //anime 动画库 官方文档：http://anime-js.com/ https://github.com/juliangarnier/anime
+        anime:'//cdn.bootcss.com/animejs/2.0.0/anime.min'
 	},
 	shim:{
 		layer:['jquery','css!//cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],

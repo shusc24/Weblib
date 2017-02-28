@@ -98,14 +98,14 @@
             |
             |
             |---------------- * dynamics (官方参数调整网站 http://dynamicsjs.com/)
-            |
-            |
-            |---------------- * dynamics (官方参数调整网站 http://dynamicsjs.com/)
+
+
 
 
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.2.28  新增anime 动画引擎库 xregexp正则验证库
         2017.2.19  commoncss 整合了 bootstrap的栅格系统 优化了文件结构
         2017.2.10  新增 director 用于简单的前端路由
         2017.2.10  新增 dynamics 用于动画物理效果
