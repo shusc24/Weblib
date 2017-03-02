@@ -9,7 +9,7 @@ var Base = {};
  */
 // Inspired by base2 and Prototype
 //noinspection JSDuplicatedDeclaration
-var Class= (function() {
+    Class= (function() {
     //initializing是为了解决我们之前说的继承导致原型有多余参数的问题。当我们直接将父类的实例赋值给子类原型时。是会调用一次父类的构造函数的。所以这边会把真正的构造流程放到init函数里面，通过initializing来表示当前是不是处于构造原型阶段，为true的话就不会调用init。
     //fnTest用来匹配代码里面有没有使用super关键字。对于一些浏览器`function(){xyz;}`会生成个字符串，并且会把里面的代码弄出来，有的浏览器就不会。`/xyz/.test(function(){xyz;})`为true代表浏览器支持看到函数的内部代码，所以用`/\b_super\b/`来匹配。如果不行，就不管三七二十一。所有的函数都算有super关键字，于是就是个必定匹配的正则。
     var initializing = false,
@@ -87,7 +87,8 @@ var Class= (function() {
 })();
 
 //组件框架
-var Base = (function() {
+//noinspection JSDuplicatedDeclaration
+    Base = (function() {
     var _indexOf = function(array, key) {
         if(array === null) return -1;
         var i = 0,
