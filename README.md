@@ -105,6 +105,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.3.11  新增flow  流处理模块 layui模块的分拆  navSwitch 用于浏览器判断 nav的active
         2017.2.28  新增anime 动画引擎库 xregexp正则验证库
         2017.2.19  commoncss 整合了 bootstrap的栅格系统 优化了文件结构
         2017.2.10  新增 director 用于简单的前端路由
