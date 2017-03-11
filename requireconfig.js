@@ -3,7 +3,7 @@ requirejs.config({
 	paths:{
 		//核心库
         jquery:'https://cdn.staticfile.org/jquery/3.1.1/jquery.min',
-        Vue:"//cdn.bootcss.com/vue/2.1.10/vue.min",
+        Vue:"//cdn.bootcss.com/vue/2.2.1/vue.min",
         backbone:"https://cdn.staticfile.org/backbone.js/1.3.3/backbone-min",
 
         //underscore 及 lodash
@@ -66,7 +66,10 @@ requirejs.config({
         xregexp: '//cdn.bootcss.com/xregexp/3.1.1/xregexp-all.min',
 
         //anime 动画库 官方文档：http://anime-js.com/ https://github.com/juliangarnier/anime
-        anime:'//cdn.bootcss.com/animejs/2.0.0/anime.min'
+        anime:'//cdn.bootcss.com/animejs/2.0.0/anime.min',
+
+        //复制到粘贴板
+        clipboard:'//cdn.bootcss.com/clipboard.js/1.6.1/clipboard.min',
 	},
 	shim:{
 		layer:['jquery','css!//cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],
