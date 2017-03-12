@@ -1,11 +1,10 @@
-该库基于AMD
 
+该库基于AMD
 1.使用说明
     1.1 放在标准路径: 根目录/lib/Weblib
     1.2 页面引入 requirejs 文件及 requireconfig 文件
     1.3 兼容性 ie9
         PS:(swiper IE10)
-
 2.目录说明
     目录：根目录/lib/webLib
           根目录/css/webCss
@@ -127,5 +126,3 @@
         2016.12.5  新增 backbone(1.3.3)框架
         2016.11.24 新增 AlloyFinger 库用于触摸操作
         2016.11.22 core.js 替换undersocre 为 lodash
-
- 		        
