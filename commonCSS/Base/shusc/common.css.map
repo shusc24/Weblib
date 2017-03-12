@@ -1,7 +1,0 @@
-{
-"version": 3,
-"mappings": "AAAA,GAAG,CACD,OAAO,CAAE,IAAI,CAEf,GAAG,CACD,OAAO,CAAE,KAAK,CAEhB,GAAG,CACD,KAAK,CAAE,IAAI,CAEb,GAAG,CACD,KAAK,CAAE,KAAK",
-"sources": ["common.scss"],
-"names": [],
-"file": "common.css"
-}

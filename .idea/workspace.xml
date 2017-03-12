@@ -1,8 +1,305 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0d776f3-47c7-419b-bdac-6517b043f308" name="Default" comment="" />
-    <ignored path="Weblib.iws" />
+    <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/Weblib.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Projectindex.rar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/Base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/Base.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/Base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/MT.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/MT.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/MT.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/PT.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/PT.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/PT.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/common.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/common.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/fn.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/fn.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Base/shusc/fn.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Font-Awesome/css/font-awesome.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Font-Awesome/css/font-awesome.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Font-Awesome/css/font-awesome.min.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Font-Awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Font-Awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Font-Awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Font-Awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Font-Awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/Font-Awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/bootstrap/bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/bootstrap/bootstrap-theme.min.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/bootstrap/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/bootstrap/bootstrap.min.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/bootstrap/bootstrap.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/bootstrap/bootstrap24.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rest/Normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rest/reset.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rest/reset.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rest/reset.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rwdgrid-master/rwdgrid-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rwdgrid-master/rwdgrid-master/12.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rwdgrid-master/rwdgrid-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rwdgrid-master/rwdgrid-master/css/rwdgrid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rwdgrid-master/rwdgrid-master/css/rwdgrid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rwdgrid-master/rwdgrid-master/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rwdgrid-master/rwdgrid-master/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/commonCSS/rwdgrid-master/rwdgrid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/core/H5core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/core/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/core/libs/Base/Base.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/core/libs/md.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/core/md.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/AlloyFinger/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/AlloyFinger/alloy_finger.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/SMValidator/SMVRules.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/SMValidator/SMValidator.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/SMValidator/user.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/adpPage/adpPage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/adpPage/adpPage.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/adpPage/explain.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/director/director.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/director/director.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/director/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/flow/flow.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/flow/flow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/flow/flow.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layer/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layer/skin/default/icon-ext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layer/skin/default/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layer/skin/default/loading-0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layer/skin/default/loading-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layer/skin/default/loading-2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layer/skin/layer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/css/layui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/css/modules/code.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/css/modules/laydate/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/css/modules/laydate/laydate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/css/modules/layer/default/icon-ext.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/css/modules/layer/default/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/css/modules/layer/default/layer.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/css/modules/layer/default/loading-0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/css/modules/layer/default/loading-1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/css/modules/layer/default/loading-2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/font/iconfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/font/iconfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/font/iconfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/font/iconfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/0.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/10.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/11.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/12.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/13.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/14.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/15.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/16.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/17.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/18.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/19.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/20.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/21.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/22.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/23.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/24.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/25.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/26.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/27.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/28.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/29.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/3.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/30.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/31.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/32.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/33.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/34.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/35.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/36.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/37.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/38.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/39.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/4.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/40.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/41.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/42.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/43.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/44.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/45.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/46.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/47.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/48.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/49.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/5.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/50.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/51.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/52.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/53.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/54.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/55.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/56.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/57.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/58.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/59.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/6.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/60.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/61.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/62.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/63.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/64.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/65.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/66.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/67.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/68.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/69.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/7.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/70.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/71.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/8.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/images/face/9.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/dest/layui.all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/lib/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/code.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/element.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/flow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/laydate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/layedit.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/layer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/laypage.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/laytpl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/tree.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/upload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/lay/modules/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/layui/layui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/文档与演示/Git仓库.url" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/文档与演示/在线演示.url" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/文档与演示/快速上手.url" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layui-v1.0.7/更新日志.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layuiflow/flow.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/layuiflow/flow.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/lazyload/lazyload.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/lazyload/md.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/api.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/bootstrap/css/bootstrap-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/bootstrap/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/bootstrap/css/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/bootstrap/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/bootstrap/img/glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/bootstrap/img/glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/bootstrap/js/bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/bootstrap/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/css/960.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/css/normalize.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/data/stockQuote.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/data/stockQuoteMore.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/data/stockQuotePage.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/examples1.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/img/botton_g1.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/img/botton_g2.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/img/low_contrast_linen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/img/low_contrast_linen_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/img/pw_maze_white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/img/pw_maze_white_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/js/vendor/css3-mediaqueries.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/js/vendor/html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/js/vendor/jquery-1.9.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/js/vendor/json2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/examples/js/vendor/modernizr-2.6.2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/img/arrow_down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/img/arrow_up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/img/furley_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/img/furley_bg_@2X.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/img/loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/img/sort-asc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/img/sort-desc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/mmGrid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/mmGrid.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/mmGrid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/mmGrid.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/mmPaginator.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/mmPaginator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/mmPaginator.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/mmPaginator.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/theme/bootstrap/mmGrid-bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/mmGrid/src/theme/bootstrap/mmPaginator-bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/owlCarousel/owl.carousel.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/owlCarousel/owl.carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/owlCarousel/owl.carousel.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/owlCarousel/owl.carousel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/owlCarousel/owl.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/owlCarousel/owl.theme.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/pagination/demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/pagination/demo_ajax.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/pagination/demo_options.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/pagination/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/pagination/lib/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/pagination/lib/jquery.pagination.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/pagination/lib/pagination.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/pagination/load.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/popper/md.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/requirejsplus/domReady.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/requirejsplus/md.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/requirejsplus/text.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/selectcitys/selectcity.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/selectcitys/城市三级联动 - citys.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/store/store.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/store/store.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/sweetalert/sweetalert.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/sweetalert/sweetalert.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/sweetalert/sweetalert.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/swiper/css/swiper.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/swiper/js/swiper.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/wangEditor/css/wangEditor.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/wangEditor/css/wangEditor.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/wangEditor/fonts/icomoon.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/wangEditor/fonts/icomoon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/wangEditor/fonts/icomoon.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/wangEditor/fonts/icomoon.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/wangEditor/index.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/wangEditor/js/wangEditor.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/wangEditor/js/wangEditor.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/zui/md.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/zui/zUI.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/plus/zui/zui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/require.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/require.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/requireconfig.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/sgf/navSwitch.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/CommFn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/ScorllEventFn/ScorllEventFn.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/ScorllEventFn/ScorllEventFnStrategies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/Sui_timer/Sui_timer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/Sui_timer/原型demo.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/Validator/VaildatorStrategies.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/Validator/Validator.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/jquerySelector/jquerySelector.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/jquerySelector/jquerySelector.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/jquerySelector/jquerySelector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/jquerySelector/jquerySelector.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/jqueryUploadimg/jqueryUploadimg.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/pageAdp/pageAdp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/user/shusc/timeprogressBar/timeprogressBar.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,10 +316,24 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="Weblib" />
+    <favorites_list name="WebstormProjects2" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>0.100rem</find>
+      <find>.j</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
@@ -30,14 +341,44 @@
         <option value="shusc24 &lt;shusc234@hotmail.com&gt;" />
       </list>
     </option>
+    <option name="UPDATE_TYPE" value="REBASE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/md.txt" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/public/plus/requirejsplus/md.txt" />
+        <option value="$PROJECT_DIR$/Weblib/public/plus/adpPage/adaptive.js" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/reset.css" />
+        <option value="$PROJECT_DIR$/Weblib/public/plus/adpPage/explain.txt" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/weui-less/weui.less" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/weui-less/weui.css" />
+        <option value="$PROJECT_DIR$/Weblib/require.js" />
+        <option value="$PROJECT_DIR$/Weblib/public/plus/requirejsplus/md.txt" />
+        <option value="$PROJECT_DIR$/Weblib/user/shusc/CommFn.js" />
+        <option value="$PROJECT_DIR$/Weblib/public/core/md.txt" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/Base/rwdgrid.min.scss" />
+        <option value="$PROJECT_DIR$/Weblib/public/core/libs/backBone/backBone.min.js" />
+        <option value="$PROJECT_DIR$/Weblib/public/plus/pagination/demo.html" />
+        <option value="$PROJECT_DIR$/Weblib/public/plus/wangEditor/index.md" />
+        <option value="$PROJECT_DIR$/Weblib/public/plus/lazyload/md.md" />
+        <option value="$PROJECT_DIR$/Weblib/public/core/libs/backBone/backBone-lodash.js" />
+        <option value="$PROJECT_DIR$/Weblib/public/plus/adpPage/adpPage.js" />
+        <option value="$PROJECT_DIR$/Weblib/public/plus/adpPage/adpPage.min.js" />
+        <option value="$PROJECT_DIR$/Weblib/public/core/H5core.js" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/Base/shusc/MT.scss" />
+        <option value="$PROJECT_DIR$/Weblib/public/core/core.js" />
+        <option value="$PROJECT_DIR$/Weblib/public/plus/popper/md.md" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/Base/shusc/PT.scss" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/Base/Base.css" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/Base/reset.scss" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/Base/reset.css" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/Base/shusc/common.scss" />
+        <option value="$PROJECT_DIR$/Weblib/user/shusc/jquerySelector/jquerySelector.js" />
+        <option value="$PROJECT_DIR$/Weblib/user/shusc/ScorllEventFn/ScorllEventFn.js" />
+        <option value="$PROJECT_DIR$/Weblib/commonCSS/Base/Base.scss" />
+        <option value="$PROJECT_DIR$/Weblib/public/core/libs/Base/Base.js" />
+        <option value="$PROJECT_DIR$/Weblib/requireconfig.js" />
+        <option value="$PROJECT_DIR$/Weblib/README.md" />
       </list>
     </option>
   </component>
@@ -48,26 +389,34 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="221" />
+    <option name="width" value="1514" />
+    <option name="height" value="886" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <OptionsSetting value="true" id="添加" />
-    <OptionsSetting value="true" id="移除" />
-    <OptionsSetting value="true" id="签出" />
-    <OptionsSetting value="true" id="更新" />
-    <OptionsSetting value="true" id="状态" />
-    <OptionsSetting value="true" id="编辑" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AngularJS</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -84,14 +433,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Weblib" />
+              <option name="myItemId" value="WebstormProjects2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -99,11 +461,30 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Errors" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="D:/phpStudy/WWW/project/Lost" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shusc\WebstormProjects2" />
+      <recent name="C:\Users\shusc\WebstormProjects2\Weblib\user\sgf" />
+      <recent name="C:\Users\shusc\WebstormProjects2\Weblib\public\plus" />
+      <recent name="C:\Users\shusc\WebstormProjects2\Weblib" />
+      <recent name="C:\Users\shusc\WebstormProjects2\Weblib\public\plus\SMValidator" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\shusc\WebstormProjects2\Weblib" />
+      <recent name="C:\Users\shusc\WebstormProjects2" />
+      <recent name="C:\Users\shusc\WebstormProjects2\Weblib\user\shusc\jqueryUploadimg" />
+      <recent name="C:\Users\shusc\WebstormProjects2\Weblib\public\plus\AlloyFinger" />
+      <recent name="C:\Users\shusc\WebstormProjects2\Weblib\public" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -113,6 +494,12 @@
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
       <config-file value="" />
       <node-interpreter value="project" />
       <envs />
@@ -140,7 +527,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -163,92 +550,478 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\shusc\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c0d776f3-47c7-419b-bdac-6517b043f308" name="Default" comment="" />
-      <created>1478837331711</created>
+      <changelist id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="" />
+      <created>1478838916714</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1478837331711</updated>
-      <workItem from="1478837332820" duration="853000" />
-      <workItem from="1478838338540" duration="165000" />
-      <workItem from="1478838610440" duration="609000" />
+      <updated>1478838916714</updated>
+      <workItem from="1478838917918" duration="179000" />
+      <workItem from="1478839587447" duration="70000" />
+      <workItem from="1478840013973" duration="170000" />
+      <workItem from="1478860583221" duration="638000" />
+      <workItem from="1478868767390" duration="2044000" />
+      <workItem from="1478874736836" duration="144000" />
+      <workItem from="1478874995184" duration="5000" />
+      <workItem from="1479044563381" duration="197000" />
+      <workItem from="1479091923943" duration="660000" />
+      <workItem from="1479172454168" duration="131000" />
+      <workItem from="1479203603007" duration="74000" />
+      <workItem from="1479203917177" duration="318000" />
+      <workItem from="1479268594352" duration="804000" />
+      <workItem from="1479287710513" duration="880000" />
+      <workItem from="1479306277407" duration="512000" />
+      <workItem from="1479338706344" duration="959000" />
+      <workItem from="1479373420562" duration="5000" />
+      <workItem from="1479433543833" duration="664000" />
+      <workItem from="1479443954340" duration="6000" />
+      <workItem from="1479470331200" duration="339000" />
+      <workItem from="1479684639431" duration="10000" />
+      <workItem from="1479823290829" duration="473000" />
+      <workItem from="1479824397531" duration="202000" />
+      <workItem from="1479824926899" duration="489000" />
+      <workItem from="1479949973073" duration="1485000" />
+      <workItem from="1479952463302" duration="96000" />
+      <workItem from="1479952701114" duration="213000" />
+      <workItem from="1479953347397" duration="151000" />
+      <workItem from="1479981207256" duration="218000" />
+      <workItem from="1480052477681" duration="539000" />
+      <workItem from="1480143954623" duration="21000" />
+      <workItem from="1480250682068" duration="257000" />
+      <workItem from="1480495530280" duration="6000" />
+      <workItem from="1480563767520" duration="547000" />
+      <workItem from="1480572474886" duration="745000" />
+      <workItem from="1480893552503" duration="6000" />
+      <workItem from="1480904719890" duration="622000" />
+      <workItem from="1480928653661" duration="344000" />
+      <workItem from="1481461262428" duration="1516000" />
+      <workItem from="1481462812769" duration="125000" />
+      <workItem from="1481523140080" duration="6000" />
+      <workItem from="1481636542392" duration="21000" />
+      <workItem from="1481636709331" duration="612000" />
+      <workItem from="1481762191241" duration="2619000" />
+      <workItem from="1481802845113" duration="2948000" />
+      <workItem from="1481852257462" duration="1663000" />
+      <workItem from="1481947658842" duration="4000" />
+      <workItem from="1481947677814" duration="24000" />
+      <workItem from="1482034047523" duration="459000" />
+      <workItem from="1482129763447" duration="233000" />
+      <workItem from="1482152723437" duration="24000" />
+      <workItem from="1482153503080" duration="1040000" />
+      <workItem from="1482193090980" duration="437000" />
+      <workItem from="1482238178765" duration="918000" />
+      <workItem from="1482328200839" duration="621000" />
+      <workItem from="1482379137106" duration="67000" />
+      <workItem from="1482384335218" duration="37000" />
+      <workItem from="1482414703017" duration="347000" />
+      <workItem from="1482537166918" duration="1706000" />
+      <workItem from="1482543199656" duration="5567000" />
+      <workItem from="1482579175741" duration="933000" />
+      <workItem from="1482580121008" duration="202000" />
+      <workItem from="1482582271518" duration="114000" />
+      <workItem from="1482709054038" duration="187000" />
+      <workItem from="1482714556773" duration="7000" />
+      <workItem from="1482931688549" duration="644000" />
+      <workItem from="1483091870512" duration="1239000" />
+      <workItem from="1483238543358" duration="9000" />
+      <workItem from="1483575165627" duration="209000" />
+      <workItem from="1483605489934" duration="689000" />
+      <workItem from="1483627277498" duration="468000" />
+      <workItem from="1484145217524" duration="1100000" />
+      <workItem from="1484292064962" duration="1067000" />
+      <workItem from="1484316705136" duration="48000" />
+      <workItem from="1484369839655" duration="18000" />
+      <workItem from="1484372328280" duration="607000" />
+      <workItem from="1484573165357" duration="628000" />
+      <workItem from="1484702990679" duration="643000" />
+      <workItem from="1484746913945" duration="1005000" />
+      <workItem from="1484837884028" duration="23000" />
+      <workItem from="1485215606961" duration="10000" />
+      <workItem from="1486102031770" duration="415000" />
+      <workItem from="1486102639996" duration="22000" />
+      <workItem from="1486252247809" duration="9000" />
+      <workItem from="1486303764181" duration="1362000" />
+      <workItem from="1486338275161" duration="2014000" />
+      <workItem from="1486359732122" duration="6000" />
+      <workItem from="1486440060737" duration="870000" />
+      <workItem from="1486700385981" duration="257000" />
+      <workItem from="1486703765477" duration="1197000" />
+      <workItem from="1486737796269" duration="1283000" />
+      <workItem from="1487472451044" duration="1671000" />
+      <workItem from="1487474153596" duration="4000" />
+      <workItem from="1487474406963" duration="242000" />
+      <workItem from="1487474672152" duration="176000" />
+      <workItem from="1487480044691" duration="149000" />
+      <workItem from="1487508544288" duration="700000" />
+      <workItem from="1487546253948" duration="5000" />
+      <workItem from="1487635221447" duration="1823000" />
+      <workItem from="1487639499297" duration="41000" />
+      <workItem from="1487639713332" duration="13000" />
+      <workItem from="1487677907287" duration="200000" />
+      <workItem from="1487721716594" duration="33000" />
+      <workItem from="1487730753054" duration="63000" />
+      <workItem from="1487730857769" duration="98000" />
+      <workItem from="1487745171092" duration="9000" />
+      <workItem from="1488294322105" duration="820000" />
+      <workItem from="1488361449419" duration="23000" />
+      <workItem from="1488422594469" duration="791000" />
+      <workItem from="1488425120127" duration="12000" />
+      <workItem from="1488438046721" duration="9000" />
+      <workItem from="1489243825506" duration="1168000" />
+      <workItem from="1489284932960" duration="527000" />
     </task>
-    <task id="LOCAL-00001" summary="Weblib&#10;">
-      <created>1478837381647</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
+    <task id="LOCAL-00051" summary="Weblib">
+      <created>1482538902181</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
       <option name="project" value="LOCAL" />
-      <updated>1478837381647</updated>
+      <updated>1482538902181</updated>
     </task>
-    <task id="LOCAL-00002" summary="Weblib&#10;">
-      <created>1478837471574</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
+    <task id="LOCAL-00052" summary="Weblib">
+      <created>1482544589779</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
       <option name="project" value="LOCAL" />
-      <updated>1478837471574</updated>
+      <updated>1482544589779</updated>
     </task>
-    <task id="LOCAL-00003" summary="Weblib&#10;">
-      <created>1478837612411</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
+    <task id="LOCAL-00053" summary="Weblib">
+      <created>1482545495717</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
       <option name="project" value="LOCAL" />
-      <updated>1478837612411</updated>
+      <updated>1482545495717</updated>
     </task>
-    <task id="LOCAL-00004" summary="Weblib&#10;">
-      <created>1478837685577</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
+    <task id="LOCAL-00054" summary="Weblib">
+      <created>1482546312396</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
       <option name="project" value="LOCAL" />
-      <updated>1478837685577</updated>
+      <updated>1482546312396</updated>
     </task>
-    <task id="LOCAL-00005" summary="Weblib&#10;">
-      <created>1478837764568</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
+    <task id="LOCAL-00055" summary="Weblib">
+      <created>1482546991909</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
       <option name="project" value="LOCAL" />
-      <updated>1478837764568</updated>
+      <updated>1482546991909</updated>
     </task>
-    <task id="LOCAL-00006" summary="Weblib&#10;">
-      <created>1478837808772</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
+    <task id="LOCAL-00056" summary="Weblib">
+      <created>1482547078571</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
       <option name="project" value="LOCAL" />
-      <updated>1478837808772</updated>
+      <updated>1482547078571</updated>
     </task>
-    <task id="LOCAL-00007" summary="这个很有趣">
-      <created>1478837958860</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
+    <task id="LOCAL-00057" summary="Weblib">
+      <created>1482547148109</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
       <option name="project" value="LOCAL" />
-      <updated>1478837958860</updated>
+      <updated>1482547148109</updated>
     </task>
-    <task id="LOCAL-00008" summary="这个很有趣">
-      <created>1478838109405</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
+    <task id="LOCAL-00058" summary="Weblib">
+      <created>1482549015619</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
       <option name="project" value="LOCAL" />
-      <updated>1478838109405</updated>
+      <updated>1482549015619</updated>
     </task>
-    <task id="LOCAL-00009" summary="Weblib">
-      <created>1478838418546</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
+    <task id="LOCAL-00059" summary="Weblib">
+      <created>1482580256880</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
       <option name="project" value="LOCAL" />
-      <updated>1478838418546</updated>
+      <updated>1482580256881</updated>
     </task>
-    <task id="LOCAL-00010" summary="Weblib">
-      <created>1478838705310</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
+    <task id="LOCAL-00060" summary="Weblib">
+      <created>1482582340881</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
       <option name="project" value="LOCAL" />
-      <updated>1478838705310</updated>
+      <updated>1482582340886</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00061" summary="Weblib">
+      <created>1483092325007</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1483092325007</updated>
+    </task>
+    <task id="LOCAL-00062" summary="Weblib">
+      <created>1483093034510</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1483093034510</updated>
+    </task>
+    <task id="LOCAL-00063" summary="Weblib">
+      <created>1484145932732</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1484145932732</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Weblib">
+      <created>1484292496433</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1484292496434</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Weblib">
+      <created>1484747063159</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1484747063159</updated>
+    </task>
+    <task id="LOCAL-00066" summary="Weblib">
+      <created>1484747922824</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1484747922824</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Weblib">
+      <created>1486102146854</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1486102146854</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Weblib">
+      <created>1486102291043</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1486102291043</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Weblib">
+      <created>1486102426746</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1486102426746</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Weblib">
+      <created>1486303913961</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1486303913977</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Weblib">
+      <created>1486304024122</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1486304024122</updated>
+    </task>
+    <task id="LOCAL-00072" summary="Weblib">
+      <created>1486338290323</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1486338290324</updated>
+    </task>
+    <task id="LOCAL-00073" summary="Weblib">
+      <created>1486339183361</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1486339183362</updated>
+    </task>
+    <task id="LOCAL-00074" summary="Weblib">
+      <created>1486445231257</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1486445231258</updated>
+    </task>
+    <task id="LOCAL-00075" summary="Weblib">
+      <created>1486445342127</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1486445342127</updated>
+    </task>
+    <task id="LOCAL-00076" summary="Weblib">
+      <created>1486703908788</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1486703908788</updated>
+    </task>
+    <task id="LOCAL-00077" summary="Weblib">
+      <created>1486704059127</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1486704059127</updated>
+    </task>
+    <task id="LOCAL-00078" summary="Weblib">
+      <created>1486704116011</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1486704116011</updated>
+    </task>
+    <task id="LOCAL-00079" summary="Weblib">
+      <created>1486704140755</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1486704140755</updated>
+    </task>
+    <task id="LOCAL-00080" summary="Weblib">
+      <created>1486704999890</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1486704999890</updated>
+    </task>
+    <task id="LOCAL-00081" summary="Weblib">
+      <created>1486737876595</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1486737876610</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Weblib">
+      <created>1486738397823</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1486738397823</updated>
+    </task>
+    <task id="LOCAL-00083" summary="Weblib">
+      <created>1486738462941</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1486738462941</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Weblib">
+      <created>1486739032979</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1486739032979</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Weblib">
+      <created>1487472535617</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1487472535617</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Weblib">
+      <created>1487472683691</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1487472683691</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Weblib">
+      <created>1487472862235</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1487472862235</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Weblib">
+      <created>1487474617692</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1487474617693</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Weblib">
+      <created>1487508681693</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1487508681693</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Weblib">
+      <created>1487509161731</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1487509161731</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Weblib">
+      <created>1487636787942</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1487636787942</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Weblib">
+      <created>1487637003116</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1487637003116</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Weblib">
+      <created>1487639518441</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1487639518451</updated>
+    </task>
+    <task id="LOCAL-00094" summary="Weblib">
+      <created>1487678001702</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1487678001702</updated>
+    </task>
+    <task id="LOCAL-00095" summary="Weblib">
+      <created>1488294740768</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1488294740768</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Weblib">
+      <created>1488295019419</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1488295019419</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Weblib">
+      <created>1488422778020</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1488422778020</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Weblib">
+      <created>1489244163716</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1489244163716</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Weblib">
+      <created>1489244941161</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1489244941161</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1627000" />
+    <option name="totallyTimeSpent" value="62079000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -260,27 +1033,49 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <frame x="221" y="0" width="1514" height="886" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.178125" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18834688" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49578503" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32513967" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3875862" sideWeight="0.49367756" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21786493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12118019" sideWeight="0.5039106" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2480447" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.49789253" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5021075" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32707182" sideWeight="0.49789253" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.49789253" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11011591" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout>
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -312,38 +1107,325 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Weblib&#10;" />
-    <MESSAGE value="这个很有趣" />
     <MESSAGE value="Weblib" />
     <option name="LAST_COMMIT_MESSAGE" value="Weblib" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/md.txt" />
-    <entry file="file://$PROJECT_DIR$/requireconfig.js">
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/lazyload/lazyload.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/md.txt" />
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/requirejsplus/domReady.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        <state relative-caret-position="-106">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/requirejsplus/text.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10312">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/core/libs/backBone/backBone.js" />
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/rwdgrid-master/rwdgrid-master/css/rwdgrid.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="52" column="15" lean-forward="true" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/rwdgrid.min.scss" />
+    <entry file="file://$PROJECT_DIR$/Weblib/public/core/libs/Base/requireClass.js" />
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/popper">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/shusc/PT.css" />
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/Base.min.css" />
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/shusc/PT.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="489" column="8" lean-forward="true" selection-start-line="489" selection-start-column="8" selection-end-line="489" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/reset.css" />
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/reset.scss" />
+    <entry file="file://$PROJECT_DIR$/Weblib/require.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2052">
+          <caret line="8" column="32" lean-forward="true" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/owlCarousel/owl.carousel.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="151" column="9" lean-forward="false" selection-start-line="151" selection-start-column="9" selection-end-line="151" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/owlCarousel/owl.carousel.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1917">
+          <caret line="229" column="0" lean-forward="false" selection-start-line="229" selection-start-column="0" selection-end-line="229" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/layer/layer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-756">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/AlloyFinger/alloy_finger.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="76" column="14" lean-forward="false" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/adpPage/adpPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="74" column="46" lean-forward="true" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/shusc/common.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/font-awesome/font-awesome.scss" />
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/owlCarousel/owl.theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/core/H5core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="243" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/Projectindex.rar">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/layui-v1.0.7/文档与演示/在线演示.url">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/user/shusc/jqueryUploadimg/jqueryUploadimg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/lazyload/md.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/popper/md.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/requirejsplus/md.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/selectcitys/城市三级联动 - citys.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4347">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/SMValidator/user.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1443">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/zui/md.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/director/index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/user/shusc/jqueryUploadimg/jqueryUploadimg.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="49" column="33" lean-forward="false" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/user/shusc/jquerySelector/jquerySelector.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2511">
+          <caret line="93" column="16" lean-forward="true" selection-start-line="93" selection-start-column="16" selection-end-line="93" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/user/shusc/ScorllEventFn/ScorllEventFn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="48" lean-forward="true" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/user/shusc/timeprogressBar/timeprogressBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/user/shusc/CommFn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/shusc/fn.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/shusc/MT.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3807">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="512" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/Base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/rest/Normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-189">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/rest/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/bootstrap/bootstrap.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/Base.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/core/core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4659">
+          <caret line="349" column="31" lean-forward="true" selection-start-line="349" selection-start-column="31" selection-end-line="349" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/public/core/libs/Base/Base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3751">
+          <caret line="95" column="30" lean-forward="true" selection-start-line="95" selection-start-column="30" selection-end-line="95" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/requireconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/plus/requirejsplus/md.txt">
+    <entry file="file://$PROJECT_DIR$/Weblib/css/webCss/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        <state relative-caret-position="-3116">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/css/webCss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weblib/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
           <folding />
         </state>
       </provider>
