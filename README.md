@@ -7,17 +7,19 @@
         PS:(swiper IE10)
 
 2.目录说明
-    目录：根目录/lib/Weblib
+    目录：根目录/lib/webLib
+          根目录/css/webCss
 
 	1.说明：该库存放通用的js 插件，库，框架 和 css 部分的基本构建组件
 
 	2.文件结构图
 
-		1.commonCSS 存放的公共部分的css文件
+		1.webCss 存放的公共部分的css文件
 				1.1 标准化文件： 1.reset.css 2.Normalize.css
  				2.1 表格系统：   1.rwdgrid.min
  				3.1 MT 工具      1.MT.scss
  				4.1 Base 整合了bootstrap的栅格系统版本为 3.37
+ 				5.1 style.scss 为所有的页面样式
 
 
  		2.public 存放的js公共库	
@@ -108,6 +110,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.3.12  调整文件夹结构
         2017.3.11  新增flow  流处理模块 layui模块的分拆 // navSwitch 用于浏览器判断 nav的active // clipboard 用于复制到粘贴板
         2017.2.28  新增anime 动画引擎库 xregexp正则验证库
         2017.2.19  commoncss 整合了 bootstrap的栅格系统 优化了文件结构
