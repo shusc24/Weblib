@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAIA,SAAS,CACL,MAAM,CAAE,IAAI,CACZ,UAAU,CAAE,MAAM",
+"sources": ["index.scss"],
+"names": [],
+"file": "index.css"
+}
