@@ -102,6 +102,9 @@
             |
             |
             |---------------- clipboard (官方网站 https://clipboardjs.com/ )
+            |
+            |
+            |---------------- cookies 插件（官方网站 https://github.com/js-cookie/js-cookie）
 
 
 
@@ -109,6 +112,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.3.21  新增cookies 插件  文档  https://github.com/js-cookie/js-cookie
         2017.3.16  新增单页面切换组件 mobilebone 文档地址：http://rawgit.com/zhangxinxu/mobilebone/develop/docs/index.html#&indexPage
         2017.3.12  调整文件夹结构
         2017.3.11  新增flow  流处理模块 layui模块的分拆 // navSwitch 用于浏览器判断 nav的active // clipboard 用于复制到粘贴板
