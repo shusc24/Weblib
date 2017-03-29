@@ -112,6 +112,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.3.29  新增input格式化插件 文档 https://github.com/nosir/cleave.js
         2017.3.21  新增cookies 插件  文档  https://github.com/js-cookie/js-cookie
         2017.3.16  新增单页面切换组件 mobilebone 文档地址：http://rawgit.com/zhangxinxu/mobilebone/develop/docs/index.html#&indexPage
         2017.3.12  调整文件夹结构
