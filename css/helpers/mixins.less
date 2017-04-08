@@ -1,0 +1,11 @@
+.omit{
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+
+.omitMore(@rows){
+  overflow : hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: @rows;
+  -webkit-box-orient: vertical;
+}
