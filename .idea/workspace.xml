@@ -2,88 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/helpers/functions.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/helpers/helpers.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/helpers/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/helpers/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/page/pageStyle.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-index.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendors/flow.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendors/fonticon/iconfont.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendors/swiper.less" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/Base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/Base.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/Font-Awesome/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/Font-Awesome/css/font-awesome.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/Font-Awesome/css/font-awesome.min.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/animate/animate.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/animate/animate.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap-theme.min.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap-theme.min.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap.min.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap.min.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap24.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap24.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap24.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap24.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rest/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rest/reset.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/user/shusc/MT.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/user/shusc/MT.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/user/shusc/MT.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/user/shusc/PT.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/user/shusc/PT.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/Base/user/shusc/PT.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/index/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/index/index.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/index/index.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/pageStyle.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/pageStyle.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/pageStyle.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/public/fn.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/public/fn.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/public/fn.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/public/var.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/public/var.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/page/public/var.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/style.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/webCss/style.scss" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/Base.scss" afterPath="$PROJECT_DIR$/css/base/Base.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/Font-Awesome/css/font-awesome.min.scss" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/css/font-awesome.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/Font-Awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/FontAwesome.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/Font-Awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/Font-Awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/Font-Awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/Font-Awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/Font-Awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.woff2" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/animate/animate.min.scss" afterPath="$PROJECT_DIR$/css/base/public/animate/animate.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/bootstrap/bootstrap.scss" afterPath="$PROJECT_DIR$/css/base/public/bootstrap/bootstrap.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rest/Normalize.css" afterPath="$PROJECT_DIR$/css/base/public/rest/Normalize.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rest/reset.scss" afterPath="$PROJECT_DIR$/css/base/public/rest/reset.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rwdgrid-master/rwdgrid-master/.gitignore" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/.gitignore" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rwdgrid-master/rwdgrid-master/12.psd" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/12.psd" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rwdgrid-master/rwdgrid-master/README.md" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/README.md" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rwdgrid-master/rwdgrid-master/css/rwdgrid.css" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/rwdgrid.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rwdgrid-master/rwdgrid-master/css/rwdgrid.min.css" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/rwdgrid.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rwdgrid-master/rwdgrid-master/css/style.css" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rwdgrid-master/rwdgrid-master/index.html" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/public/rwdgrid-master/rwdgrid.min.css" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/user/shusc/MT.scss" afterPath="$PROJECT_DIR$/css/base/user/shusc/MT.less" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/webCss/Base/user/shusc/PT.scss" afterPath="$PROJECT_DIR$/css/base/user/shusc/PT.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,7 +25,31 @@
     <favorites_list name="WebstormProjects2" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/webLib/requireconfig.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="240">
+                <caret line="103" column="72" lean-forward="true" selection-start-line="103" selection-start-column="72" selection-end-line="103" selection-end-column="72" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -168,10 +112,10 @@
         <option value="$PROJECT_DIR$/gulp/package.json" />
         <option value="$PROJECT_DIR$/css/webCss/style.scss" />
         <option value="$PROJECT_DIR$/css/webCss/Base/Base.scss" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/webLib/requireconfig.js" />
         <option value="$PROJECT_DIR$/css/page/pageStyle.less" />
         <option value="$PROJECT_DIR$/css/style-index.less" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -182,10 +126,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="97" />
-    <option name="y" value="45" />
-    <option name="width" value="1420" />
-    <option name="height" value="929" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -246,6 +190,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webLib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -511,14 +473,7 @@
       <workItem from="1490104358224" duration="791000" />
       <workItem from="1490776583528" duration="176000" />
       <workItem from="1490877661831" duration="705000" />
-      <workItem from="1491630335608" duration="173000" />
-    </task>
-    <task id="LOCAL-00062" summary="Weblib">
-      <created>1483093034510</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1483093034510</updated>
+      <workItem from="1491630335608" duration="833000" />
     </task>
     <task id="LOCAL-00063" summary="Weblib">
       <created>1484145932732</created>
@@ -856,11 +811,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490877752317</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Weblib">
+      <created>1491630527585</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1491630527585</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67532000" />
+    <option name="totallyTimeSpent" value="68192000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -872,9 +834,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="97" y="45" width="1420" height="929" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13458756" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09799789" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49578503" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32513967" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21786493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -999,13 +962,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gulp/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1055,35 +1011,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1570">
-          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/page/pageStyle.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/webLib/requireconfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="74" column="60" lean-forward="false" selection-start-line="74" selection-start-column="60" selection-end-line="74" selection-end-column="60" />
           <folding />
         </state>
       </provider>
@@ -1100,6 +1031,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulp/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1570">
+          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="240">
+            <caret line="103" column="72" lean-forward="true" selection-start-line="103" selection-start-column="72" selection-end-line="103" selection-end-column="72" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/webLib/requireconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
           <folding />
         </state>
       </provider>
