@@ -13,7 +13,7 @@
 
 	2.文件结构图
 
-		1.webCss 存放的公共部分的css文件
+		1.css 存放的css项目结构
 				1.1 标准化文件： 1.reset.css 2.Normalize.css
  				2.1 表格系统：   1.rwdgrid.min
  				3.1 MT 工具      1.MT.scss
@@ -22,23 +22,13 @@
 
 
  		2.public 存放的js公共库	
- 			|
- 			|
- 			|
- 			|-------2.1 core 核心库  (框架级核心库或者存放常用工具集合)
- 			|		|		
- 			|		|
- 			|		|---------------- libs 核心库 (存放核心库的分开文件) (jquery,underscore,class,vue,vuex,backBone,lodash)
- 			|		|
- 			|		|
- 			|		|---------------- core.js 核心库文件 (存放核心库的合并文件)(jquery,lodash(基于underscore),class)
- 			|       |
- 			|       |
- 			|       |---------------- h5core.js 核心库文件(存放核心库的合并文件) zepto 1.2 underscore class
- 			|
- 			|
- 			|
- 			|-------2.2 plus 库 (用于存放插件级文件)
+            |
+            |
+            |
+            |
+            |
+            |
+            |-------2.1 plus 库 (用于存放插件级文件)
  			|
             |
             |---------------- layui(ui组件， 不兼容AMD 使用时需要单独引入)
