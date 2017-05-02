@@ -105,6 +105,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.5.2   新增模板引擎用于备用 handlebars
         2017.4.9   新增动画库Velocity.js 文档 http://velocityjs.org/
         2017.4.8   更新预处理方案为less方案（结合weflow）
         2017.3.29  新增input格式化插件 文档 https://github.com/nosir/cleave.js
