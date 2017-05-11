@@ -1,5 +1,5 @@
 requirejs.config({
-	// baseUrl:"",
+    baseUrl:"../js",
 	paths:{
 		//核心库
         jquery:'https://cdn.bootcss.com/jquery/3.2.1/jquery.min',
@@ -88,6 +88,9 @@ requirejs.config({
         //handlebars 模板引擎
         handlebars:"https://cdn.bootcss.com/handlebars.js/4.0.6/handlebars.min",
 
+        // 元素滚动 固定jquery插件
+        scollfix:'lib/webLib/public/plus/scrollfix/scrollfix.min',
+
 	},
 	shim:{
 		layer:['jquery','css!https://cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],
@@ -103,6 +106,7 @@ requirejs.config({
         },
         flow:['jquery','css!lib/webLib/public/plus/layuiflow/flow.css'],
         mobilebone:['css!https://cdn.bootcss.com/mobilebone/2.6.1/mobilebone.min.css'],
-        cleave:['https://cdn.bootcss.com/cleave.js/0.7.14/addons/cleave-phone.cn.js']
+        cleave:['https://cdn.bootcss.com/cleave.js/0.7.14/addons/cleave-phone.cn.js'],
+        scollfix:['jquery']
 	}
 });
