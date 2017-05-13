@@ -98,6 +98,7 @@ requirejs.config({
 		layer:['jquery','css!https://cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],
 		zui:['jquery'],
 		AlloyFinger:{
+		    dep:[],
 			exports:'AlloyFinger'
 		},
         sweetalert:['css!https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.css'],
