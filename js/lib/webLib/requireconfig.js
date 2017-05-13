@@ -91,7 +91,9 @@ requirejs.config({
         // 元素滚动 固定jquery插件
         scollfix:'lib/webLib/public/plus/scrollfix/scrollfix.min',
 
-	},
+        //lightbox 插件
+        lightbox:'https://cdn.bootcss.com/lightbox2/2.9.0/js/lightbox.min',
+    },
 	shim:{
 		layer:['jquery','css!https://cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],
 		zui:['jquery'],
@@ -107,6 +109,7 @@ requirejs.config({
         flow:['jquery','css!lib/webLib/public/plus/layuiflow/flow.css'],
         mobilebone:['css!https://cdn.bootcss.com/mobilebone/2.6.1/mobilebone.min.css'],
         cleave:['https://cdn.bootcss.com/cleave.js/0.7.14/addons/cleave-phone.cn.js'],
-        scollfix:['jquery']
+        scollfix:['jquery'],
+        lightbox:['css!https://cdn.bootcss.com/lightbox2/2.9.0/css/lightbox.min.css']
 	}
 });

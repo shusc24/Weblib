@@ -101,6 +101,9 @@
             |
             |
             |---------------- scollfix.js（官方网站 https://github.com/kujian/scrollfix）
+            |
+            |
+            |---------------- lightbox.js（官方网站 https://github.com/kujian/scrollfix）
                         
     
 
@@ -108,6 +111,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.5.13  增加 lightbox 插件  用于图片展示：https://github.com/lokesh/lightbox2
         2017.5.11  增加 元素定位插件 scollfix 
                    github地址:https://github.com/kujian/scrollfix
                     
