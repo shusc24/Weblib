@@ -33,7 +33,7 @@ requirejs.config({
         socketIo:'https://cdn.bootcss.com/socket.io/1.7.3/socket.io.min.',
         dynamics:'https://cdn.staticfile.org/dynamics.js/1.1.5/dynamics.min',//物理库
 
-        //前端路由 文档地址 https://github.com/flatiron/director
+        //前端路由 文档地址 https://github.com/flatiron/director  手机版有兼容问题
         director:'https://cdn.staticfile.org/Director/1.2.8/director.min',
 
 		zui:"lib/webLib/public/plus/zui/zui",
