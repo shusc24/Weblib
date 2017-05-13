@@ -100,10 +100,10 @@
             |---------------- Velocity.js（官方网站 http://velocityjs.org/）
             |
             |
-            |---------------- scollfix.js（官方网站 https://github.com/kujian/scrollfix）
+            |---------------- （效果插件）scollfix.js（官方网站 https://github.com/kujian/scrollfix）
             |
             |
-            |---------------- lightbox.js（官方网站 https://github.com/kujian/scrollfix）
+            |----------------（效果插件） lightbox.js（官方网站 https://github.com/kujian/scrollfix）
                         
     
 

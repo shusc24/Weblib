@@ -2,223 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/modules/laydate/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/modules/layer/default/icon-ext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/modules/layer/default/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/modules/layer/default/loading-0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/modules/layer/default/loading-1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/modules/layer/default/loading-2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/font/iconfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/font/iconfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/font/iconfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/33.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/34.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/35.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/36.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/37.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/38.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/39.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/40.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/41.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/42.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/43.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/44.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/45.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/46.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/47.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/48.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/49.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/51.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/52.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/53.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/54.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/55.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/56.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/57.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/58.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/59.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/60.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/61.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/62.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/63.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/65.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/66.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/67.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/68.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/69.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/70.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/71.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/images/face/9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/modules/laydate/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/modules/layer/default/icon-ext.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/modules/layer/default/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/modules/layer/default/loading-0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/modules/layer/default/loading-1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/modules/layer/default/loading-2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/font/iconfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/font/iconfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/font/iconfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/0.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/10.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/11.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/12.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/13.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/14.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/15.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/16.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/17.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/18.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/19.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/20.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/21.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/22.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/23.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/24.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/25.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/26.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/27.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/28.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/29.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/3.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/30.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/31.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/32.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/33.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/34.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/35.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/36.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/37.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/38.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/39.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/4.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/40.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/41.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/42.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/43.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/44.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/45.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/46.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/47.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/48.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/49.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/5.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/50.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/51.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/52.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/53.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/54.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/55.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/56.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/57.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/58.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/59.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/6.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/60.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/61.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/62.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/63.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/64.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/65.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/66.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/67.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/68.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/69.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/7.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/70.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/71.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/8.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/images/face/9.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/layui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/layui.mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/modules/code.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/modules/laydate/laydate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/css/modules/layer/default/layer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/font/iconfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/dest/layui.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/code.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/flow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/laydate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/layedit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/layer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/laypage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/laytpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/mobile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/lay/modules/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/layui/layui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/文档与演示/Git仓库.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/文档与演示/在线演示.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/文档与演示/快速上手.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/更新日志.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/layui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/layui.mobile.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/modules/code.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/modules/laydate/laydate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/css/modules/layer/default/layer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/font/iconfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/dest/layui.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/code.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/element.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/flow.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/laydate.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/layedit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/layer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/laypage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/laytpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/mobile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/tree.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/upload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/lay/modules/util.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/layui/layui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/文档与演示/Git仓库.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/文档与演示/在线演示.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/文档与演示/快速上手.url" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/更新日志.url" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/user/shusc/adpPage.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" afterPath="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
     </list>
     <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -240,37 +26,14 @@
     <favorites_list name="WebstormProjects2" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="93" column="21" lean-forward="false" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="367">
-                <caret line="116" column="20" lean-forward="false" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="Less File" />
       </list>
     </option>
   </component>
@@ -338,6 +101,7 @@
         <option value="$PROJECT_DIR$/html/homepage.html" />
         <option value="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/css/base/user/shusc/adpPage.less" />
       </list>
     </option>
   </component>
@@ -427,7 +191,7 @@
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
-    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="list.type.of.created.stylesheet" value="Less" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="add_unversioned_files" value="true" />
   </component>
@@ -702,14 +466,7 @@
       <workItem from="1494293560095" duration="23000" />
       <workItem from="1494474331914" duration="670000" />
       <workItem from="1494494316013" duration="164000" />
-      <workItem from="1494665555344" duration="604000" />
-    </task>
-    <task id="LOCAL-00077" summary="Weblib">
-      <created>1486704059127</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1486704059127</updated>
+      <workItem from="1494665555344" duration="863000" />
     </task>
     <task id="LOCAL-00078" summary="Weblib">
       <created>1486704116011</created>
@@ -1047,11 +804,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494474883073</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Weblib">
+      <created>1494666184459</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1494666184460</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="83114000" />
+    <option name="totallyTimeSpent" value="83373000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1147,7 +911,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Weblib/public/plus/zui/md.md" />
     <entry file="file://$PROJECT_DIR$/Weblib/public/plus/director/index.md" />
     <entry file="file://$PROJECT_DIR$/Weblib/user/shusc/jqueryUploadimg/jqueryUploadimg.js" />
     <entry file="file://$PROJECT_DIR$/Weblib/user/shusc/jquerySelector/jquerySelector.js" />
@@ -1340,10 +1103,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
+    <entry file="file://$PROJECT_DIR$/css/base/user/shusc/adpPage.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="93" column="21" lean-forward="false" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+        <state relative-caret-position="108">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
@@ -1351,8 +1114,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="367">
-            <caret line="116" column="20" lean-forward="false" selection-start-line="116" selection-start-column="20" selection-end-line="116" selection-end-column="20" />
+          <first_editor relative-caret-position="2203">
+            <caret line="107" column="4" lean-forward="true" selection-start-line="107" selection-start-column="4" selection-end-line="107" selection-end-column="4" />
             <folding />
           </first_editor>
           <second_editor />
@@ -1361,6 +1124,14 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="1570">
           <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="93" column="21" lean-forward="false" selection-start-line="93" selection-start-column="21" selection-end-line="93" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>
