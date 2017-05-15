@@ -90,7 +90,7 @@ requirejs.config({
         //handlebars 模板引擎
         handlebars:"https://cdn.bootcss.com/handlebars.js/4.0.6/handlebars.min",
 
-        // 元素滚动 固定jquery插件
+        // 元素滚动 固定jquery插件 https://github.com/kujian/scrollfix
         scollfix:'lib/webLib/public/plus/scrollfix/scrollfix.min',
 
         //lightbox 插件  官方文档：https://github.com/lokesh/lightbox2/
@@ -102,7 +102,6 @@ requirejs.config({
         ScrollMagic:'https://cdn.bootcss.com/ScrollMagic/2.0.5/ScrollMagic.min',
             // ScrollMagic velocity 插件
         ScrollMagicV:'https://cdn.bootcss.com/ScrollMagic/2.0.5/plugins/animation.velocity.min',
-
 
     },
 	shim:{
