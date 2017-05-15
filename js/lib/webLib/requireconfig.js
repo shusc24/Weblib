@@ -82,8 +82,10 @@ requirejs.config({
         //input格式化库 github文档 https://github.com/nosir/cleave.js 官网：http://nosir.github.io/cleave.js/
         cleave:'https://cdn.bootcss.com/cleave.js/0.7.15/cleave.min',
 
-        //动画库兼容IE8  http://velocityjs.org/
+        //动画库兼容IE8  http://velocityjs.org/ velocityUi 预制的动画效果 调用直接调用 Ui
         velocity:'https://cdn.bootcss.com/velocity/1.5.0/velocity.min',
+
+        velocityUi:'https://cdn.bootcss.com/velocity/1.5.0/velocity.ui.min',
 
         //handlebars 模板引擎
         handlebars:"https://cdn.bootcss.com/handlebars.js/4.0.6/handlebars.min",
@@ -91,7 +93,7 @@ requirejs.config({
         // 元素滚动 固定jquery插件
         scollfix:'lib/webLib/public/plus/scrollfix/scrollfix.min',
 
-        //lightbox 插件
+        //lightbox 插件  官方文档：https://github.com/lokesh/lightbox2/
         lightbox:'https://cdn.bootcss.com/lightbox2/2.9.0/js/lightbox.min',
     },
 	shim:{
@@ -111,6 +113,7 @@ requirejs.config({
         mobilebone:['css!https://cdn.bootcss.com/mobilebone/2.6.1/mobilebone.min.css'],
         cleave:['https://cdn.bootcss.com/cleave.js/0.7.14/addons/cleave-phone.cn.js'],
         scollfix:['jquery'],
-        lightbox:['css!https://cdn.bootcss.com/lightbox2/2.9.0/css/lightbox.min.css']
+        lightbox:['css!https://cdn.bootcss.com/lightbox2/2.9.0/css/lightbox.min.css'],
+        velocityUi:['velocity']
 	}
 });
