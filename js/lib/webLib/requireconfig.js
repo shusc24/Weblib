@@ -95,6 +95,15 @@ requirejs.config({
 
         //lightbox 插件  官方文档：https://github.com/lokesh/lightbox2/
         lightbox:'https://cdn.bootcss.com/lightbox2/2.9.0/js/lightbox.min',
+
+        //监控滚动插件 官方文档：http://scrollmagic.io/examples/basic/simple_pinning.html
+        // github :  https://github.com/janpaepke/ScrollMagic
+
+        ScrollMagic:'https://cdn.bootcss.com/ScrollMagic/2.0.5/ScrollMagic.min',
+            // ScrollMagic velocity 插件
+        ScrollMagicV:'https://cdn.bootcss.com/ScrollMagic/2.0.5/plugins/animation.velocity.min',
+
+
     },
 	shim:{
 		layer:['jquery','css!https://cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],
