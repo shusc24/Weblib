@@ -1,3 +1,4 @@
+
 requirejs.config({
     baseUrl:"../js",
 	paths:{
@@ -125,3 +126,10 @@ requirejs.config({
         velocityUi:['velocity']
 	}
 });
+(function () {
+    if(window['adaptive']){
+        window['adaptive'].desinWidth = 640;
+        window['adaptive'].baseFont = 24;
+        window['adaptive'].init();
+    }
+}());
