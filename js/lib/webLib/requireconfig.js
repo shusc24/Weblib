@@ -101,8 +101,11 @@ requirejs.config({
         // github :  https://github.com/janpaepke/ScrollMagic
 
         ScrollMagic:'https://cdn.bootcss.com/ScrollMagic/2.0.5/ScrollMagic.min',
-            // ScrollMagic velocity 插件
+        // ScrollMagic velocity 插件
         ScrollMagicV:'https://cdn.bootcss.com/ScrollMagic/2.0.5/plugins/animation.velocity.min',
+
+        //jquery 跑马灯
+        Marquee:'https://cdn.bootcss.com/jQuery.Marquee/1.3.94/jquery.marquee.min',
 
     },
 	shim:{
@@ -123,7 +126,8 @@ requirejs.config({
         cleave:['https://cdn.bootcss.com/cleave.js/0.7.14/addons/cleave-phone.cn.js'],
         scollfix:['jquery'],
         lightbox:['css!https://cdn.bootcss.com/lightbox2/2.9.0/css/lightbox.min.css'],
-        velocityUi:['velocity']
+        velocityUi:['velocity'],
+        Marquee:['jquery']
 	}
 });
 (function () {

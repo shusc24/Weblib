@@ -103,7 +103,7 @@
             |---------------- （效果插件）scollfix.js（官方网站 https://github.com/kujian/scrollfix）
             |
             |
-            |----------------（效果插件） lightbox.js（官方网站 https://github.com/kujian/scrollfix）
+            |----------------（效果插件） lightbox.js
                         
     
 
@@ -111,6 +111,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.5.23  增加jquery Marquee 跑马灯插件  http://aamirafridi.com/jquery/jquery-marquee-plugin
         2017.5.17  增加purecss 框架及 响应式栅格系统 ：https://www.purecss.cn/
         2017.5.13  增加 lightbox 插件  用于图片展示：https://github.com/lokesh/lightbox2
         2017.5.11  增加 元素定位插件 scollfix 
