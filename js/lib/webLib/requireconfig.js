@@ -23,19 +23,19 @@ requirejs.config({
         h5core:"lib/webLib/public/core/H5core",
         Class:"lib/webLib/public/core/libs/Base/Base",
 		//插件库
-        swiper:"https://cdn.staticfile.org/Swiper/3.4.2/js/swiper.min",
-        swiper2:"https://cdn.staticfile.org/Swiper/2.7.6/idangerous.swiper", //兼容ie6 ie7
-        echarts:"https://cdn.staticfile.org/echarts/3.3.2/echarts.min",
+        swiper:"https://cdn.bootcss.com/Swiper/3.4.2/js/swiper.min",
+        swiper2:"https://cdn.bootcss.com/Swiper/2.7.6/idangerous.swiper.min", //兼容ie6 ie7
+        echarts:"https://cdn.bootcss.com/echarts/3.5.4/echarts.min",
         sweetalert:'https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min',
 		weixin:'http://res.wx.qq.com/open/js/jweixin-1.1.0',
         popper:'https://cdn.bootcss.com/popper.js/1.9.1/popper.min',
         cropper:"https://cdn.bootcss.com/cropper/3.0.0-alpha.1/cropper.min",//图片裁剪插件
         layer:"https://cdn.bootcss.com/layer/3.0.1/layer.min",
         socketIo:'https://cdn.bootcss.com/socket.io/1.7.3/socket.io.min.',
-        dynamics:'https://cdn.staticfile.org/dynamics.js/1.1.5/dynamics.min',//物理库
+        dynamics:'https://cdn.bootcss.com/dynamics.js/1.1.5/dynamics.min',//物理库
 
         //前端路由 文档地址 https://github.com/flatiron/director  手机版有兼容问题
-        director:'https://cdn.staticfile.org/Director/1.2.8/director.min',
+        director:'https://cdn.bootcss.com/Director/1.2.8/director.min',
 
 		zui:"lib/webLib/public/plus/zui/zui",
         pagination:'lib/webLib/public/plus/pagination/lib/jquery.pagination',
@@ -116,7 +116,7 @@ requirejs.config({
 			exports:'AlloyFinger'
 		},
         sweetalert:['css!https://cdn.bootcss.com/sweetalert/1.1.3/sweetalert.min.css'],
-        swiper2:['css!https://cdn.staticfile.org/Swiper/2.7.6/idangerous.swiper.min.css'],
+        swiper2:['css!https://cdn.bootcss.com/Swiper/2.7.6/idangerous.swiper.min.css'],
         cropper:['jquery','css!https://cdn.bootcss.com/cropper/3.0.0-alpha.1/cropper.min.css'],
         director:{
             exports:'Router'
