@@ -107,6 +107,8 @@ requirejs.config({
         //jquery 跑马灯
         Marquee:'https://cdn.bootcss.com/jQuery.Marquee/1.3.94/jquery.marquee.min',
 
+        //环境判断
+        juge:'lib/webLib/user/shusc/juge/juge',
     },
 	shim:{
 		layer:['jquery','css!https://cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],
