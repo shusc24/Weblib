@@ -1,4 +1,6 @@
 
+
+
 requirejs.config({
     baseUrl:"../js",
 	paths:{
@@ -109,6 +111,10 @@ requirejs.config({
 
         //环境判断
         juge:'lib/webLib/user/shusc/juge/juge',
+
+        //日期判断
+        moment:'https://cdn.bootcss.com/moment.js/2.18.1/moment.min',
+
     },
 	shim:{
 		layer:['jquery','css!https://cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],

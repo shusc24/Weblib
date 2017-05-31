@@ -104,6 +104,12 @@
             |
             |
             |----------------（效果插件） lightbox.js
+            |
+            |
+            |----------------（日期处理） momentjs
+            |
+            |
+            |----------------（核心babel库） 用于es6 解析 https://cdn.bootcss.com/babel-polyfill/7.0.0-alpha.9/polyfill.min.js
                         
     
 
@@ -111,6 +117,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.5.31  增加moment.js 用于处理日期 http://momentjs.cn/docs/
         2017.5.23  增加jquery Marquee 跑马灯插件  http://aamirafridi.com/jquery/jquery-marquee-plugin
         2017.5.17  增加purecss 框架及 响应式栅格系统 ：https://www.purecss.cn/
         2017.5.13  增加 lightbox 插件  用于图片展示：https://github.com/lokesh/lightbox2
