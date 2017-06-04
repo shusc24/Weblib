@@ -4,6 +4,7 @@ requirejs.config({
 		//核心库
         jquery:'https://cdn.bootcss.com/jquery/3.2.1/jquery.min',
         jqueryOne:'https://cdn.bootcss.com/jquery/1.12.4/jquery.min',
+        jqueryTwo:'https://cdn.bootcss.com/jquery/2.2.4/jquery.min',
         Vue:"https://cdn.bootcss.com/vue/2.3.3/vue.min",
         VueOne:'https://cdn.bootcss.com/vue/1.0.28/vue.min',
         backbone:"https://cdn.bootcss.com/backbone.js/1.3.3/backbone-min",
