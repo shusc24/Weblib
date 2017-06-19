@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" afterPath="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" />
     </list>
     <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="29" column="60" lean-forward="true" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+            <state relative-caret-position="27">
+              <caret line="29" column="60" lean-forward="false" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="flow.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="194" column="11" lean-forward="true" selection-start-line="194" selection-start-column="11" selection-end-line="194" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -78,7 +88,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Weblib/public/plus/adpPage/adaptive.js" />
         <option value="$PROJECT_DIR$/Weblib/commonCSS/reset.css" />
         <option value="$PROJECT_DIR$/Weblib/public/plus/adpPage/explain.txt" />
         <option value="$PROJECT_DIR$/Weblib/commonCSS/weui-less/weui.less" />
@@ -129,6 +138,7 @@
         <option value="$PROJECT_DIR$/js/lib/webLib/user/shusc/juge/juge.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
+        <option value="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" />
       </list>
     </option>
   </component>
@@ -139,10 +149,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="132" />
-    <option name="y" value="61" />
-    <option name="width" value="1932" />
-    <option name="height" value="867" />
+    <option name="x" value="155" />
+    <option name="y" value="102" />
+    <option name="width" value="1931" />
+    <option name="height" value="785" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -184,6 +194,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -208,7 +219,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -518,14 +528,9 @@
       <workItem from="1496589078441" duration="104000" />
       <workItem from="1496620989148" duration="4000" />
       <workItem from="1497490364209" duration="77000" />
-      <workItem from="1497570849206" duration="226000" />
-    </task>
-    <task id="LOCAL-00098" summary="Weblib">
-      <created>1489244163716</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1489244163716</updated>
+      <workItem from="1497570849206" duration="833000" />
+      <workItem from="1497572806148" duration="6000" />
+      <workItem from="1497860544797" duration="83000" />
     </task>
     <task id="LOCAL-00099" summary="Weblib">
       <created>1489244941161</created>
@@ -863,11 +868,18 @@
       <option name="project" value="LOCAL" />
       <updated>1496589158484</updated>
     </task>
-    <option name="localTasksCounter" value="147" />
+    <task id="LOCAL-00147" summary="Weblib">
+      <created>1497571081057</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1497571081058</updated>
+    </task>
+    <option name="localTasksCounter" value="148" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95486000" />
+    <option name="totallyTimeSpent" value="96182000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -879,10 +891,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="132" y="61" width="1932" height="867" extended-state="0" />
+    <frame x="155" y="102" width="1931" height="785" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15892291" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1584786" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49578503" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37988827" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21786493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1041,13 +1053,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="69" lean-forward="false" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -1220,6 +1225,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="29" column="60" lean-forward="false" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="1570">
@@ -1236,10 +1249,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="60" lean-forward="true" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+        <state relative-caret-position="352">
+          <caret line="194" column="11" lean-forward="true" selection-start-line="194" selection-start-column="11" selection-end-line="194" selection-end-column="11" />
           <folding />
         </state>
       </provider>
