@@ -39,16 +39,16 @@
       <file leaf-file-name="flow.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
               <folding>
-                <element signature="e#139#298#0" expanded="false" />
-                <element signature="e#465#3169#0" expanded="false" />
-                <element signature="e#3230#5661#0" expanded="false" />
-                <element signature="e#5742#5784#0" expanded="false" />
-                <element signature="e#5848#5887#0" expanded="false" />
-                <element signature="e#5942#5978#0" expanded="false" />
-                <element signature="e#6031#6106#0" expanded="false" />
+                <element signature="e#492#651#0" expanded="false" />
+                <element signature="e#817#3521#0" expanded="false" />
+                <element signature="e#3582#6013#0" expanded="false" />
+                <element signature="e#6094#6136#0" expanded="false" />
+                <element signature="e#6200#6239#0" expanded="false" />
+                <element signature="e#6294#6330#0" expanded="false" />
+                <element signature="e#6383#6458#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -539,14 +539,7 @@
       <workItem from="1497570849206" duration="833000" />
       <workItem from="1497572806148" duration="6000" />
       <workItem from="1497860544797" duration="1939000" />
-      <workItem from="1497866725583" duration="45000" />
-    </task>
-    <task id="LOCAL-00100" summary="Weblib">
-      <created>1489285519837</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1489285519837</updated>
+      <workItem from="1497866725583" duration="815000" />
     </task>
     <task id="LOCAL-00101" summary="Weblib">
       <created>1489285667784</created>
@@ -884,11 +877,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497860632746</updated>
     </task>
-    <option name="localTasksCounter" value="149" />
+    <task id="LOCAL-00149" summary="Weblib">
+      <created>1497866775119</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1497866775119</updated>
+    </task>
+    <option name="localTasksCounter" value="150" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98083000" />
+    <option name="totallyTimeSpent" value="98853000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1259,16 +1259,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="216">
+          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
           <folding>
-            <element signature="e#139#298#0" expanded="false" />
-            <element signature="e#465#3169#0" expanded="false" />
-            <element signature="e#3230#5661#0" expanded="false" />
-            <element signature="e#5742#5784#0" expanded="false" />
-            <element signature="e#5848#5887#0" expanded="false" />
-            <element signature="e#5942#5978#0" expanded="false" />
-            <element signature="e#6031#6106#0" expanded="false" />
+            <element signature="e#492#651#0" expanded="false" />
+            <element signature="e#817#3521#0" expanded="false" />
+            <element signature="e#3582#6013#0" expanded="false" />
+            <element signature="e#6094#6136#0" expanded="false" />
+            <element signature="e#6200#6239#0" expanded="false" />
+            <element signature="e#6294#6330#0" expanded="false" />
+            <element signature="e#6383#6458#0" expanded="false" />
           </folding>
         </state>
       </provider>

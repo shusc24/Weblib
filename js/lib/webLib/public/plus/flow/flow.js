@@ -7,9 +7,18 @@
 
  @重写使用全局模式
  */
-
-define(['jquery'], function ($) {
-
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+        // AMD
+        define(['jquery'], factory);
+    } else if (typeof exports === 'object') {
+        // Node, CommonJS之类的
+        module.exports = factory(require('jquery'));
+    } else {
+        // 浏览器全局变量(root 即 window)
+        root.returnExports = factory(root.jQuery);
+    }
+}(this, function ($) {
     var Flow = function(options){
         this.config = {
             pause:false,
@@ -21,7 +30,6 @@ define(['jquery'], function ($) {
     }
         ,ELEM_MORE = 'layui-flow-more'
         ,ELEM_LOAD = '<i class="fa fa-spinner fa-spin fa-2x fa-fw"></i>'
-
     //主方法
     Flow.prototype.load = function(options){
         var that = this,lock, isOver, lazyimg, timer;
@@ -206,7 +214,6 @@ define(['jquery'], function ($) {
     }
 
     return Flow;
-
-})
+}));
  
  
