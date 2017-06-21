@@ -2,8 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/castle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/kaba.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/koara.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/kuma.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-kaba.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-koara.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-kuma.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-lion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-rakuda.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-sai.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/lion.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/rakuda.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/sai.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/test.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.babelrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.eslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.node-version" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/circle.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/css/smartphoto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/css/smartphoto.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/event.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/jquery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/noimage.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/resizeFit.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/vanilla.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/images/icon_arrow_next.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/images/icon_arrow_prev.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/images/icon_close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/jquery-smartphoto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/jquery-smartphoto.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/smartphoto.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/smartphoto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/smartphoto.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/smartphoto.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/adaptor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/core/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/scss/smartphoto.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/adaptor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/core/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/core/viwer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/lib/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/test/preload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/tools/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/yarn.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" afterPath="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
     </list>
     <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,31 +82,13 @@
     <favorites_list name="WebstormProjects2" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="false">
+    <leaf>
+      <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="783">
-              <caret line="29" column="60" lean-forward="false" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+            <state relative-caret-position="272">
+              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flow.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-              <folding>
-                <element signature="e#492#651#0" expanded="false" />
-                <element signature="e#817#3521#0" expanded="false" />
-                <element signature="e#3582#6013#0" expanded="false" />
-                <element signature="e#6094#6136#0" expanded="false" />
-                <element signature="e#6200#6239#0" expanded="false" />
-                <element signature="e#6294#6330#0" expanded="false" />
-                <element signature="e#6383#6458#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -58,8 +97,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="3186">
-                <caret line="118" column="14" lean-forward="false" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+              <first_editor relative-caret-position="216">
+                <caret line="113" column="13" lean-forward="true" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -144,9 +183,9 @@
         <option value="$PROJECT_DIR$/css/helpers/mixins.less" />
         <option value="$PROJECT_DIR$/html/usercenter.html" />
         <option value="$PROJECT_DIR$/js/lib/webLib/user/shusc/juge/juge.js" />
+        <option value="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
-        <option value="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" />
       </list>
     </option>
   </component>
@@ -202,6 +241,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -212,16 +261,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="WebstormProjects2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -241,19 +280,19 @@
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib" />
-      <recent name="C:\Users\shusc\WebstormProjects2\html" />
-      <recent name="C:\Users\shusc\WebstormProjects2\css" />
-      <recent name="C:\Users\shusc\WebstormProjects2\css\base\public\purecss" />
-      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib\public\plus" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shusc\WebstormProjects2\js" />
       <recent name="C:\Users\shusc\WebstormProjects2\lib" />
       <recent name="C:\Users\shusc\WebstormProjects2\Weblib" />
       <recent name="C:\Users\shusc\WebstormProjects2" />
       <recent name="C:\Users\shusc\WebstormProjects2\Weblib\user\shusc\jqueryUploadimg" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib\public\plus" />
+      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib" />
+      <recent name="C:\Users\shusc\WebstormProjects2\html" />
+      <recent name="C:\Users\shusc\WebstormProjects2\css" />
+      <recent name="C:\Users\shusc\WebstormProjects2\css\base\public\purecss" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -539,14 +578,9 @@
       <workItem from="1497570849206" duration="833000" />
       <workItem from="1497572806148" duration="6000" />
       <workItem from="1497860544797" duration="1939000" />
-      <workItem from="1497866725583" duration="815000" />
-    </task>
-    <task id="LOCAL-00101" summary="Weblib">
-      <created>1489285667784</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1489285667784</updated>
+      <workItem from="1497866725583" duration="1758000" />
+      <workItem from="1497876126324" duration="30000" />
+      <workItem from="1498012138020" duration="566000" />
     </task>
     <task id="LOCAL-00102" summary="Weblib">
       <created>1489285982889</created>
@@ -884,11 +918,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497866775119</updated>
     </task>
-    <option name="localTasksCounter" value="150" />
+    <task id="LOCAL-00150" summary="Weblib">
+      <created>1497867548008</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1497867548008</updated>
+    </task>
+    <option name="localTasksCounter" value="151" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98853000" />
+    <option name="totallyTimeSpent" value="100392000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -903,7 +944,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15806112" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17702845" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49578503" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37988827" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21786493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1233,43 +1274,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="783">
-          <caret line="29" column="60" lean-forward="false" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
-          <folding />
+        <state relative-caret-position="124">
+          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1570">
-          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="3186">
-            <caret line="118" column="14" lean-forward="false" selection-start-line="118" selection-start-column="14" selection-end-line="118" selection-end-column="14" />
+          <first_editor relative-caret-position="216">
+            <caret line="113" column="13" lean-forward="true" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1570">
+          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js">
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-          <folding>
-            <element signature="e#492#651#0" expanded="false" />
-            <element signature="e#817#3521#0" expanded="false" />
-            <element signature="e#3582#6013#0" expanded="false" />
-            <element signature="e#6094#6136#0" expanded="false" />
-            <element signature="e#6200#6239#0" expanded="false" />
-            <element signature="e#6294#6330#0" expanded="false" />
-            <element signature="e#6383#6458#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="272">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

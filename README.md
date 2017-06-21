@@ -110,6 +110,9 @@
             |
             |
             |----------------（核心babel库） 用于es6 解析 https://cdn.bootcss.com/babel-polyfill/7.0.0-alpha.9/polyfill.min.js
+            |
+            |
+            |----------------（smartphoto插件）用于响应式相册
                         
     
 
@@ -117,6 +120,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.6.21  增加smartphoto 用于响应式相册  https://github.com/appleple/SmartPhoto 重要 jquery版本 不兼容 3.2.1 版本
         2017.5.31  增加moment.js 用于处理日期 http://momentjs.cn/docs/
         2017.5.23  增加jquery Marquee 跑马灯插件  http://aamirafridi.com/jquery/jquery-marquee-plugin
         2017.5.17  增加purecss 框架及 响应式栅格系统 ：https://www.purecss.cn/

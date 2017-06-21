@@ -2,7 +2,7 @@ requirejs.config({
     baseUrl:"../js",
 	paths:{
 		//核心库
-        jquery:'https://cdn.bootcss.com/jquery/3.2.1/jquery.min',
+        jquery:'https://cdn.bootcss.com/jquery/2.2.4/jquery.min',
         jqueryOne:'https://cdn.bootcss.com/jquery/1.12.4/jquery.min',
         jqueryTwo:'https://cdn.bootcss.com/jquery/2.2.4/jquery.min',
         Vue:"https://cdn.bootcss.com/vue/2.3.4/vue.min",
@@ -114,8 +114,10 @@ requirejs.config({
         moment:'https://cdn.bootcss.com/moment.js/2.18.1/moment.min',
 
         //zepto
-        zepto:'https://cdn.bootcss.com/zepto/1.2.0/zepto.min'
+        zepto:'https://cdn.bootcss.com/zepto/1.2.0/zepto.min',
 
+        //响应式相册 插件
+        smartphoto:'lib/webLib/public/plus/smartPhoto/js/smartphoto'
     },
 	shim:{
 		layer:['jquery','css!https://cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],
@@ -136,7 +138,7 @@ requirejs.config({
         scollfix:['jquery'],
         lightbox:['css!https://cdn.bootcss.com/lightbox2/2.9.0/css/lightbox.min.css'],
         velocityUi:['velocity'],
-        Marquee:['jquery']
+        Marquee:['jquery'],
 	}
 });
 (function () {
