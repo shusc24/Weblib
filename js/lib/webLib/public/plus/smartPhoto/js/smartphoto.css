@@ -1,6 +1,6 @@
 @keyframes smartphoto {
   from {
-    opacity: 0.01;
+    opacity: 0;
   }
   to {
     opacity: 1;
