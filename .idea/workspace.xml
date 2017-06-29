@@ -2,6 +2,90 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/Base.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/css/font-awesome.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/animate/animate.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/bootstrap/bootstrap.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/purecss/grids-responsive-min.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/purecss/pure-min.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rest/Normalize.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rest/reset.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/12.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/rwdgrid.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/rwdgrid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/user/shusc/MT.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/user/shusc/PT.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/user/shusc/adpPage.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/helpers/functions.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/helpers/helpers.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/helpers/mixins.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/helpers/variables.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/page/pageStyle.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-index.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/vendors/flow.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/vendors/fonticon/iconfont.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/vendors/swiper.less" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.csscomb.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.node-version" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/circle.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/css/smartphoto.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/css/smartphoto.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/castle.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/kaba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/koara.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/kuma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-kaba.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-koara.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-kuma.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-lion.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-rakuda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-sai.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/lion.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/rakuda.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/sai.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/test.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/event.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/jquery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/multiple.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/noimage.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/resizeFit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/vanilla.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/images/icon_arrow_next.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/images/icon_arrow_prev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/images/icon_close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/adaptor/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/core/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/lib/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/readme.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/scss/smartphoto.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/adaptor/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/core/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/core/viwer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/lib/util.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/test/preload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/test/test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/tools/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/yarn.lock" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="WebstormProjects2.iws" />
@@ -23,32 +107,14 @@
   <component name="FavoritesManager">
     <favorites_list name="WebstormProjects2" />
   </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="415967" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="216">
-                <caret line="113" column="13" lean-forward="true" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,7 +178,6 @@
         <option value="$PROJECT_DIR$/css/webCss/style.scss" />
         <option value="$PROJECT_DIR$/css/webCss/Base/Base.scss" />
         <option value="$PROJECT_DIR$/css/page/pageStyle.less" />
-        <option value="$PROJECT_DIR$/css/style-index.less" />
         <option value="$PROJECT_DIR$/lib/webLib/require.js" />
         <option value="$PROJECT_DIR$/lib/webLib/require.min.js" />
         <option value="$PROJECT_DIR$/lib/webLib/user/sgf/navSwitch.js" />
@@ -128,6 +193,7 @@
         <option value="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
+        <option value="$PROJECT_DIR$/css/style-index.less" />
       </list>
     </option>
   </component>
@@ -138,10 +204,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="706" />
+    <option name="y" value="141" />
+    <option name="width" value="1932" />
+    <option name="height" value="909" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -193,6 +259,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -205,9 +272,104 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webLib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webLib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="plus" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webLib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebstormProjects2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -522,14 +684,8 @@
       <workItem from="1497860544797" duration="1939000" />
       <workItem from="1497866725583" duration="1758000" />
       <workItem from="1497876126324" duration="30000" />
-      <workItem from="1498012138020" duration="640000" />
-    </task>
-    <task id="LOCAL-00103" summary="Weblib">
-      <created>1489291098546</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1489291098550</updated>
+      <workItem from="1498012138020" duration="762000" />
+      <workItem from="1498694919799" duration="87000" />
     </task>
     <task id="LOCAL-00104" summary="Weblib">
       <created>1489659618785</created>
@@ -867,11 +1023,18 @@
       <option name="project" value="LOCAL" />
       <updated>1498012736174</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="Weblib">
+      <created>1498012783377</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1498012783377</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100466000" />
+    <option name="totallyTimeSpent" value="100675000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -883,17 +1046,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="706" y="141" width="1932" height="909" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17702845" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17730871" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49578503" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37988827" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21786493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32513967" sideWeight="0.49367756" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21786493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12118019" sideWeight="0.5039106" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22234637" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1201,13 +1364,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html/H5.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -1227,7 +1383,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="216">
             <caret line="113" column="13" lean-forward="true" selection-start-line="113" selection-start-column="13" selection-end-line="113" selection-end-column="13" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -1240,8 +1395,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="945">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style-index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
           <folding />
         </state>
       </provider>
