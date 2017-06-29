@@ -1,0 +1,615 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+    <title>首页</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" type="text/css" href="../css/style-index.css" />
+    <link rel="stylesheet" type="text/css" href="../../dev/css/style-index.css">
+    <!-- build:js ../js/vendor.js -->
+    <script src="../js/lib/webLib/public/core/polyfill.min.js"></script>
+    <script src="../js/lib/webLib/public/plus/adpPage/adpPage.js"></script>
+    <script src="../js/lib/webLib/require.min.js"></script>
+    <script src="../js/lib/lib.js"></script>
+    <!-- endbuild -->
+    <script src="../js/lib/webLib/requireconfig.js"></script>
+    <script src="../js/component/vuePageCompoent.js"></script>
+    <script src="../js/component/vueCompoent.js"></script>
+</head>
+<body class="homepage">
+    <div id="App" >
+            <keep-alive>
+                <router-view v-if="$route.meta.keepAlive"></router-view>
+            </keep-alive>
+            <router-view v-if="!$route.meta.keepAlive"></router-view>
+
+            <!--c-footerMenu
+                acitve 强制
+             开始-->
+            <dr-footermenu  v-show="this.$store.state.footmenu" :num="4" v-cloak="">
+                <dr-footermenuitem slot="0"  href="#/" :active="FnswitchFooter(0)" @click.native="Fnfootermenu(0)">
+                    <i class="iconfont icon-shouye" style="font-size: 0.5rem" slot="icon"></i>
+                    <span slot="text" class="MTR-5 db">首页</span>
+                </dr-footermenuitem>
+                <dr-footermenuitem slot="1" href="http://www.baidu.com" :active="FnswitchFooter(1)" @click.native="Fnfootermenu(1)">
+                    <i class="iconfont icon-fenlei" style="font-size: 0.4rem" slot="icon"></i>
+                    <span slot="text" class="MTR-5 db">分类</span>
+                </dr-footermenuitem>
+                <dr-footermenuitem slot="2"  href="javascript:" :active="FnswitchFooter(2)" @click.native="Fnfootermenu(2)">
+                    <i class="iconfont icon-gouwuche" style="font-size: 0.5rem" slot="icon"></i>
+                    <span slot="text" class="MTR-5 db " style="width: 120%">购物车</span>
+                </dr-footermenuitem>
+                <dr-footermenuitem slot="3"   href="javascript:" :active="FnswitchFooter(3)" @click.native="Fnfootermenu(3)">
+                    <i class="iconfont icon-gerenzhongxin" style="font-size: 0.4rem" slot="icon"></i>
+                    <span slot="text" class="MTR-5 db" style="width: 120%;text-indent:-0.15rem;">个人中心</span>
+                </dr-footermenuitem>
+            </dr-footermenu>
+            <!--c-footerMenu 结束-->
+    </div>
+
+    <!--首页模板-->
+    <script type="text/x-handlebars-template" id="homePageTpl">
+        <div class="home page">
+
+            <!-- c-topSwiper 开始 -->
+                <dr-topSwiper height="3rem" :pagination="true" bullet="rgba(255,255,255,1)" bulletactive="#2dbf67" bulletbottom="5px" autoplay="2000" :loop="true">
+                    <dr-topSwiperPic href="http://www.baidu.com" imgurl="../img/home/banner.png"></dr-topSwiperPic>
+                    <dr-topSwiperPic href="http://www.baidu.com" imgurl="../img/home/banner.png"></dr-topSwiperPic>
+                    <dr-topSwiperPic href="http://www.baidu.com" imgurl="../img/home/banner.png"></dr-topSwiperPic>
+                </dr-topSwiper>
+            <!--c-topSwiper 结束-->
+
+            <!--c-searchbox 开始-->
+                <dr-searchbox :fn="Fnsearch" placeholder=""></dr-searchbox>
+            <!--c-searchbox 结束-->
+
+            <!--c-topmenu 开始-->
+            <!--说明 num 为栏目数量 slot 为 位置-->
+                 <dr-topmenu num="1">
+
+                     <div slot="1">
+
+                         <dr-topmenu-item href="" text="应季产品" iconimg="../img/home/home_01.png" :fn="function(){alert(123)} "></dr-topmenu-item>
+
+                         <dr-topmenu-item href="" text="企业品牌" class="MLR-40" iconimg="../img/home/home_02.png" ></dr-topmenu-item>
+
+                         <dr-topmenu-item href="" text="热销产品" class="MLR-40" iconimg="../img/home/home_03.png"></dr-topmenu-item>
+
+                         <dr-topmenu-item href="" text="品牌中心" class="MLR-35" iconimg="../img/home/home_04.png"></dr-topmenu-item>
+
+                         <dr-topmenu-item href="#/about" text="公司简介" class="MTR-15" iconimg="../img/home/home_05.png" ></dr-topmenu-item>
+
+                         <dr-topmenu-item href="" text="招商加盟" class="MTR-15 MLR-40" iconimg="../img/home/home_06.png" ></dr-topmenu-item>
+
+                         <dr-topmenu-item href="" text="帮助中心" class="MTR-15 MLR-40" iconimg="../img/home/home_07.png" ></dr-topmenu-item>
+
+                         <dr-topmenu-item href="" text="联系我们" class="MTR-15 MLR-35" iconimg="../img/home/home_08.png" ></dr-topmenu-item>
+
+                     </div>
+
+                 </dr-topmenu>
+            <!--c-topmenu 结束-->
+
+            <!--c-msgrunBox 开始-->
+                <dr-msgrunbox time="4000" ajax="http://www.easy-mock.com/mock/593a5ad68ac26d795fc2077d/example/getNews"></dr-msgrunbox>
+            <!--c-msgrunBox 结束-->
+
+            <!--home-goodbox 开始-->
+                <div class="home-goodbox MTR-10">
+                    <div class="goodbox">
+                        <div class="goodbox-title">
+                            <div class="goodbox-title-img" style="background-image:url(../img/home/home_09.png)">
+
+                            </div>
+                        </div>
+
+                        <div class="goodbox-listbox">
+
+                            <div class="goodbox-listbox-wrapper">
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            <!--home-goodbox 结束-->
+
+            <!--home-goodbox 开始-->
+                <div class="home-goodbox MTR-10">
+                    <div class="goodbox">
+                        <div class="goodbox-title">
+                            <div class="goodbox-title-img" style="background-image:url(../img/home/home_10.png)">
+
+                            </div>
+                        </div>
+
+                        <div class="goodbox-listbox">
+
+                            <div class="goodbox-listbox-wrapper">
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            <!--home-goodbox 结束-->
+
+            <!--home-goodbox 开始-->
+                <div class="home-goodbox MTR-10">
+                    <div class="goodbox">
+                        <div class="goodbox-title">
+                            <div class="goodbox-title-img" style="background-image:url(../img/home/home_11.png)">
+
+                            </div>
+                        </div>
+
+                        <div class="goodbox-listbox">
+
+                            <div class="goodbox-listbox-wrapper">
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                                <a href="javascript:" class="home-gooditem db">
+                                    <div class="gooditem">
+
+                                        <div class="gooditem-img">
+                                            <img class="lazy" data-original="../img/home/good.png" alt="">
+                                        </div>
+                                        <div class="gooditem-title">
+                                            草苷磷按盐粉剂
+                                        </div>
+                                        <div class="gooditem-note">
+
+                                            <div class="gooditem-note-price">
+                                                ￥32.80
+                                            </div>
+
+                                            <div class="gooditem-note-icon">
+                                                <i class="fa fa-cart-arrow-down" aria-hidden="true"></i>
+                                            </div>
+
+                                        </div>
+
+                                    </div>
+                                </a>
+
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            <!--home-goodbox 结束-->
+
+        </div>
+    </script>
+
+    <script type="text/x-handlebars-template" id="aboutPageTpl">
+        <div class="about page">
+
+            <!-- c-topSwiper 开始 -->
+            <dr-topSwiper height="3.8rem" :pagination="false" bullet="rgba(255,255,255,1)" bulletactive="#2dbf67" bulletbottom="5px" autoplay="" :loop="false">
+                <dr-topSwiperPic href="http://www.baidu.com" imgurl="../img/home/banner.png"></dr-topSwiperPic>
+            </dr-topSwiper>
+            <!--c-topSwiper 结束-->
+
+
+
+        </div>
+
+    </script>
+
+    <script>
+        require(['home'])
+    </script>
+</body>
+</html>

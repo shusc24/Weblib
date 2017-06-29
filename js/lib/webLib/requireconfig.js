@@ -17,7 +17,7 @@ requirejs.config({
         // Vue插件
         Vuex:"https://cdn.bootcss.com/vuex/2.3.1/vuex.min",
         Vresource:["https://cdn.bootcss.com/vue-resource/1.3.4/vue-resource.min"],
-        Vrouter:["https://cdn.bootcss.com/vue-router/2.5.3/vue-router.min"],
+        Vrouter:["https://cdn.bootcss.com/vue-router/2.6.0/vue-router.min"],
 
         core:"lib/webLib/public/core/core",
         h5core:"lib/webLib/public/core/H5core",
@@ -116,8 +116,13 @@ requirejs.config({
         //zepto
         zepto:'https://cdn.bootcss.com/zepto/1.2.0/zepto.min',
 
-        //响应式相册 插件
-        smartphoto:'lib/webLib/public/plus/smartPhoto/js/smartphoto'
+        //vueg
+        vueg:"lib/webLib/public/plus/vueg/vueg",
+        //home
+
+        //axios
+        axios:'https://cdn.bootcss.com/axios/0.16.2/axios.min'
+
     },
 	shim:{
 		layer:['jquery','css!https://cdn.bootcss.com/layer/3.0.1/skin/default/layer.min.css'],
@@ -139,6 +144,7 @@ requirejs.config({
         lightbox:['css!https://cdn.bootcss.com/lightbox2/2.9.0/css/lightbox.min.css'],
         velocityUi:['velocity'],
         Marquee:['jquery'],
+        swiper:['css!https://cdn.bootcss.com/Swiper/3.4.2/css/swiper.min.css']
 	}
 });
 (function () {

@@ -1,0 +1,200 @@
+.c-topSwiper{
+  height: 3rem;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  .swiper-wrapper{
+    height: 100%;
+  }
+  .topSwiper-pic{
+    width: 100%;
+    height: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+}
+
+@searchbox:0.52rem;
+.c-searchbox{
+   width: 100%;
+   .searchbox{
+      height: @searchbox;
+      padding: 0.1rem 0.2rem;
+      display: flex;
+    &-input{
+      width: 5.3rem;
+      height: @searchbox;
+      background: #fff;
+      border-top-left-radius: 0.1rem;
+      border-bottom-left-radius:0.1rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      &-box{
+        width: 90%;
+        height: @searchbox * 0.7;
+        border:none;
+      }
+    }
+    &-btn{
+      width: 0.7rem;
+      height: @searchbox;
+      border-top-right-radius: 0.1rem;
+      border-bottom-right-radius:0.1rem;
+      background: #2aa414;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      transition: all 0.3s;
+      
+      i{
+        color: #fff;
+      }
+
+      &_noactive{
+        opacity: 0.4;
+      }
+
+      &:active{
+        box-shadow:inset 0.03rem 0.03rem 0.03rem rgba(0,0,0,0.5)
+      }
+    }
+  }
+}
+
+.c-footerMenu{
+    width: 100%;
+    height: 0.9rem;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 10086;
+    .footerMenu{
+      width: 100%;
+      height: 100%;
+      display: flex;
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      background: #fff;
+      box-shadow: 0 1px 1px 1px #ccc;
+
+      &-itemArea{
+        flex:1;
+        height: 0.9rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      &-item{
+        width: 0.7rem;
+        height: 0.75rem;
+        position: relative;
+
+        &-icon{
+          width: 100%;
+          height: 0.5rem;
+          line-height: 0.5rem;
+          text-align: center;
+        }
+        &-text{
+          font-size: 0.20rem;
+          height: 0.2rem;
+          line-height: 0.2rem;
+          text-align: center;
+          position: relative;
+        }
+      }
+      
+      .active{
+        color: #2aa414;
+      }
+    }
+}
+
+.c-topmenu{
+  padding: 0.13rem 0;
+  width: 100%;
+  background: #fff;
+  .topmenu{
+
+    &-item{
+      height: 1.3rem;
+      width: 1.3rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      transition: opacity 0.3s;
+
+      &:active{
+        opacity: 0.7;
+      }
+      &-text{
+        text-align: center;
+        color: #6d6d6d;
+      }
+      &-pic{
+        height: 0.95rem;
+        width: 0.95rem;
+        border-radius: 50%;
+        background-size: 100% 100%;
+        background-repeat: no-repeat;
+      }
+    }
+  }
+
+  .swiper-slide{
+    width: 100%;
+    height: 100%;
+    >div{
+      display: flex;
+      flex-wrap: wrap;
+    }
+  }
+}
+
+@msgrunBoxH:0.5rem;
+.c-msgrunBox{
+  padding: 0.06rem 0.2rem;
+  background: #fff;
+  .msgrunBox{
+    width: 100%;
+    height: @msgrunBoxH;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &-icon{
+      width: 0.5rem;
+      height: @msgrunBoxH;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      color: #000;
+      font-size: 0.4rem;
+      margin-right: 0.05rem;
+      i{
+        color: rgb(70,198,122);
+      }
+    }
+    &-msgbox{
+      font-size: 0.20rem;
+      width: 5.35rem;
+      height: @msgrunBoxH;
+      line-height: @msgrunBoxH;
+      a{
+        color: #808281;
+      }
+      .omit();
+    }
+  }
+}
+
+.msgrunBoxAni-enter-active {
+  animation: fadeIn .3s;
+}
+.msgrunBoxAni-leave-active {
+  animation: fadeOut .3s;
+}

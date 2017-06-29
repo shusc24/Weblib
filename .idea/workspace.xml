@@ -2,91 +2,212 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/Base.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/css/font-awesome.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/animate/animate.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/bootstrap/bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/purecss/grids-responsive-min.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/purecss/pure-min.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rest/Normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rest/reset.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/12.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/rwdgrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/rwdgrid.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/user/shusc/MT.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/user/shusc/PT.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/base/user/shusc/adpPage.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/helpers/functions.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/helpers/helpers.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/helpers/mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/helpers/variables.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/page/pageStyle.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style-index.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/vendors/flow.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/vendors/fonticon/iconfont.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/vendors/swiper.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.csscomb.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/.node-version" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/circle.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/css/smartphoto.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/css/smartphoto.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/castle.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/kaba.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/koara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/kuma.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-kaba.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-koara.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-kuma.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-lion.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-rakuda.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/large-sai.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/lion.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/rakuda.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/sai.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/assets/test.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/event.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/jquery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/multiple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/noimage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/resizeFit.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/examples/vanilla.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/images/icon_arrow_next.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/images/icon_arrow_prev.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/images/icon_close.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/adaptor/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/core/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/lib/lib/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/scss/smartphoto.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/adaptor/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/core/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/core/viwer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/src/lib/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/test/preload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/test/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/tools/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/yarn.lock" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/12.psd" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/Base.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/css/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/Font-Awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/animate/animate.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/bootstrap/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/purecss/grids-responsive-min.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/purecss/pure-min.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/rest/Normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/rest/reset.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/rwdgrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/rwdgrid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid-master/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/public/rwdgrid-master/rwdgrid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/user/shusc/MT.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/user/shusc/PT.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/base/user/shusc/adpPage.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/component/component.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/helpers/functions.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/helpers/helpers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/helpers/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/helpers/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/page/about.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/page/common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/page/home.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-index.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendors/flow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendors/fonticon/iconfont.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendors/swiper.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vendors/vueg.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/component/vueCompoent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/component/vuePageCompoent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/lib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/core/polyfill.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/vueg/vueg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/page/home.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/rjs/lib.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/clipboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/layer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lazyload.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/lodash.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/polyfill.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/require.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/swiper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/underscore.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/vue.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/vueRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/vendor/vuex.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/tpl/c-contactUsBox.html" afterPath="$PROJECT_DIR$/html/tpl/c-contactUsBox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/tpl/c-footer.html" afterPath="$PROJECT_DIR$/html/tpl/c-footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/tpl/c-headnav.html" afterPath="$PROJECT_DIR$/html/tpl/c-headnav.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/core/H5core.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/core/H5core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/core/core.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/core/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/core/libs/Base/Base.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/core/libs/Base/Base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/core/libs/md.md" afterPath="$PROJECT_DIR$/js/lib/webLib/public/core/libs/md.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/core/md.txt" afterPath="$PROJECT_DIR$/js/lib/webLib/public/core/md.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/AlloyFinger/README.md" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/AlloyFinger/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/AlloyFinger/alloy_finger.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/AlloyFinger/alloy_finger.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/SMValidator/SMVRules.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/SMValidator/SMVRules.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/SMValidator/SMValidator.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/SMValidator/SMValidator.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/SMValidator/user.md" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/SMValidator/user.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/adpPage/adpPage.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/adpPage/adpPage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/adpPage/explain.txt" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/adpPage/explain.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/director/director.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/director/director.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/director/director.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/director/director.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layer/layer.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layer/layer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layer/skin/layer.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layer/skin/layer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layer/skin/layer.min.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layer/skin/layer.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/css/layui.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/css/layui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/css/modules/code.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/css/modules/code.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/css/modules/laydate/laydate.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/css/modules/laydate/laydate.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/css/modules/layer/default/layer.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/css/modules/layer/default/layer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/font/iconfont.svg" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/font/iconfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/dest/layui.all.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/dest/layui.all.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/lib/jquery.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/lib/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/code.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/code.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/element.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/element.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/flow.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/flow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/form.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/form.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/laydate.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/laydate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/layedit.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/layedit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/layer.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/layer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/laypage.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/laypage.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/laytpl.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/laytpl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/tree.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/tree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/upload.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/upload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/util.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/util.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/layui.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/layui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/文档与演示/Git仓库.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/文档与演示/Git仓库.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/文档与演示/在线演示.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/文档与演示/在线演示.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/文档与演示/快速上手.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/文档与演示/快速上手.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/更新日志.txt" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/更新日志.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/文档与演示/Git仓库.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/文档与演示/Git仓库.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/文档与演示/在线演示.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/文档与演示/在线演示.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/文档与演示/快速上手.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/文档与演示/快速上手.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/更新日志.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9/更新日志.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/文档与演示/Git仓库.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/文档与演示/Git仓库.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/文档与演示/在线演示.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/文档与演示/在线演示.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/文档与演示/快速上手.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/文档与演示/快速上手.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/更新日志.url" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.9/layui-v1.0.9_rls/更新日志.url" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layuiflow/flow.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layuiflow/flow.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/layuiflow/flow.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/layuiflow/flow.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/lazyload/lazyload.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/lazyload/lazyload.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/lazyload/md.md" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/lazyload/md.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/.gitignore" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/README.md" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/api.html" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/api.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap-responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap-responsive.min.min.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap-responsive.min.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap-responsive.min.min.min.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap-responsive.min.min.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/bootstrap/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/css/960.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/css/960.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/css/main.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/css/normalize.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/css/normalize.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/data/stockQuote.json" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/data/stockQuote.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/data/stockQuoteMore.json" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/data/stockQuoteMore.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/data/stockQuotePage.json" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/data/stockQuotePage.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/examples1.html" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/examples1.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/index.html" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/main.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/plugins.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/vendor/css3-mediaqueries.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/vendor/css3-mediaqueries.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/vendor/html5shiv.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/vendor/html5shiv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/vendor/jquery-1.9.1.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/vendor/jquery-1.9.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/vendor/json2.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/vendor/json2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/vendor/modernizr-2.6.2.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/examples/js/vendor/modernizr-2.6.2.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/index.html" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/mmGrid.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/mmGrid.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/mmGrid.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/mmGrid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/mmGrid.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/mmGrid.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/mmPaginator.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/mmPaginator.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/mmPaginator.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/mmPaginator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/theme/bootstrap/mmGrid-bootstrap.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/theme/bootstrap/mmGrid-bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/theme/bootstrap/mmPaginator-bootstrap.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/mmGrid/src/theme/bootstrap/mmPaginator-bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/owlCarousel/owl.carousel.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/owlCarousel/owl.carousel.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/owlCarousel/owl.carousel.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/owlCarousel/owl.carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/owlCarousel/owl.carousel.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/owlCarousel/owl.carousel.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/owlCarousel/owl.theme.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/owlCarousel/owl.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/demo.html" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/demo_ajax.html" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/demo_ajax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/demo_options.html" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/demo_options.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/index.html" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/lib/jquery.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/lib/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/lib/jquery.pagination.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/lib/jquery.pagination.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/lib/pagination.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/lib/pagination.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/load.html" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/pagination/load.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/popper/md.md" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/popper/md.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/requirejsplus/domReady.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/requirejsplus/domReady.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/requirejsplus/md.txt" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/requirejsplus/md.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/requirejsplus/text.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/requirejsplus/text.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/selectcitys/selectcity.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/selectcitys/selectcity.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/selectcitys/城市三级联动 - citys.html" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/selectcitys/城市三级联动 - citys.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/store/store.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/store/store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/store/store.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/store/store.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/sweetalert/sweetalert.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/sweetalert/sweetalert.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/sweetalert/sweetalert.min.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/sweetalert/sweetalert.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/sweetalert/sweetalert.min.min.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/sweetalert/sweetalert.min.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/swiper/css/swiper.min.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/swiper/css/swiper.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/swiper/js/swiper.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/swiper/js/swiper.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/wangEditor/css/wangEditor.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/wangEditor/css/wangEditor.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/wangEditor/css/wangEditor.less" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/wangEditor/css/wangEditor.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/wangEditor/fonts/icomoon.svg" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/wangEditor/fonts/icomoon.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/wangEditor/js/wangEditor.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/wangEditor/js/wangEditor.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/zui/md.md" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/zui/md.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/zui/zUI.css" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/zui/zUI.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/public/plus/zui/zui.js" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/zui/zui.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/require.js" afterPath="$PROJECT_DIR$/js/lib/webLib/require.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/require.min.js" afterPath="$PROJECT_DIR$/js/lib/webLib/require.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" afterPath="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/sgf/navSwitch.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/sgf/navSwitch.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/CommFn.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/CommFn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/ScorllEventFn/ScorllEventFn.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/ScorllEventFn/ScorllEventFn.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/ScorllEventFn/ScorllEventFnStrategies.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/ScorllEventFn/ScorllEventFnStrategies.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/Sui_timer/Sui_timer.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/Sui_timer/Sui_timer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/Sui_timer/原型demo.html" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/Sui_timer/原型demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/Validator/VaildatorStrategies.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/Validator/VaildatorStrategies.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/Validator/Validator.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/Validator/Validator.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/jquerySelector/jquerySelector.css" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/jquerySelector/jquerySelector.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/jquerySelector/jquerySelector.css.map" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/jquerySelector/jquerySelector.css.map" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/jquerySelector/jquerySelector.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/jquerySelector/jquerySelector.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/jquerySelector/jquerySelector.scss" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/jquerySelector/jquerySelector.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/jqueryUploadimg/jqueryUploadimg.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/jqueryUploadimg/jqueryUploadimg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/juge/juge.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/juge/juge.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/pageAdp/pageAdp.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/pageAdp/pageAdp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/pageTask/pageTask.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/pageTask/pageTask.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/pageTask/pageTask.ts" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/pageTask/pageTask.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/user/shusc/timeprogressBar/timeprogressBar.js" afterPath="$PROJECT_DIR$/js/lib/webLib/user/shusc/timeprogressBar/timeprogressBar.js" />
     </list>
     <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -114,7 +235,18 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="245">
+              <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -143,7 +275,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Weblib/commonCSS/reset.css" />
         <option value="$PROJECT_DIR$/Weblib/public/plus/adpPage/explain.txt" />
         <option value="$PROJECT_DIR$/Weblib/commonCSS/weui-less/weui.less" />
         <option value="$PROJECT_DIR$/Weblib/commonCSS/weui-less/weui.css" />
@@ -192,8 +323,9 @@
         <option value="$PROJECT_DIR$/js/lib/webLib/user/shusc/juge/juge.js" />
         <option value="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
         <option value="$PROJECT_DIR$/css/style-index.less" />
+        <option value="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/smartphoto.css" />
+        <option value="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
       </list>
     </option>
   </component>
@@ -204,8 +336,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="706" />
-    <option name="y" value="141" />
+    <option name="x" value="150" />
+    <option name="y" value="71" />
     <option name="width" value="1932" />
     <option name="height" value="909" />
   </component>
@@ -272,102 +404,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebstormProjects2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebstormProjects2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webLib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebstormProjects2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebstormProjects2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webLib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="plus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebstormProjects2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebstormProjects2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webLib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebstormProjects2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebstormProjects2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -384,19 +420,19 @@
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shusc\WebstormProjects2" />
+      <recent name="C:\Users\shusc\WebstormProjects2\js" />
+      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib\public\plus" />
+      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib" />
+      <recent name="C:\Users\shusc\WebstormProjects2\html" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shusc\WebstormProjects2\js" />
       <recent name="C:\Users\shusc\WebstormProjects2\lib" />
       <recent name="C:\Users\shusc\WebstormProjects2\Weblib" />
       <recent name="C:\Users\shusc\WebstormProjects2" />
       <recent name="C:\Users\shusc\WebstormProjects2\Weblib\user\shusc\jqueryUploadimg" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib\public\plus" />
-      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib" />
-      <recent name="C:\Users\shusc\WebstormProjects2\html" />
-      <recent name="C:\Users\shusc\WebstormProjects2\css" />
-      <recent name="C:\Users\shusc\WebstormProjects2\css\base\public\purecss" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -685,28 +721,7 @@
       <workItem from="1497866725583" duration="1758000" />
       <workItem from="1497876126324" duration="30000" />
       <workItem from="1498012138020" duration="762000" />
-      <workItem from="1498694919799" duration="87000" />
-    </task>
-    <task id="LOCAL-00104" summary="Weblib">
-      <created>1489659618785</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1489659618787</updated>
-    </task>
-    <task id="LOCAL-00105" summary="Weblib">
-      <created>1489930213420</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1489930213420</updated>
-    </task>
-    <task id="LOCAL-00106" summary="Weblib">
-      <created>1489930261960</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1489930261960</updated>
+      <workItem from="1498694919799" duration="512000" />
     </task>
     <task id="LOCAL-00107" summary="Weblib">
       <created>1490104672052</created>
@@ -1030,11 +1045,32 @@
       <option name="project" value="LOCAL" />
       <updated>1498012783377</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="Weblib">
+      <created>1498695014929</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1498695014929</updated>
+    </task>
+    <task id="LOCAL-00154" summary="Weblib">
+      <created>1498695148605</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1498695148605</updated>
+    </task>
+    <task id="LOCAL-00155" summary="Weblib">
+      <created>1498695200056</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1498695200056</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100675000" />
+    <option name="totallyTimeSpent" value="101100000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1046,12 +1082,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="706" y="141" width="1932" height="909" extended-state="0" />
+    <frame x="150" y="71" width="1932" height="909" extended-state="0" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17730871" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49578503" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37988827" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32513967" sideWeight="0.49367756" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37898937" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32446808" sideWeight="0.49367756" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21786493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
@@ -1138,7 +1174,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/rest/Normalize.css" />
     <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/rest/reset.css" />
     <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/bootstrap/bootstrap.scss" />
     <entry file="file://$PROJECT_DIR$/Weblib/commonCSS/Base/Base.scss" />
@@ -1393,17 +1428,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style-index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/smartphoto.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="121" column="0" lean-forward="false" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
           <folding />
         </state>
       </provider>
