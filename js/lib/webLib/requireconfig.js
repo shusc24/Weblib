@@ -17,7 +17,7 @@ requirejs.config({
         // Vue插件
         Vuex:"https://cdn.bootcss.com/vuex/2.3.1/vuex.min",
         Vresource:["https://cdn.bootcss.com/vue-resource/1.3.4/vue-resource.min"],
-        Vrouter:["https://cdn.bootcss.com/vue-router/2.6.0/vue-router.min"],
+        Vrouter:["https://cdn.bootcss.com/vue-router/2.7.0/vue-router.min"],
 
         core:"lib/webLib/public/core/core",
         h5core:"lib/webLib/public/core/H5core",
