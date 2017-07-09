@@ -18,7 +18,7 @@
  				2.1 表格系统：   1.rwdgrid.min
  				3.1 MT 工具      1.MT.scss
  				4.1 Base 整合了bootstrap的栅格系统版本为 3.37
- 				5.1 style.scss 为所有的页面样式
+ 				5.1 style.scss 为所有的页面样式 
 
 
  		2.public 存放的js公共库	
