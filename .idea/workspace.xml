@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/artTemplate/artTemplate.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -41,8 +40,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="393">
-                <caret line="121" column="14" lean-forward="true" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+              <first_editor relative-caret-position="48">
+                <caret line="106" column="13" lean-forward="true" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -140,10 +139,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="250" />
-    <option name="y" value="75" />
+    <option name="x" value="129" />
+    <option name="y" value="57" />
     <option name="width" value="1932" />
-    <option name="height" value="1056" />
+    <option name="height" value="912" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -582,14 +581,7 @@
       <workItem from="1498694919799" duration="742000" />
       <workItem from="1498699331930" duration="11000" />
       <workItem from="1499562102614" duration="879000" />
-      <workItem from="1499665941275" duration="98000" />
-    </task>
-    <task id="LOCAL-00110" summary="Weblib">
-      <created>1490877752315</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1490877752317</updated>
+      <workItem from="1499665941275" duration="652000" />
     </task>
     <task id="LOCAL-00111" summary="Weblib">
       <created>1491630527585</created>
@@ -927,11 +919,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499562339411</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="Weblib">
+      <created>1499666045889</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1499666045890</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102318000" />
+    <option name="totallyTimeSpent" value="102872000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -943,7 +942,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="250" y="75" width="1932" height="1056" extended-state="0" />
+    <frame x="129" y="57" width="1932" height="912" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13720317" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
@@ -1299,8 +1298,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="393">
-            <caret line="121" column="14" lean-forward="true" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+          <first_editor relative-caret-position="48">
+            <caret line="106" column="13" lean-forward="true" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
