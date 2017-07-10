@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/public/plus/artTemplate/artTemplate.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -29,28 +30,22 @@
     <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
     <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
     <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="460">
-                <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+              <first_editor relative-caret-position="393">
+                <caret line="121" column="14" lean-forward="true" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -145,8 +140,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="366" />
-    <option name="y" value="51" />
+    <option name="x" value="250" />
+    <option name="y" value="75" />
     <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
@@ -283,19 +278,19 @@
     <property name="add_unversioned_files" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\shusc\WebstormProjects2" />
-      <recent name="C:\Users\shusc\WebstormProjects2\js" />
-      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib\public\plus" />
-      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib" />
-      <recent name="C:\Users\shusc\WebstormProjects2\html" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\shusc\WebstormProjects2\js" />
       <recent name="C:\Users\shusc\WebstormProjects2\lib" />
       <recent name="C:\Users\shusc\WebstormProjects2\Weblib" />
       <recent name="C:\Users\shusc\WebstormProjects2" />
       <recent name="C:\Users\shusc\WebstormProjects2\Weblib\user\shusc\jqueryUploadimg" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib\public\plus" />
+      <recent name="C:\Users\shusc\WebstormProjects2" />
+      <recent name="C:\Users\shusc\WebstormProjects2\js" />
+      <recent name="C:\Users\shusc\WebstormProjects2\js\lib\webLib" />
+      <recent name="C:\Users\shusc\WebstormProjects2\html" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -586,14 +581,8 @@
       <workItem from="1498012138020" duration="762000" />
       <workItem from="1498694919799" duration="742000" />
       <workItem from="1498699331930" duration="11000" />
-      <workItem from="1499562102614" duration="234000" />
-    </task>
-    <task id="LOCAL-00109" summary="Weblib">
-      <created>1490776746627</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1490776746627</updated>
+      <workItem from="1499562102614" duration="879000" />
+      <workItem from="1499665941275" duration="98000" />
     </task>
     <task id="LOCAL-00110" summary="Weblib">
       <created>1490877752315</created>
@@ -931,11 +920,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499562332064</updated>
     </task>
-    <option name="localTasksCounter" value="158" />
+    <task id="LOCAL-00158" summary="Weblib">
+      <created>1499562339411</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1499562339411</updated>
+    </task>
+    <option name="localTasksCounter" value="159" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101575000" />
+    <option name="totallyTimeSpent" value="102318000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -947,7 +943,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="366" y="51" width="1932" height="1056" extended-state="0" />
+    <frame x="250" y="75" width="1932" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13720317" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
@@ -1290,9 +1286,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="1">
+          <caret line="123" column="7" lean-forward="true" selection-start-line="123" selection-start-column="7" selection-end-line="123" selection-end-column="62" />
         </state>
       </provider>
     </entry>
@@ -1304,8 +1299,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="460">
-            <caret line="20" column="40" lean-forward="false" selection-start-line="20" selection-start-column="40" selection-end-line="20" selection-end-column="40" />
+          <first_editor relative-caret-position="393">
+            <caret line="121" column="14" lean-forward="true" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
             <folding />
           </first_editor>
           <second_editor />
