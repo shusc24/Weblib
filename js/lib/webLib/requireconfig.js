@@ -2,10 +2,10 @@ requirejs.config({
     baseUrl:"../js",
 	paths:{
 		//核心库
-        jquery:'https://cdn.bootcss.com/jquery/2.2.4/jquery.min',
+        jquery:'https://cdn.bootcss.com/jquery/3.2.1/jquery.min',
         jqueryOne:'https://cdn.bootcss.com/jquery/1.12.4/jquery.min',
         jqueryTwo:'https://cdn.bootcss.com/jquery/2.2.4/jquery.min',
-        Vue:"https://cdn.bootcss.com/vue/2.3.4/vue.min",
+        Vue:"https://cdn.bootcss.com/vue/2.4.1/vue.min",
         VueOne:'https://cdn.bootcss.com/vue/1.0.28/vue.min',
         backbone:"https://cdn.bootcss.com/backbone.js/1.3.3/backbone-min",
 
@@ -81,7 +81,7 @@ requirejs.config({
         cookies:'https://cdn.bootcss.com/js-cookie/2.1.3/js.cookie.min',
 
         //input格式化库 github文档 https://github.com/nosir/cleave.js 官网：http://nosir.github.io/cleave.js/
-        cleave:'https://cdn.bootcss.com/cleave.js/0.7.15/cleave.min',
+        cleave:'https://cdn.bootcss.com/cleave.js/0.8.0/cleave.min',
 
         //动画库兼容IE8  http://velocityjs.org/ velocityUi 预制的动画效果 调用直接调用 Ui
         velocity:'https://cdn.bootcss.com/velocity/1.5.0/velocity.min',
@@ -89,7 +89,7 @@ requirejs.config({
         velocityUi:'https://cdn.bootcss.com/velocity/1.5.0/velocity.ui.min',
 
         //handlebars 模板引擎
-        handlebars:"https://cdn.bootcss.com/handlebars.js/4.0.6/handlebars.min",
+        handlebars:"https://cdn.bootcss.com/handlebars.js/4.0.10/handlebars.min",
 
         // 元素滚动 固定jquery插件 https://github.com/kujian/scrollfix
         scollfix:'lib/webLib/public/plus/scrollfix/scrollfix.min',
@@ -139,7 +139,7 @@ requirejs.config({
         },
         flow:['jquery','css!lib/webLib/public/plus/layuiflow/flow.css'],
         mobilebone:['css!https://cdn.bootcss.com/mobilebone/2.6.1/mobilebone.min.css'],
-        cleave:['https://cdn.bootcss.com/cleave.js/0.7.14/addons/cleave-phone.cn.js'],
+        cleave:['https://cdn.bootcss.com/cleave.js/0.8.0/addons/cleave-phone.cn.js'],
         scollfix:['jquery'],
         lightbox:['css!https://cdn.bootcss.com/lightbox2/2.9.0/css/lightbox.min.css'],
         velocityUi:['velocity'],
