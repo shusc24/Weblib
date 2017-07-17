@@ -39,8 +39,8 @@
       <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-944">
-              <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+            <state relative-caret-position="344">
+              <caret line="148" column="4" lean-forward="false" selection-start-line="148" selection-start-column="4" selection-end-line="148" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -581,14 +581,7 @@
       <workItem from="1499665941275" duration="684000" />
       <workItem from="1499689435156" duration="275000" />
       <workItem from="1500083632695" duration="28000" />
-      <workItem from="1500296919863" duration="484000" />
-    </task>
-    <task id="LOCAL-00112" summary="Weblib">
-      <created>1491631172431</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1491631172431</updated>
+      <workItem from="1500296919863" duration="497000" />
     </task>
     <task id="LOCAL-00113" summary="Weblib">
       <created>1491631316421</created>
@@ -926,11 +919,18 @@
       <option name="project" value="LOCAL" />
       <updated>1499666597226</updated>
     </task>
-    <option name="localTasksCounter" value="161" />
+    <task id="LOCAL-00161" summary="Weblib">
+      <created>1500297413741</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1500297413741</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103691000" />
+    <option name="totallyTimeSpent" value="103704000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1334,8 +1334,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-944">
-          <caret line="92" column="0" lean-forward="true" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
+        <state relative-caret-position="344">
+          <caret line="148" column="4" lean-forward="false" selection-start-line="148" selection-start-column="4" selection-end-line="148" selection-end-column="4" />
           <folding />
         </state>
       </provider>
