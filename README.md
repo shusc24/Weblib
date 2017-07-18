@@ -122,6 +122,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.7.19  新增 用于amd 加载的 组件 esl 百度 https://github.com/ecomfe/esl
         2017.7.10  新增 artTemplate 用于模板渲染 https://aui.github.io/art-template/
         2017.7.9   增加axios 用于 promise ajax加载
         2017.6.21  增加smartphoto 用于响应式相册  https://github.com/appleple/SmartPhoto 重要 jquery版本 不兼容 3.2.1 版本

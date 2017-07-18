@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/lib/webLib/esl.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/js/lib/webLib/Projectindex.rar" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" afterPath="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,21 +36,7 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="requireconfig.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="147" column="6" lean-forward="false" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
-              <folding>
-                <element signature="e#47#5582#0" expanded="false" />
-                <element signature="e#5590#6595#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -77,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Weblib/public/plus/adpPage/explain.txt" />
         <option value="$PROJECT_DIR$/Weblib/commonCSS/weui-less/weui.less" />
         <option value="$PROJECT_DIR$/Weblib/commonCSS/weui-less/weui.css" />
         <option value="$PROJECT_DIR$/Weblib/require.js" />
@@ -125,9 +112,10 @@
         <option value="$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" />
         <option value="$PROJECT_DIR$/css/style-index.less" />
         <option value="$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/smartphoto.css" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/css/base/user/shusc/adpPage.less" />
         <option value="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/js/lib/webLib/esl.js" />
       </list>
     </option>
   </component>
@@ -145,8 +133,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="52" />
-    <option name="y" value="90" />
+    <option name="x" value="213" />
+    <option name="y" value="174" />
     <option name="width" value="1932" />
     <option name="height" value="858" />
   </component>
@@ -191,7 +179,22 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WebstormProjects2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebstormProjects2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WebstormProjects2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WebstormProjects2" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -514,14 +517,7 @@
       <workItem from="1499689435156" duration="275000" />
       <workItem from="1500083632695" duration="28000" />
       <workItem from="1500296919863" duration="1077000" />
-      <workItem from="1500418895972" duration="31000" />
-    </task>
-    <task id="LOCAL-00115" summary="Weblib">
-      <created>1491632222122</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1491632222122</updated>
+      <workItem from="1500418895972" duration="357000" />
     </task>
     <task id="LOCAL-00116" summary="Weblib">
       <created>1491632258220</created>
@@ -859,11 +855,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500418926644</updated>
     </task>
-    <option name="localTasksCounter" value="164" />
+    <task id="LOCAL-00164" summary="Weblib">
+      <created>1500418939162</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1500418939162</updated>
+    </task>
+    <option name="localTasksCounter" value="165" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104315000" />
+    <option name="totallyTimeSpent" value="104641000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -875,10 +878,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="52" y="90" width="1932" height="858" extended-state="0" />
-    <editor active="true" />
+    <frame x="213" y="174" width="1932" height="858" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13562006" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13562006" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49578503" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37898937" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3234568" sideWeight="0.49367756" order="7" side_tool="false" content_ui="tabs" />
@@ -975,7 +977,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Weblib/public/core/libs/Base/Base.js" />
     <entry file="file://$PROJECT_DIR$/Weblib/requireconfig.js" />
     <entry file="file://$PROJECT_DIR$/Weblib/css/webCss/style.css" />
     <entry file="file://$PROJECT_DIR$/Weblib/css/webCss/style.scss" />
@@ -1218,21 +1219,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-2203">
-            <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1570">
-          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/base/user/shusc/adpPage.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -1263,12 +1249,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="147" column="6" lean-forward="false" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
+        <state relative-caret-position="92">
+          <caret line="148" column="3" lean-forward="true" selection-start-line="148" selection-start-column="3" selection-end-line="148" selection-end-column="3" />
           <folding>
             <element signature="e#47#5582#0" expanded="false" />
             <element signature="e#5590#6595#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/esl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="7638" lean-forward="false" selection-start-line="0" selection-start-column="7638" selection-end-line="0" selection-end-column="7638" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="172">
+            <caret line="123" column="14" lean-forward="true" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1570">
+          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
         </state>
       </provider>
     </entry>
