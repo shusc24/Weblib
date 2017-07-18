@@ -72,7 +72,7 @@ requirejs.config({
         anime:'https://cdn.bootcss.com/animejs/2.0.0/anime.min',
 
         //复制到粘贴板
-        clipboard:'https://cdn.bootcss.com/clipboard.js/1.6.1/clipboard.min',
+        clipboard:'https://cdn.bootcss.com/clipboard.js/1.7.1/clipboard.min',
 
         //单页面切换
         mobilebone:'https://cdn.bootcss.com/mobilebone/2.6.1/mobilebone.min',
@@ -147,6 +147,7 @@ requirejs.config({
         swiper:['css!https://cdn.bootcss.com/Swiper/3.4.2/css/swiper.min.css']
 	}
 });
+require.config({urlArgs:"v=1.00"});
 (function () {
     if(window['adaptive']){
         window['adaptive'].desinWidth = 640;
