@@ -39,7 +39,7 @@
         <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="147" column="5" lean-forward="true" selection-start-line="147" selection-start-column="5" selection-end-line="147" selection-end-column="5" />
+              <caret line="147" column="6" lean-forward="false" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
               <folding>
                 <element signature="e#47#5582#0" expanded="false" />
                 <element signature="e#5590#6595#0" expanded="false" />
@@ -514,14 +514,7 @@
       <workItem from="1499689435156" duration="275000" />
       <workItem from="1500083632695" duration="28000" />
       <workItem from="1500296919863" duration="1077000" />
-      <workItem from="1500418895972" duration="21000" />
-    </task>
-    <task id="LOCAL-00114" summary="Weblib">
-      <created>1491631513282</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1491631513282</updated>
+      <workItem from="1500418895972" duration="31000" />
     </task>
     <task id="LOCAL-00115" summary="Weblib">
       <created>1491632222122</created>
@@ -859,11 +852,18 @@
       <option name="project" value="LOCAL" />
       <updated>1500297423741</updated>
     </task>
-    <option name="localTasksCounter" value="163" />
+    <task id="LOCAL-00163" summary="Weblib">
+      <created>1500418926642</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1500418926644</updated>
+    </task>
+    <option name="localTasksCounter" value="164" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104305000" />
+    <option name="totallyTimeSpent" value="104315000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -916,6 +916,15 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/lib/webLib/user/shusc/pageTask/pageTask.js" />
+        <option value="$PROJECT_DIR$/js/lib/webLib/user/shusc/pageTask/pageTask.js.map" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -1255,7 +1264,7 @@
     <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
-          <caret line="147" column="5" lean-forward="true" selection-start-line="147" selection-start-column="5" selection-end-line="147" selection-end-column="5" />
+          <caret line="147" column="6" lean-forward="false" selection-start-line="147" selection-start-column="6" selection-end-line="147" selection-end-column="6" />
           <folding>
             <element signature="e#47#5582#0" expanded="false" />
             <element signature="e#5590#6595#0" expanded="false" />
