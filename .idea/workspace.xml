@@ -4,6 +4,8 @@
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/desktop/src/js/lib/webLib/requireconfig.js" afterPath="$PROJECT_DIR$/desktop/src/js/lib/webLib/requireconfig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-page/src/js/lib/webLib/requireconfig.js" afterPath="$PROJECT_DIR$/single-page/src/js/lib/webLib/requireconfig.js" />
     </list>
     <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,8 +41,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="92">
-                <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+              <first_editor relative-caret-position="291">
+                <caret line="124" column="38" lean-forward="false" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -77,8 +79,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Weblib/commonCSS/weui-less/weui.less" />
-        <option value="$PROJECT_DIR$/Weblib/commonCSS/weui-less/weui.css" />
         <option value="$PROJECT_DIR$/Weblib/require.js" />
         <option value="$PROJECT_DIR$/Weblib/public/plus/requirejsplus/md.txt" />
         <option value="$PROJECT_DIR$/Weblib/user/shusc/CommFn.js" />
@@ -127,6 +127,8 @@
         <option value="$PROJECT_DIR$/css/base/user/shusc/adpPage.less" />
         <option value="$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
         <option value="$PROJECT_DIR$/js/lib/webLib/esl.js" />
+        <option value="$PROJECT_DIR$/single-page/src/js/lib/webLib/requireconfig.js" />
+        <option value="$PROJECT_DIR$/desktop/src/js/lib/webLib/requireconfig.js" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -526,14 +528,7 @@
       <workItem from="1500296919863" duration="1077000" />
       <workItem from="1500418895972" duration="415000" />
       <workItem from="1501384176727" duration="590000" />
-      <workItem from="1501386319814" duration="1278000" />
-    </task>
-    <task id="LOCAL-00120" summary="Weblib">
-      <created>1491744078290</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1491744078306</updated>
+      <workItem from="1501386319814" duration="1425000" />
     </task>
     <task id="LOCAL-00121" summary="Weblib">
       <created>1491915800911</created>
@@ -871,11 +866,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501387040393</updated>
     </task>
-    <option name="localTasksCounter" value="169" />
+    <task id="LOCAL-00169" summary="Weblib">
+      <created>1501387604217</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1501387604217</updated>
+    </task>
+    <option name="localTasksCounter" value="170" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106567000" />
+    <option name="totallyTimeSpent" value="106714000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -991,8 +993,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Weblib/css/webCss/style.scss" />
-    <entry file="file://$PROJECT_DIR$/Weblib/README.md" />
     <entry file="file://$PROJECT_DIR$/css/webCss/Base/Base.css" />
     <entry file="file://$PROJECT_DIR$/css/webCss/style.css" />
     <entry file="file://$PROJECT_DIR$/css/webCss/Base/Base.scss" />
@@ -1287,6 +1287,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/desktop/src/js/lib/webLib/requireconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2603">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-page/src/js/lib/webLib/requireconfig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2695">
+          <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="1570">
@@ -1295,8 +1311,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="92">
-            <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <first_editor relative-caret-position="291">
+            <caret line="124" column="38" lean-forward="false" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
             <folding />
           </first_editor>
           <second_editor />

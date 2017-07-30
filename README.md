@@ -122,6 +122,7 @@
  		3.user 存放成员的自定义的插件或者库
 
         4.更新日志
+        2017.7.30  更改文件夹结构 为日常workflow
         2017.7.19  新增 用于amd 加载的 组件 esl 百度 https://github.com/ecomfe/esl
         2017.7.10  新增 artTemplate 用于模板渲染 https://aui.github.io/art-template/
         2017.7.9   增加axios 用于 promise ajax加载

@@ -2,10 +2,10 @@ requirejs.config({
     baseUrl:"../js",
 	paths:{
 		//核心库
-        jquery:'https://cdn.bootcss.com/jquery/2.2.4/jquery.min',
+        jquery:'https://cdn.bootcss.com/jquery/3.2.1/jquery.min',
         jqueryOne:'https://cdn.bootcss.com/jquery/1.12.4/jquery.min',
         jqueryTwo:'https://cdn.bootcss.com/jquery/2.2.4/jquery.min',
-        Vue:"https://cdn.bootcss.com/vue/2.3.4/vue.min",
+        Vue:"https://cdn.bootcss.com/vue/2.4.2/vue.min",
         VueOne:'https://cdn.bootcss.com/vue/1.0.28/vue.min',
         backbone:"https://cdn.bootcss.com/backbone.js/1.3.3/backbone-min",
 
@@ -17,7 +17,7 @@ requirejs.config({
         // Vue插件
         Vuex:"https://cdn.bootcss.com/vuex/2.3.1/vuex.min",
         Vresource:["https://cdn.bootcss.com/vue-resource/1.3.4/vue-resource.min"],
-        Vrouter:["https://cdn.bootcss.com/vue-router/2.6.0/vue-router.min"],
+        Vrouter:["https://cdn.bootcss.com/vue-router/2.7.0/vue-router.min"],
 
         core:"lib/webLib/public/core/core",
         h5core:"lib/webLib/public/core/H5core",
