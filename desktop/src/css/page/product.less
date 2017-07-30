@@ -1,0 +1,225 @@
+.productPage{
+  .swiper-pagination{
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+
+    &-switch{
+      width: 20px;
+      height: 8px;
+      background: #fff;
+      display: inline-block;
+      border-radius: 5px;
+      margin-left: 10px;
+      cursor: pointer;
+      transition: all 0.3s;
+
+      &:first-child{
+        margin-left: 0px;
+      }
+    }
+    .swiper-active-switch{
+      background-color: #df0000;
+    }
+  }
+}
+
+@height:500px;
+
+.product-main{
+  padding: 55px 0;
+  width: 100%;
+  height: @height;
+
+  .main{
+    margin: 0 auto;
+    width: 1180px;
+    height: 100%;
+
+    .goodsinforBox{
+      position: absolute;
+      left: 0;
+      top:0;
+      width: 100%;
+      height: 100%;
+      &-wrapper{
+        position: relative;
+      }
+      &-loading{
+        height: 500px;
+        line-height: 500px;
+        width: 100%;
+        text-align: center;
+        position: absolute;
+        left: 0;
+        top:0;
+        color: #333;
+      }
+    }
+
+    &-wrapper{
+      height: 100%;
+      width: 1160px;
+      margin: 0 auto;
+    }
+    &-pic{
+      width: 485px;
+      height: 100%;
+
+      &-swiper {
+        height: 330px;
+        overflow:hidden;
+        position: relative;
+      }
+      .swiper-goods{
+        width: 100%;
+        height: 330px;
+        text-align: center;
+        .img{
+          display: table-cell;
+          vertical-align: middle;
+          width: 80%;
+          height: 80%;
+        }
+      }
+
+
+
+      .swiper-leftArrow{
+        position: absolute;
+        left: 20px;
+        top:45%;
+        font-size: 34px;
+        cursor: pointer;
+        color: #666;
+        z-index: 10086;
+        &:hover{
+          opacity: 0.7;
+        }
+      }
+      .swiper-rightArrow{
+        position: absolute;
+        right: 20px;
+        top:45%;
+        font-size: 34px;
+        cursor: pointer;
+        color: #666;
+        z-index: 10086;
+        &:hover{
+          opacity: 0.7;
+        }
+      }
+
+      .goodsinforBox-text{
+        margin-top: 10px;
+        height: 130px;
+        width: 100%;
+        color: #333;
+        overflow: hidden;
+        position: relative;
+        p{
+          line-height: 24px;
+          text-indent: 34px;
+        }
+      }
+    }
+    &-list{
+      width: 640px;
+      height: 100%;
+      position: relative;
+
+      &-wrapper{
+        width: 100%;
+        height: 100%;
+      }
+
+      &-item{
+        width: 190px;
+        height: 160px;
+        float: left;
+        margin-right: 27px;
+
+
+        &:hover{
+          .item-text{
+            color: #c00505;
+          }
+        }
+
+        .item-img{
+          width: 188px;
+          height: 123px;
+          border: 1px solid #fff;
+          border-radius: 3px;
+          background: rgba(0,0,0,0.1);
+          background-repeat: no-repeat;
+          background-position: 50%;
+        }
+
+        .item-text{
+          height: 35px;
+          line-height: 35px;
+          text-align: center;
+          color: #222;
+          letter-spacing:2px;
+          transition: all 0.3s;
+          .omit();
+        }
+
+        &:nth-child(3),&:nth-child(6),&:nth-child(9){
+          margin-right: 0;
+        }
+        &:nth-child(n+4){
+          margin-top: 16px;
+        }
+      }
+
+      .Pagnation{
+        width: 640px;
+        height: 30px;
+        line-height: 30px;
+        position: absolute;
+        bottom: -55px;
+        text-align: center;
+
+        span{
+          display: inline-block;
+          width: 30px;
+          height: 30px;
+          text-align: center;
+          background: rgba(0,0,0,0.1);
+          margin-left: 5px;
+          color:#fff;
+          &:hover{
+            background: #c00505;
+            cursor: pointer;
+          }
+
+          &:last-child{
+            width: 60px;
+            color: #fff;
+            background: rgba(0,0,0,0.1);
+          }
+          &:first-child{
+            width: 60px;
+            background: rgba(0,0,0,0.1);
+            color: #fff;
+          }
+        }
+
+        .active{
+          background: #c00505;
+        }
+      }
+    }
+  }
+}
+
+.fade-enter-active {
+  animation: fadeIn .5s;
+}
+.fade-leave-active {
+  animation: fadeOut .5s;
+}
+
+

@@ -1,0 +1,119 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>联系我们</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <!--加载requirejs-->
+    <!-- build:js ../js/vendor.js -->
+    <script src="../js/vendor/require.min.js"></script>
+    <script src="../js/lib/lib.js"></script>
+    <!-- endbuild -->
+    <script src="../js/component/vuecomponent.js"></script>
+    <script src="../js/lib/webLib/requireconfig.js"></script>
+    <script charset="utf-8" src="http://map.qq.com/api/js?v=2.exp"></script>
+    <link rel="stylesheet" type="text/css" href="../css/style-index.css" />
+    <link rel="stylesheet" href="../../dev/css/style-index.css">
+
+    <!--[if lt IE 9]>
+        <style>article,aside,dialog,footer,header,section,footer,nav,figure,menu{display:block}</style>
+        <script src="https://cdn.bootcss.com/html5shiv/r29/html5.min.js"></script>
+    <![endif]-->
+</head>
+<body class="contactUsPage Page">
+<% include template/c-headnav.html %>
+
+<!--companyCenter-main 开始-->
+<section class="contactUs-main" >
+
+    <div class="main">
+
+        <div class="main-titleBox clearfix">
+
+            <div class="main-titleBox-item pull-left">
+
+                <div class="item-wrapper">
+
+                    <h3>公司地址:</h3>
+
+                    <p data-omit="38">我们的地址是:深圳市南山科技园南区R2-B三楼步步高R2-B三楼步步高R2-B三楼步步高R2-B三楼步步高R2-B三楼步步高 R2-B三楼步步高R2-B三楼步步高</p>
+
+                </div>
+
+            </div>
+
+            <div class="main-titleBox-item pull-left ML-100">
+
+                <div class="item-wrapper">
+
+                    <h3>联系方式:</h3>
+
+                    <p data-omit="38">联系电话:1234-5678-910</p>
+
+                    <p>E-mail:shusc234@qq.com</p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div class="main-mapbox MT-80">
+            <div class="mapbox">
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<script>
+    require(['jquery','lodash','vue','pagination2'],function ($,_,Vue,pagination) {
+        var pageMod = (function () {
+            var Dom = {
+                omit:$("[data-omit]")
+            };
+            function omit(){
+                Dom.omit.each(function (index,item) {
+                    var ele = $(item);
+                    var limit = ele.data()['omit'];
+                    ele.text(_.truncate(ele.text(),{
+                        'length': limit,
+                    }))
+                })
+            }
+            function initMap(){
+                var n = new qq.maps.LatLng(39.90194, 116.69037),
+                    a = {
+                        zoom: 18,
+                        center: n,
+                        mapTypeId: qq.maps.MapTypeId.ROADMAP
+                    },
+                    e = new qq.maps.Map(document.querySelector(".main-mapbox .mapbox"), a);
+                new qq.maps.Marker({
+                    position: n,
+                    map: e
+                });
+                new qq.maps.Label({
+                    position: n,
+                    map: e,
+                    content: "我们的地址"
+                })
+            }
+            function main(){
+                omit();
+                initMap();
+            }
+            main()
+        })()
+    })
+</script>
+
+
+<!--companyCenter-main 结束-->
+
+<% include template/c-footer.html %>
+
+</body>
+</html>

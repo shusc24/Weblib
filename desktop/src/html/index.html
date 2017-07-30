@@ -1,0 +1,95 @@
+<!DOCTYPE HTML>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <!--加载requirejs-->
+    <!-- build:js ../js/vendor.js -->
+    <script src="../js/vendor/require.min.js"></script>
+    <script src="../js/lib/lib.js"></script>
+    <!-- endbuild -->
+    <script src="../js/component/vuecomponent.js"></script>
+    <script src="../js/lib/webLib/requireconfig.js"></script>
+    <script charset="utf-8" src="http://map.qq.com/api/js?v=2.exp"></script>
+    <link rel="stylesheet" type="text/css" href="../css/style-index.css" />
+    <link rel="stylesheet" href="../../dev/css/style-index.css">
+
+    <!--[if lt IE 9]>
+    <style>article,aside,dialog,footer,header,section,footer,nav,figure,menu{display:block}</style>
+    <script src="https://cdn.bootcss.com/html5shiv/r29/html5.min.js"></script>
+    <![endif]-->
+</head>
+<body class="homepage Page">
+<% include template/c-headnav.html %>
+
+<!--homepage-main 开始-->
+<section class="homepage-main" >
+    <div class="main" id="main">
+        <img src="../img/home/homepage_06.png" alt="" class="main-logo">
+        <img src="../img/home/homepage_07.png" alt="" class="main-text">
+        <img src="../img/home/homepage_09.png" alt="" class="main-text2">
+        <div class="main-text3">
+            <img src="../img/home/homepage_10.png" alt="" class="">
+        </div>
+        <div class="main-text4">
+            <img src="../img/home/homepage-12.png" alt="">
+        </div>
+        <img src="../img/home/homepage-11.png" class="main-text5" alt="">
+    </div>
+</section>
+
+<script>
+    require(['lib','velocityUi'],function (lib) {
+        var $ = lib.$;
+        var pageMod = (function () {
+            var Dom = {
+                main:$("#main"),
+            };
+            function Animaite(){
+                //动画序列
+                var Mysequence = [
+                    {
+                        e:Dom.main.find(".main-logo"),
+                        p:{
+                            opacity:1,
+                            top:0
+                        },
+                        o:{duration:700,easing:"ease"}
+                    },{
+                        e:Dom.main.find(".main-text"),
+                        p:'transition.slideLeftBigIn',
+                        o:{duration:700,easing:"ease"}
+                    },{
+                        e:Dom.main.find(".main-text2"),
+                        p:'transition.slideRightBigIn',
+                        o:{duration:700,easing:"ease"}
+                    },{
+                        e:Dom.main.find(".main-text3"),
+                        p:{
+                            width:630
+                        },
+                        o:{duration:1000,easing:"easeInExpo"}
+                    },{
+                        e:Dom.main.find(".main-text5,.main-text4"),
+                        p:"transition.shrinkIn",
+                        o:{duration:600,delay: 500}
+                    }
+                ];
+                $.Velocity.RunSequence(Mysequence);
+            }
+            function main() {
+                Animaite()
+            }
+            main()
+        })()
+    })
+</script>
+<!--homepage-main 结束-->
+
+<% include template/c-footer.html %>
+
+</body>
+</html>
