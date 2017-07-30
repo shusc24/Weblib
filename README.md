@@ -1,13 +1,13 @@
 
-该库基于AMD
+日常用的工作流  tmt-workflow的定制版本 
+    
+    1.使用amd 方式加载块(包括Amd)    
 1.使用说明
-    1.1 放在标准路径: 根目录/lib/Weblib
-    1.2 页面引入 requirejs 文件及 requireconfig 文件
-    1.3 兼容性 ie9
-        PS:(swiper IE10)
+    1.安装全局 
+    2.进入各个项目安装 (具体命令查看 package.json 或者 gulp)
 2.目录说明
-    目录：根目录/lib/webLib
-          根目录/css/webCss
+    目录：1.single-page 为单页面 模板 vue vue-router
+         2.desktop 为桌面模板 
 
 	1.说明：该库存放通用的js 插件，库，框架 和 css 部分的基本构建组件
 
