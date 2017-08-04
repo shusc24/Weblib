@@ -68,6 +68,7 @@ var paths = {
         sprite: './tmp/sprite',
         js: './tmp/js',
         svg: './tmp/svg',
+        other:'./tmp/other',
         symboltemp: './tmp/symboltemp/',
         symbol: './tmp/symbolsvg'
     },
@@ -109,9 +110,11 @@ module.exports = function(gulp, config) {
         file = file || paths['src'][type];
         if(type !== "other"){
             return gulp.src(file)
+               
                 .pipe(gulp.dest(paths.dist.dir))
         }else{
             return gulp.src(file)
+                .pipe(gulp.dest(paths.tmp.other))
                 .pipe(gulp.dest(paths.dist.other))
         }
     };
@@ -239,10 +242,11 @@ module.exports = function(gulp, config) {
 
     //html 编译
     function compileHtml() {
+        copyOther()
         return gulp.src(paths.src.html)
             .pipe(ejs(ejshelper()))
             .pipe(gulpif(
-                config.supportREM,
+                config.supportREM, 
                 posthtml(
                     posthtmlPx2rem({
                         rootValue: 20,
