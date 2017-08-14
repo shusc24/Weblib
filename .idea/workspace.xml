@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-page/src/js/component/vueCompoents.ts" afterPath="$PROJECT_DIR$/single-page/src/js/component/vueCompoents.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-page/src/js/lib/webLib/user/shusc/CommFn.js" afterPath="$PROJECT_DIR$/single-page/src/js/lib/webLib/user/shusc/CommFn.js" />
     </list>
     <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -550,14 +548,7 @@
       <workItem from="1501384176727" duration="590000" />
       <workItem from="1501386319814" duration="1953000" />
       <workItem from="1501388950583" duration="48000" />
-      <workItem from="1502698200121" duration="98000" />
-    </task>
-    <task id="LOCAL-00122" summary="Weblib">
-      <created>1491915838170</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1491915838170</updated>
+      <workItem from="1502698200121" duration="105000" />
     </task>
     <task id="LOCAL-00123" summary="Weblib">
       <created>1493729240223</created>
@@ -895,11 +886,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501387751611</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="Weblib">
+      <created>1502698303718</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1502698303718</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107388000" />
+    <option name="totallyTimeSpent" value="107395000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -912,9 +910,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="425" y="94" width="1932" height="859" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13562006" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13562006" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49578503" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37898937" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03988604" sideWeight="0.49367756" order="7" side_tool="false" content_ui="tabs" />
