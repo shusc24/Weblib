@@ -23,8 +23,7 @@ define(['jquery'], function($) {
 		}
 		return theRequest;
 	};
-	
-	
+
 	/* supportCSS 方法
 		 
 		 * 简介:检测浏览器是否支持css的属性 重要都是带有前缀的

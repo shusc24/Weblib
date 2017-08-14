@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/desktop/src/js/lib/webLib/requireconfig.js" afterPath="$PROJECT_DIR$/desktop/src/js/lib/webLib/requireconfig.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-page/src/js/lib/webLib/requireconfig.js" afterPath="$PROJECT_DIR$/single-page/src/js/lib/webLib/requireconfig.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-page/src/js/component/vueCompoents.ts" afterPath="$PROJECT_DIR$/single-page/src/js/component/vueCompoents.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/single-page/src/js/lib/webLib/user/shusc/CommFn.js" afterPath="$PROJECT_DIR$/single-page/src/js/lib/webLib/user/shusc/CommFn.js" />
     </list>
     <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,15 +36,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="291">
-                <caret line="124" column="38" lean-forward="false" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="CommFn.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/single-page/src/js/lib/webLib/user/shusc/CommFn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="104" column="4" lean-forward="true" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#260#548#0" expanded="false" />
+                <element signature="e#552#690#0" expanded="false" />
+                <element signature="e#726#1427#0" expanded="false" />
+                <element signature="e#1474#1842#0" expanded="false" />
+                <element signature="e#1869#2647#0" expanded="false" />
+                <element signature="e#2716#3334#0" expanded="false" />
+                <element signature="e#3523#4170#0" expanded="false" />
+                <element signature="e#4190#4344#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vueCompoents.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/single-page/src/js/component/vueCompoents.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+              <folding>
+                <marker date="1502698265401" expanded="true" signature="1216:1486" ph="..." />
+                <marker date="1502698265401" expanded="true" signature="1261:1360" ph="..." />
+                <marker date="1502698265401" expanded="true" signature="1288:1337" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,8 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Weblib/require.js" />
-        <option value="$PROJECT_DIR$/Weblib/public/plus/requirejsplus/md.txt" />
         <option value="$PROJECT_DIR$/Weblib/user/shusc/CommFn.js" />
         <option value="$PROJECT_DIR$/Weblib/public/core/md.txt" />
         <option value="$PROJECT_DIR$/Weblib/commonCSS/Base/rwdgrid.min.scss" />
@@ -130,6 +148,8 @@
         <option value="$PROJECT_DIR$/single-page/src/js/lib/webLib/requireconfig.js" />
         <option value="$PROJECT_DIR$/desktop/src/js/lib/webLib/requireconfig.js" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/single-page/src/js/lib/webLib/user/shusc/CommFn.js" />
+        <option value="$PROJECT_DIR$/single-page/src/js/component/vueCompoents.ts" />
       </list>
     </option>
   </component>
@@ -147,8 +167,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="364" />
-    <option name="y" value="124" />
+    <option name="x" value="425" />
+    <option name="y" value="94" />
     <option name="width" value="1932" />
     <option name="height" value="859" />
   </component>
@@ -209,7 +229,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
-    <property name="last_opened_file_path" value="J:/flow/desktop" />
+    <property name="last_opened_file_path" value="E:/project/测试" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -528,14 +548,9 @@
       <workItem from="1500296919863" duration="1077000" />
       <workItem from="1500418895972" duration="415000" />
       <workItem from="1501384176727" duration="590000" />
-      <workItem from="1501386319814" duration="1425000" />
-    </task>
-    <task id="LOCAL-00121" summary="Weblib">
-      <created>1491915800911</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1491915800912</updated>
+      <workItem from="1501386319814" duration="1953000" />
+      <workItem from="1501388950583" duration="48000" />
+      <workItem from="1502698200121" duration="98000" />
     </task>
     <task id="LOCAL-00122" summary="Weblib">
       <created>1491915838170</created>
@@ -873,11 +888,18 @@
       <option name="project" value="LOCAL" />
       <updated>1501387604217</updated>
     </task>
-    <option name="localTasksCounter" value="170" />
+    <task id="LOCAL-00170" summary="Weblib">
+      <created>1501387751611</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1501387751611</updated>
+    </task>
+    <option name="localTasksCounter" value="171" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106714000" />
+    <option name="totallyTimeSpent" value="107388000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -889,27 +911,26 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="364" y="124" width="1932" height="859" extended-state="0" />
-    <editor active="true" />
+    <frame x="425" y="94" width="1932" height="859" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13562006" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13562006" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49578503" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37898937" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.040756915" sideWeight="0.49367756" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21786493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.03988604" sideWeight="0.49367756" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24969697" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49789253" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12118019" sideWeight="0.5039106" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22234637" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21786493" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.49789253" order="6" side_tool="false" content_ui="tabs" />
@@ -993,89 +1014,20 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/webCss/Base/Base.css" />
-    <entry file="file://$PROJECT_DIR$/css/webCss/style.css" />
-    <entry file="file://$PROJECT_DIR$/css/webCss/Base/Base.scss" />
     <entry file="file://$PROJECT_DIR$/css/webCss/page/pageStyle.scss" />
     <entry file="file://$PROJECT_DIR$/css/webCss/style.scss" />
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/mobilebone/mobilebone.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-9480">
-          <caret line="18" column="3" lean-forward="false" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/require.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="0" column="17629" lean-forward="true" selection-start-line="0" selection-start-column="17629" selection-end-line="0" selection-end-column="17629" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/require.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-32492">
-          <caret line="410" column="69" lean-forward="true" selection-start-line="410" selection-start-column="69" selection-end-line="410" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/mobilebone/mobilebone.js" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/require.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/require.js" />
     <entry file="file://$PROJECT_DIR$/css/style-index.css" />
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/user/shusc/Validator/Validator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/user/shusc/Validator/VaildatorStrategies.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="54" lean-forward="true" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/laytpl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="69" lean-forward="false" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/base/public/Font-Awesome/css/font-awesome.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/更新日志.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/gulp/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/user/shusc/Validator/Validator.js" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/user/shusc/Validator/VaildatorStrategies.js" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.css" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.min.js" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/layui/lay/modules/laytpl.js" />
+    <entry file="file://$PROJECT_DIR$/css/base/public/Font-Awesome/css/font-awesome.less" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/layui-v1.0.7/更新日志.txt" />
+    <entry file="file://$PROJECT_DIR$/js/lib/gulp/package.json" />
     <entry file="file://$USER_HOME$/.WebStorm2017.1/webstorm64.exe.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1083,77 +1035,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/base/public/purecss/grids-responsive-min.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/base/public/purecss/pure-min.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/base/public/rest/Normalize.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/base/Base.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/helpers/helpers.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/helpers/functions.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/base/public/purecss/grids-responsive-min.less" />
+    <entry file="file://$PROJECT_DIR$/css/base/public/purecss/pure-min.less" />
+    <entry file="file://$PROJECT_DIR$/css/base/public/rest/Normalize.less" />
+    <entry file="file://$PROJECT_DIR$/css/base/Base.less" />
+    <entry file="file://$PROJECT_DIR$/css/helpers/helpers.less" />
+    <entry file="file://$PROJECT_DIR$/css/helpers/functions.less" />
     <entry file="file://$PROJECT_DIR$/css/page/pageStyle.less" />
-    <entry file="file://$PROJECT_DIR$/css/vendors/fonticon/iconfont.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/vendors/swiper.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4584">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/vendors/flow.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/pc.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/css/vendors/fonticon/iconfont.less" />
+    <entry file="file://$PROJECT_DIR$/css/vendors/swiper.less" />
+    <entry file="file://$PROJECT_DIR$/css/vendors/flow.less" />
+    <entry file="file://$PROJECT_DIR$/html/pc.html" />
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -1161,137 +1053,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/gulp/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2185">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/user/sgf/navSwitch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/user/shusc/juge/juge.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/html/H5.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style-index.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/smartphoto.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/page/home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3097">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/artTemplate/artTemplate.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/base/user/shusc/adpPage.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/component/component.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/helpers/mixins.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7906">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/helpers/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="148" column="3" lean-forward="true" selection-start-line="148" selection-start-column="3" selection-end-line="148" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/webLib/esl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="7638" lean-forward="false" selection-start-line="0" selection-start-column="7638" selection-end-line="0" selection-end-column="7638" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lib/lib.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/component/vuePageCompoent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/component/vueCompoent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lib/gulp/gulpfile.js" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/user/sgf/navSwitch.js" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/user/shusc/juge/juge.js" />
+    <entry file="file://$PROJECT_DIR$/html/H5.html" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/flow/flow.js" />
+    <entry file="file://$PROJECT_DIR$/css/style-index.less" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/smartPhoto/js/smartphoto.css" />
+    <entry file="file://$PROJECT_DIR$/js/page/home.js" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/public/plus/artTemplate/artTemplate.js" />
+    <entry file="file://$PROJECT_DIR$/css/base/user/shusc/adpPage.less" />
+    <entry file="file://$PROJECT_DIR$/css/component/component.less" />
+    <entry file="file://$PROJECT_DIR$/css/helpers/mixins.less" />
+    <entry file="file://$PROJECT_DIR$/css/helpers/variables.less" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/requireconfig.js" />
+    <entry file="file://$PROJECT_DIR$/js/lib/webLib/esl.js" />
+    <entry file="file://$PROJECT_DIR$/js/lib/lib.js" />
+    <entry file="file://$PROJECT_DIR$/js/component/vuePageCompoent.js" />
+    <entry file="file://$PROJECT_DIR$/js/component/vueCompoent.js" />
     <entry file="file://$PROJECT_DIR$/desktop/src/js/lib/webLib/requireconfig.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2603">
           <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1299,7 +1082,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2695">
           <caret line="22" column="47" lean-forward="true" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1311,11 +1093,58 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="291">
-            <caret line="124" column="38" lean-forward="false" selection-start-line="124" selection-start-column="38" selection-end-line="124" selection-end-column="38" />
-            <folding />
+          <first_editor relative-caret-position="184">
+            <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-page/src/js/lib/webLib/user/shusc/CommFn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="104" column="4" lean-forward="true" selection-start-line="104" selection-start-column="4" selection-end-line="104" selection-end-column="4" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#260#548#0" expanded="false" />
+            <element signature="e#552#690#0" expanded="false" />
+            <element signature="e#726#1427#0" expanded="false" />
+            <element signature="e#1474#1842#0" expanded="false" />
+            <element signature="e#1869#2647#0" expanded="false" />
+            <element signature="e#2716#3334#0" expanded="false" />
+            <element signature="e#3523#4170#0" expanded="false" />
+            <element signature="e#4190#4344#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desktop/src/js/component/vuecomponent.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1499926637936" expanded="true" signature="5048:6323" ph="..." />
+            <marker date="1499926637936" expanded="true" signature="5104:5241" ph="..." />
+            <marker date="1499926637936" expanded="true" signature="5293:5672" ph="..." />
+            <marker date="1499926637936" expanded="true" signature="5359:5636" ph="..." />
+            <marker date="1499926637936" expanded="true" signature="5488:5596" ph="..." />
+            <marker date="1499926637936" expanded="true" signature="5724:6122" ph="..." />
+            <marker date="1499926637936" expanded="true" signature="5792:6086" ph="..." />
+            <marker date="1499926637936" expanded="true" signature="5947:6046" ph="..." />
+            <marker date="1499926637936" expanded="true" signature="6184:6300" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/single-page/src/js/component/vueCompoents.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <marker date="1502698265401" expanded="true" signature="1216:1486" ph="..." />
+            <marker date="1502698265401" expanded="true" signature="1261:1360" ph="..." />
+            <marker date="1502698265401" expanded="true" signature="1288:1337" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

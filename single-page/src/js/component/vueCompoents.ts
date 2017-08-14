@@ -4,6 +4,14 @@ define('jqueryUtil',['jquery'],function ($) {
             if($(`${id}`).length === 0){
                 $(`<style id="${id}"></style>`).html(css).appendTo(to || $("head"))
             }
+        },
+        animateCss: function (animationName,fn) {
+            var animationEnd = 'webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend';
+            this.addClass('animated ' + animationName).one(animationEnd, function() {
+                $(this).removeClass('animated ' + animationName);
+                if(fn instanceof Function){fn.apply(this,null)}
+            });
+            return this;
         }
     })
 });
