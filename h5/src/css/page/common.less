@@ -1,0 +1,24 @@
+.page-loading{
+  position: fixed;
+  top:0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img{
+    width: 2rem;
+  }
+}
+
+html body{
+  overflow-x: hidden;
+}
+
+.pagefade-enter-active {
+  animation: fadeIn 1s;
+}
+.pagefade-leave-active {
+  animation: fadeOut 1s reverse;
+}

@@ -1,0 +1,144 @@
+.c-top-menu{
+  height: 3.2rem;
+  width: 100%;
+  position: relative;
+  background: rgba(0,0,0,0.3);
+  .menu{
+
+    &-title{
+      position: absolute;
+      height: 0.74rem;
+      width: 100%;
+      top:0;
+      left: 0;
+      z-index: 10086;
+      display: flex;
+
+      &-wrapper{
+        display: flex;
+        justify-content: space-between;
+        align-items:center;
+        height: 100%;
+        width: 100%;
+        padding: 0 2%;
+
+        .title-logo{
+          width: 1.82rem;
+        }
+
+        .iconfont{
+          color: #fff;
+          font-size: 0.28rem;
+        }
+      }
+    }
+
+    &-Swiper{
+      height: 3.2rem;
+      width: 100%;
+
+      img{
+        width: 100%;
+        height: 3.2rem;
+      }
+    }
+
+    &-bottom{
+      height:0.1rem;
+      width: 100%;
+      background: rgba(255,255,255,0.3);
+      position: absolute;
+      bottom:0;
+      left: 0;
+      z-index: 10086;
+    }
+
+    &-list{
+      width: 100%;
+      height: 100%;
+      position: fixed;
+      top:0;
+      bottom:0;
+      left: 0;
+      right: 0;
+      background: rgba(0,0,0,0.8);
+      z-index: 100099;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .icon-guanbi{
+        position: absolute;
+        top: 0.2rem;
+        right: 0.2rem;
+        color: #fff;
+      }
+
+      &-main{
+        font-size: 0.32rem;
+        a{
+          color: #fff;
+        }
+        text-align: center;
+        line-height: 0.6rem;
+      }
+    }
+  }
+}
+
+.fade-enter-active, .fade-leave-active {
+  transition: opacity .5s
+}
+.fade-enter, .fade-leave-to /* .fade-leave-active in below version 2.1.8 */ {
+  opacity: 0
+}
+
+.c-foonter{
+  padding: 0.46rem 0.35rem 0.35rem 0.35rem;
+  height: 3.04rem;
+  width: 100%;
+  background: #333;
+  .footer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    &-left{
+      width: 3.24rem;
+      height: 100%;
+      img{
+        width: 1.9rem;
+      }
+
+      &-main{
+        transform: scale(0.7);
+        width: 130%;
+        position: absolute;
+        color: #878787;
+      }
+    }
+    &-right{
+      width: 1.16rem;
+      height: 100%;
+      position: relative;
+
+      &-logo{
+        width: 1.07rem;
+        height: 1.07rem;
+        img{
+          width: 100%;
+          height: 100%;
+        }
+      }
+
+      &-note{
+        transform: scale(0.7);
+        width: 150%;
+        position: absolute;
+        color: #878787;
+        left: -0.32rem;
+      }
+    }
+  }
+}
