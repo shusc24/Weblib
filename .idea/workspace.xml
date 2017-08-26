@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="55728e01-b971-48f4-9ff7-49736dbf810e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_js/js/lib/webLib/user/shusc/3dslider/mk-3Dcarousel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_js/js/lib/webLib/user/shusc/3dslider/mk-3Dcarousel.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_js/js/lib/webLib/user/shusc/3dslider/mk-3Dcarousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_js/js/lib/webLib/user/shusc/3dslider/mk-3Dcarousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project_js/js/lib/webLib/user/shusc/3dslider/readme.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project_js/js/lib/webLib/user/shusc/pageAdp/pageAdp.js" afterPath="$PROJECT_DIR$/project_js/js/lib/webLib/user/shusc/pageAdp/pageAdp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="WebstormProjects2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,7 +34,21 @@
     <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="210">
+                <caret line="123" column="14" lean-forward="true" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -113,13 +122,13 @@
         <option value="$PROJECT_DIR$/js/lib/webLib/esl.js" />
         <option value="$PROJECT_DIR$/single-page/src/js/lib/webLib/requireconfig.js" />
         <option value="$PROJECT_DIR$/desktop/src/js/lib/webLib/requireconfig.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/single-page/src/js/lib/webLib/user/shusc/CommFn.js" />
         <option value="$PROJECT_DIR$/single-page/src/js/component/vueCompoents.ts" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/project_js/js/plus/utils.ts" />
         <option value="$PROJECT_DIR$/project_js/js/lib/webLib/user/shusc/pageAdp/pageAdp.js" />
         <option value="$PROJECT_DIR$/project_js/js/lib/webLib/user/shusc/3dslider/readme.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -530,14 +539,7 @@
       <workItem from="1503582098611" duration="104000" />
       <workItem from="1503584351205" duration="631000" />
       <workItem from="1503621535896" duration="191000" />
-      <workItem from="1503709894601" duration="409000" />
-    </task>
-    <task id="LOCAL-00130" summary="Weblib">
-      <created>1494806792823</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1494806792824</updated>
+      <workItem from="1503709894601" duration="479000" />
     </task>
     <task id="LOCAL-00131" summary="Weblib">
       <created>1494808176474</created>
@@ -875,11 +877,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503582186214</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="Weblib">
+      <created>1503710313347</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1503710313348</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="110856000" />
+    <option name="totallyTimeSpent" value="110926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -892,9 +901,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="291" y="136" width="1525" height="859" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21639785" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21639785" sideWeight="0.4960894" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827586" sideWeight="0.49578503" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37898937" sideWeight="0.50632244" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.037845705" sideWeight="0.49367756" order="7" side_tool="false" content_ui="tabs" />
@@ -1115,21 +1125,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="1570">
-          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/project_js/js/plus/utils.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -1209,6 +1204,22 @@
             <element signature="e#2975#3350#0" expanded="false" />
             <marker date="1503651345960" expanded="true" signature="753:895" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="1570">
+          <caret line="112" column="0" lean-forward="false" selection-start-line="112" selection-start-column="0" selection-end-line="112" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="210">
+            <caret line="123" column="14" lean-forward="true" selection-start-line="123" selection-start-column="14" selection-end-line="123" selection-end-column="14" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
