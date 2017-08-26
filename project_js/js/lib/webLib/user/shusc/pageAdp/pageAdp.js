@@ -38,20 +38,20 @@ define(['Vue'],function(Vue){
 						this.htmlData.initialScale = htmlScale;
 					}
 				}
-			})
+			});
 			
 			//绑定事件 load 和 resize
 			window.addEventListener('load',function(){
 				htmlApp.autoAdp();
-			})
+			});
 
 			window.addEventListener('resize',function () {
 				htmlApp.autoAdp();
-			})
+			});
 			
 			return htmlApp;
 		},
-	}
+	};
 
 	return AdpPage
-})
+});
