@@ -125,7 +125,9 @@ requirejs.config({
         //sideout
         slideout:'https://cdn.bootcss.com/slideout/1.0.1/slideout.min',
 
-        layzr:'https://cdn.bootcss.com/layzr.js/2.2.2/layzr.min'
+        layzr:'https://cdn.bootcss.com/layzr.js/2.2.2/layzr.min',
+
+        smartPhoto:"lib/webLib/public/plus/smartphoto/js/smartphoto.min"
 
     },
 	shim:{
@@ -148,7 +150,8 @@ requirejs.config({
         lightbox:['css!https://cdn.bootcss.com/lightbox2/2.9.0/css/lightbox.min.css'],
         velocityUi:['velocity'],
         Marquee:['jquery'],
-        swiper:['css!https://cdn.bootcss.com/Swiper/3.4.2/css/swiper.min.css']
+        swiper:['css!https://cdn.bootcss.com/Swiper/3.4.2/css/swiper.min.css'],
+        smartPhoto:['css!../other/smartPhoto/smartphoto.min.css']
 	}
 });
 (function () {
